@@ -1,0 +1,774 @@
+[
+    {
+        "triples": [],
+        "sentence": "This can translate into global effects on cellular health and differentiation state.  Recently, several reports have identified crucial roles for miRNAs in controlling the production, differentiation, and health of myelinating cells of the mammalian nervous system.  As single miRNAs are often predicted to target up to hundreds of individual transcripts, miRNAs are able to broadly affect the overall protein expression state of the cell.  In this review, we will discuss how individual miRNAs regulate these various processes, and also how miRNA production in general is required for several stages of myelin generation and maintenance.    MicroRNAs (miRNAs) are a class of small (approx. 22 nt) noncoding RNAs that are capable of post-transcriptionally silencing mRNAs that contain sequences complementary to the miRNAs' 7- to 8-bp 'seed' sequence.  MicroRNAs in oligodendrocyte and Schwann cell differentiation.  "
+    },
+    {
+        "triples": [
+            "miRNA-128|Specific_miRNAs-Diseases|glioma",
+            "miRNA-128|Specific_miRNAs-Diseases|GBM",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|ARP5",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|ANGPTL6",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|Bmi-1",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|angiopoietin-related growth factor protein 5",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|ARP5",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|ANGPTL6",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|Bmi-1",
+            "miRNA-128|Specific_miRNAs-Diseases|tumor",
+            "miRNA-128|Specific_miRNAs-Diseases|glioblastoma multiforme",
+            "miRNA-128|Specific_miRNAs-Diseases|GBM",
+            "Micro-RNA-128|Specific_miRNAs-Diseases|glioblastoma",
+            "Micro-RNA-128|Specific_miRNAs-Genes/Proteins|ARP5",
+            "Micro-RNA-128|Specific_miRNAs-Genes/Proteins|ANGPTL6",
+            "Micro-RNA-128|Specific_miRNAs-Genes/Proteins|Bmi-1",
+            "miRNA-128|Specific_miRNAs-Diseases|glioblastoma",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|ARP5",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|ANGPTL6",
+            "miRNA-128|Specific_miRNAs-Genes/Proteins|Bmi-1"
+        ],
+        "sentence": "Our data suggests that down-regulation of miRNA-128 may contribute to glioma and GBM, in part, by coordinately up-regulating ARP5 (ANGPTL6), Bmi-1 and E2F-3a, resulting in the proliferation of undifferentiated GBM cells.    Addition of exogenous miRNA-128 to CRL-1690 and CRL-2610 GBM cell lines (a) restored 'homeostatic' ARP5 (ANGPTL6), Bmi-1 and E2F-3a expression, and (b) significantly decreased the proliferation of CRL-1690 and CRL-2610 cell lines.  Three bioinformatics-verified miRNA-128 targets, angiopoietin-related growth factor protein 5 (ARP5; ANGPTL6), a transcription suppressor that promotes stem cell renewal and inhibits the expression of known tumor suppressor genes involved in senescence and differentiation, Bmi-1, and a transcription factor critical for the control of cell-cycle progression, E2F-3a, were found to be up-regulated.  The down-regulation of miRNA-128 was found to inversely correlate with WHO tumor grade.  High density micro-RNA (miRNA) arrays, fluorescent-reporter miRNA assay and Northern miRNA dot-blot analysis show that a brain-enriched miRNA-128 is significantly down-regulated in glioblastoma multiforme (GBM) and in GBM cell lines when compared to age-matched controls.  Micro-RNA-128 (miRNA-128) down-regulation in glioblastoma targets ARP5 (ANGPTL6), Bmi-1 and E2F-3a, key regulators of brain cell proliferation.  "
+    },
+    {
+        "triples": [],
+        "sentence": "Follow up functional enrichment analysis of these FFLs uncovered some functions important to carcinogenesis but also some unique functions specific to the FFLs we identified.    Transcriptional aberrations may play a vital role in the etiology of glioblastoma, which might be caused by both genomic alterations and other regulation molecules.  Illustrating the functions being disturbed during carcinogenesis and how they are deregulated is very important for us to understand its underlying mechanism.  We searched glioblastoma-specific regulatory networks by integrating glioblastoma related miRNAs, TFs and genes, and identified 54 feed-forward loops (FFLs).  In this study, we investigated possible cooperative deregulation of microRNAs (miRNAs) and transcription factors (TFs) in glioblastoma, under the hypothesis that miRNAs and TFs might have a combinational regulatory effect on glioblastoma genes.  Glioblastoma is the most common and most lethal brain tumour in humans.  Gene regulation in glioblastoma: a combinatorial analysis of microRNAs and transcription factors.  "
+    },
+    {
+        "triples": [],
+        "sentence": "Although microRNAs are expressed extensively in the central nervous system in physiological and pathological conditions, their expression in neurological disorder of epilepsy has not been well characterized.  Expression profile of microRNAs in rat hippocampus following lithium-pilocarpine-induced status epilepticus.   Rat MicroRNA array and differential analysis had detected 19 up-regulated microRNAs and 7 down-regulated microRNAs in rat hippocampus, and four randomly selected deregulated microRNAs (microRNA-34a, microRNA-22, microRNA-125a, microRNA-21) were confirmed by qRT-PCR, then their expression alterations in rat peripheral blood were analyzed.  Here we investigated microRNA expression pattern in post status epilepticus rats (24h after status).  Thus, our results have not only characterized the microRNA expression profile in post status epilepticus rat hippocampus but also demonstrated that some rat hippocampal microRNAs were probably associated with rat peripheral blood microRNAs.  We found that these four deregulated microRNAs were also differentially expressed in rat peripheral blood, and trends for their blood expression alterations were just the same as their counterparts in rat hippocampus.  Moreover, targets of these deregulated microRNAs were analyzed using bioinformatics and the identified enriched MAPK pathway and long-term potentiation pathway might have been involved in molecular mechanisms concerning neuronal death, inflammation and epileptogenesis.   "
+    },
+    {
+        "triples": [
+            "miRNA|Non-Specific_miRNAs-Diseases|neurological diseases"
+        ],
+        "sentence": "The study of this novel layer of gene regulation therefore promises to enrich our knowledge of brain function and pathology.    MiRNAs function at all stages of neuronal development, ranging from the initial specification of neuronal cell types to the formation and plasticity of synaptic connections between individual neurons.  Moreover, links between miRNA dysfunction and neurological diseases become more and more apparent.  The development and function of the nervous system is orchestrated by a plethora of gene regulatory mechanisms.  MicroRNAs (miRNAs), an abundant class of small non-coding RNAs, are emerging as important post-transcriptional regulators of gene expression in the brain.  MicroRNA function in neuronal development, plasticity and disease.  "
+    },
+    {
+        "triples": [],
+        "sentence": "Mice deficient in cystathionine beta synthase display altered homocysteine remethylation pathway.   In order to show the effects of CBS deficiency onto the activity of the enzymes involved in the remethylation pathway, we used the well characterized genetic model of severe hyperhomocysteinemia in mice.  Cystathionine beta synthase (CBS) deficiency is a metabolic disorder that is biochemically characterized by severe hyperhomocysteinemia.  We showed that CBS deficiency in mice reduced hepatic methionine synthase and betaine-homocysteine methyltransferase activities, whereas 5,10-methylene tetrahydrofolate reductase activity was increased.   "
+    },
+    {
+        "triples": [
+            "miR-21|Specific_miRNAs-Genes/Proteins|caspase 9",
+            "miR-21|Specific_miRNAs-Genes/Proteins|caspase 9",
+            "miR-21|Specific_miRNAs-Genes/Proteins|TIMP3",
+            "miR-21|Specific_miRNAs-Diseases|glioma",
+            "miR-21|Specific_miRNAs-Diseases|gliomas"
+        ],
+        "sentence": "Reduction of miR-21 induces glioma cell apoptosis via activating caspase 9 and 3.  Extensive data indicate that miR-21 plays a critical role in gliomagenesis, however, knowledge is limited on the mechanism of action of miR-21, including cell proliferation, apoptosis, and migration.  Moreover, reduction of miR-21 activated caspase 9 and 3, which may be mediated by modulating multiple potential target genes, such as TIMP3.  In this study, we showed that down-regulation of miR-21 expression by antisense oligonucleotides inhibited glioma cell proliferation and induced cell apoptosis.  Together, these findings indicate that miR-21 plays a key role in regulating cell apoptosis in gliomas and may serve as a target for effective therapies.   "
+    },
+    {
+        "triples": [],
+        "sentence": "The emerging therapeutic role of RNA interference in disorders of the central nervous system.     "
+    },
+    {
+        "triples": [
+            "miRNA-210|Specific_miRNAs-Diseases|stroke",
+            "miRNA-210|Specific_miRNAs-Diseases|stroke",
+            "MiR-210|Specific_miRNAs-Diseases|stroke"
+        ],
+        "sentence": "MicroRNA-210 as a novel blood biomarker in acute cerebral ischemia.   MicroRNA-210 (miR-210), a master and pleiotropic hypoxia-microRNA, plays multiple roles in brain ischemia.  However, miR-210 expression and its function in humans have not been explored.  The aim of our study is to evaluate the correlation of blood miR-210 with clinical findings in acute ischemic stroke.  Blood samples were obtained from stroke patients (n=112) and healthy controls (n= 60).  MiR-210 was measured at within 3, 7 and 14 days after stroke using a quantitative PCR technique.  Stroke severity and clinical outcome were evaluated by NIHSS and modified Rankin Score.  Both blood and brain miR-210 in ischemic mice was examined and the correlation was investigated.  Compared to healthy controls, blood miRNA-210 was significantly decreased in stroke patients (0.93 vs. 1.36; P=0.001), especially at 7 days (0.56 vs. 1.36; P=0.001) and 14 days of stroke onset (0.50 vs. 1.36; P=0.001).  The cut off point of miR-210 in diagnosis was 0.505 with 88.3 per cent sensitivity.  MiR-210 level in stroke patients with good outcome was significantly higher than patients with poor outcome (1.2 vs. 0.44; P=0.012).  The correlation between blood and brain miR-210 in ischemic mice was positive (R2=0.57, P=0.001).  Blood miR-210 is a novel sensitive biomarker for clinical diagnosis and prognosis in acute cerebral ischemia.   "
+    },
+    {
+        "triples": [
+            "miR-433|Specific_miRNAs-Genes/Proteins|FGF20",
+            "miR-433|Specific_miRNAs-Genes/Proteins|alpha-synuclein"
+        ],
+        "sentence": "In particular, SNP rs12720208 in the 3' untranslated region (3' UTR) was linked to PD-risk through a mechanism that would implicate a differential binding to microRNA-433 (miR-433).  The reduction of the affinity of miR-433 to the 3' UTR would result in increased FGF20 expression and upregulation of alpha-synuclein, which could in turn promote dopaminergic neurons degeneration.  FGF20 rs12720208 SNP and microRNA-433 variation: no association with Parkinson's disease in Spanish patients.   DNA variation at the FGF20 gene has been associated with Parkinson's disease (PD).  In conclusion, our work did not confirm the association between rs12720208 and PD, or an effect of miR-433 variants on this disease.    None of the patients had miR-433 variants.  We did not find significant differences in allele and genotype frequencies between patients and controls.  We genotyped the rs12720208 SNP in a total of 512 PD patients and 258 healthy controls from Spain, and searched for miR-433 variants in the patients. "
+    },
+    {
+        "triples": [],
+        "sentence": "Blood collection for RNA studies is a new direction.  Genetic studies of longitudinal phenotypes hold promise for elucidating disease mechanisms and risk, development of therapeutic strategies, and refining selection criteria for clinical trials.    Genome-wide array data have been publicly released and updated, and several neuroimaging GWAS have recently been reported examining baseline magnetic resonance imaging measures as quantitative phenotypes.  Other preliminary investigations include copy number variation in mild cognitive impairment and Alzheimer's disease and GWAS of baseline cerebrospinal fluid biomarkers and longitudinal changes on magnetic resonance imaging.  The role of the Alzheimer's Disease Neuroimaging Initiative Genetics Core is to facilitate the investigation of genetic influences on disease onset and trajectory as reflected in structural, functional, and molecular imaging changes; fluid biomarkers; and cognitive status.  Major goals include (1) blood sample processing, genotyping, and dissemination, (2) genome-wide association studies (GWAS) of longitudinal phenotypic data, and (3) providing a central resource, point of contact and planning group for genetics within the Alzheimer's Disease Neuroimaging Initiative.  Alzheimer's Disease Neuroimaging Initiative biomarkers as quantitative phenotypes: Genetics core aims, progress, and plans.  "
+    },
+    {
+        "triples": [
+            "let-7|Specific_miRNAs-Genes/Proteins|apl-1",
+            "microRNAs|Non-Specific_miRNAs-Genes/Proteins|apl-1",
+            "microRNAs|Non-Specific_miRNAs-Genes/Proteins|amyloid precursor protein"
+        ],
+        "sentence": "Our work places apl-1 in a developmental timing pathway and may provide new insights into the time-dependent progression of AD.    Moreover, the levels of the apl-1 transcription are modulated by the activity of let-7 family microRNAs.  apl-1 expression is upregulated during the last larval stage in hypodermal seam cells which is transcriptionally regulated by hbl-1, lin-41 and lin-42.  On the other hand, the pathogenesis of amyloid plaque deposition in AD is thought to be the result of age-related changes with unknown mechanisms.  Here we show that the Caenorhabditis elegans homolog of APP, APP-like-1 (apl-1), functions with and is under the control of molecules regulating developmental progression.  In C. elegans, the timing of cell fate determination is controlled by the heterochronic genes, including let-7 microRNAs.  C. elegans apl-1 shows significant genetic interactions with let-7 family microRNAs and let-7-targeted heterochronic genes, hbl-1, lin-41 and lin-42.  The expression of the Alzheimer's amyloid precursor protein-like gene is regulated by developmental timing microRNAs and their targets in Caenorhabditis elegans.   Alzheimer's disease (AD) is a neurodegenerative disorder characterized by the accumulation of dense plaques in the brain, resulting in progressive dementia.  A major plaque component is the beta-amyloid peptide, which is a cleavage product of the amyloid precursor protein (APP).  Studies of dominant inheritable familial AD support the hypothesis that APP is critical for AD development. "
+    },
+    {
+        "triples": [],
+        "sentence": "In this review, we focus on studies addressing the role of various microRNAs in heart, muscle, liver, pancreas, central nervous system, and hematopoiesis.    Large numbers and quantities of different, small RNA molecules are present in the cytoplasm of animal and plant cells.  MicroRNAs in organogenesis and disease.   Since their discovery in the 1990s a multitude of basic information has accumulated, which has identified their function in post-transcriptional control, either via degradation or translational inhibition of target mRNAs.  One subclass of these molecules is represented by the noncoding microRNAs.  MicroRNA expression profiles are highly dynamic during embryonic development and in adulthood.  This function is in most of the cases a finetuning of gene expression, working in parallel with transcriptional regulatory processes.  Evidence from gain- and loss-of function studies indicates roles for microRNAs in pathophysiologic states including cardiac hypertrophy, muscle dystrophy, hepatitis infection, diabetes, Parkinson syndrome, hematological malignancies and other types of cancer.  Misexpression of microRNAs can perturb embryogenesis, organogenesis, tissue homeostasis and the cell cycle. "
+    },
+    {
+        "triples": [],
+        "sentence": "The proliferation inhibition and induced apoptosis by this recombinant with an apoptosis ratio of 21.89% in U87 cell were also observed.  The results of Western blot indicated the expression of Flag of No 1 recombinant plasmid group was inhibited heavily with a 34.3% expression level by compared with control group.  The expressed Flag protein was detected by Western blot to evaluate the inhibition effect of targeting sequences.  The confirmed pGCSIL-GFP recombinants by combining with pEGFP-miR-221 were transfected into 293T cells seperately.  RESULTS: The resulting recombinants were confirmed by sequencing which demonstrated that the recombinant plasmids contained the correct sequences of designed transcript templates.  Then a recombinant with the highest anti-miR-221 effect was screened and transfected into U87 glioma cell, and its anti-tumor effect was evaluated by MTT and FCM.  [Construction and screening an effective anti-miR-221 RNAi vector in vitro].   OBJECTIVE: To construct and screen an effective anti-miR-221 vector of siRNA.  METHODS: Four hairpin structure of siRNA transcript templates targeting miR-221 and a negative control were synthesized, then ligated with pGCSIL-GFP vector and a pEGFP-miR-221 which express pre-miR-221 was also constructed.  All the recombinants were sequenced.  CONCLUSION: The anti-miR-221 expression siRNA espression recombinants were constructed successfully, and one sequence with the highest inhibition efficiency was screened out, which could inhibit U87 cell proliferation and induce cell apoptosis, and could be used to suppress target gene for further study in tumor biology.   "
+    },
+    {
+        "triples": [
+            "microRNAs|Non-Specific_miRNAs-Genes/Proteins|EGF receptor",
+            "microRNAs|Non-Specific_miRNAs-Genes/Proteins|EGFR",
+            "MicroRNAs|Non-Specific_miRNAs-Diseases|cancer"
+        ],
+        "sentence": "These findings identify specific microRNAs as attenuators of growth factor signaling and oncogenesis.    In line with roles as suppressors of EGF receptor (EGFR) signaling, we report that the abundance of this early subset of microRNAs is decreased in breast and in brain tumors driven by the EGFR or the closely related HER2.  This step permitted rapid induction of oncogenic transcription factors, such as c-FOS, encoded by immediate early genes.  EGF decreases the abundance of microRNAs that restrain oncogenic transcription factors.   The earliest event involved a decrease in the abundance of a subset of 23 microRNAs.  Using genome-wide approaches, we showed that EGF stimulation initiates a coordinated transcriptional program of microRNAs and transcription factors.  MicroRNAs, which attenuate gene expression by binding complementary regions in messenger RNAs, are broadly implicated in cancer.  Epidermal growth factor (EGF) stimulates cells by launching gene expression programs that are frequently deregulated in cancer. "
+    },
+    {
+        "triples": [],
+        "sentence": "Regeneration of neuromuscular synapses: action of microRNA-206.     "
+    },
+    {
+        "triples": [],
+        "sentence": "The expression levels of most miRNAs were in accordance with previously published results by microarray.  Their frequency distribution was approximately a normal distribution.  However, the positive rate was higher than that detected by microarray.  [Profiling of microRNAs in mouse brain with real-time PCR array].   METHODS: Low molecular weight RNA from cerebrum of five C57BL/6J mice were tailed and reverse transcribed by extended RT-primer.  OBJECTIVE: To examine global expression levels of microRNAs(miRNAs) in mouse cerebrum and to provide an important basis for detailed studies of individual miRNAs, their target genes, the miRNA-related regulatory networks in the mammalian central nervous system, and their implications in diseases.  PCR was carried out at different annealing temperatures using a gradient real-time PCR instrument.  miRNA primers were carefully designed and arrayed on plates according to the Tm of each primer.  RESULTS: Among the 285 miRNAs detected, 260 were positive with varying abundance.  The relative expression level of each miRNA was calculated using 5sRNA for normalization.  Clusters of proximal miRNAs were similar or quite different in abundance.  miRNAs originating from the same hairpin precursors expressed at similar or significantly different levels.  It is suggested that the fate of miRNA after transcription determined their abundance.  CONCLUSION: Using the RNA-tailing and primer-extension PCR array method, we obtained expression profile of miRNA in mouse cerebrum, especially the relative expression data of many low abundant miRNA in mouse cerebrum, which will be of special help for studying the fine-tuning function of low-level miRNAs.   "
+    },
+    {
+        "triples": [
+            "microRNA|Non-Specific_miRNAs-Genes/Proteins|SRF",
+            "microRNA|Non-Specific_miRNAs-Genes/Proteins|myocardin",
+            "miRNA|Non-Specific_miRNAs-Genes/Proteins|SRF",
+            "miRNA|Non-Specific_miRNAs-Genes/Proteins|myocardin",
+            "miR-143|Specific_miRNAs-Genes/Proteins|SRF",
+            "miR-143|Specific_miRNAs-Genes/Proteins|myocardin",
+            "miR-145|Specific_miRNAs-Genes/Proteins|SRF",
+            "miR-145|Specific_miRNAs-Genes/Proteins|myocardin",
+            "miR-143|Specific_miRNAs-Genes/Proteins|SRF",
+            "miR-145|Specific_miRNAs-Genes/Proteins|SRF"
+        ],
+        "sentence": "Vascular injury triggers dedifferentiation and cytoskeletal remodeling of smooth muscle cells (SMCs), culminating in vessel occlusion.  MicroRNAs miR-143 and miR-145 modulate cytoskeletal dynamics and responsiveness of smooth muscle cells to injury.   Serum response factor (SRF) and its coactivator, myocardin, play a central role in the control of smooth muscle phenotypes by regulating the expression of cytoskeletal genes.  We show that SRF and myocardin regulate a cardiovascular-specific microRNA (miRNA) cluster encoding miR-143 and miR-145.  To assess the functions of these miRNAs in vivo, we systematically deleted them singly and in combination in mice.  Mice lacking both miR-143 and miR-145 are viable and do not display overt abnormalities in smooth muscle differentiation, although they show a significant reduction in blood pressure due to reduced vascular tone.  Remarkably, however, neointima formation in response to vascular injury is profoundly impeded in mice lacking these miRNAs, due to disarray of actin stress fibers and diminished migratory activity of SMCs.  These abnormalities reflect the regulation of a cadre of modulators of SRF activity and actin dynamics by miR-143 and miR-145.  Thus, miR-143 and miR-145 act as integral components of the regulatory network whereby SRF controls cytoskeletal remodeling and phenotypic switching of SMCs during vascular disease.   "
+    },
+    {
+        "triples": [],
+        "sentence": "This work represents the first experimental study showing that an miR-30-based shRNA construct prevents Oas1 pathway associated off-target effects, which we consider as an essential prerequisite for shRNA use in future gene therapeutic approaches.    Modification of the shRNA construct by implementing features of the naturally occurring microRNA-30 (miR-30) precursor avoided Oas1 induction in transduced primary cultures, whereby modification of the passenger strand seems to be a crucial feature to circumvent interferon-stimulated gene expression.  We found that lentiviral vector (LV)-mediated expression of shRNAs in primary cortical cultures resulted in strong expression of the interferon-stimulated gene oligoadenylate synthetase 1 (Oas1), which was accompanied by accelerated apoptosis and substantial net neuron loss.  Prevention of interferon-stimulated gene expression using microRNA-designed hairpins.   However, growing evidence exists that the expression of short hairpin RNAs (shRNAs) can trigger cellular immune response resulting in unspecific cellular phenotypes and severe side effects.  RNA interference allows selective gene silencing, and is widely used for functional analysis of individual genes in vertebrate cells and represents an attractive therapeutic option for treating central nervous system diseases. "
+    },
+    {
+        "triples": [
+            "mir-21|Specific_miRNAs-Genes/Proteins|Pdcd4",
+            "mir-21|Specific_miRNAs-Genes/Proteins|programmed cell death 4",
+            "mir-21|Specific_miRNAs-Genes/Proteins|Pdcd4",
+            "mir-21|Specific_miRNAs-Diseases|glioblastoma",
+            "mir-21|Specific_miRNAs-Diseases|glioblastoma",
+            "mir-21|Specific_miRNAs-Diseases|glioblastoma",
+            "mir-21|Specific_miRNAs-Diseases|glioblastoma",
+            "mir-21|Specific_miRNAs-Diseases|glioblastoma",
+            "mir-21|Specific_miRNAs-Genes/Proteins|Pdcd4",
+            "mir-21|Specific_miRNAs-Genes/Proteins|Pdcd4",
+            "mir-21|Specific_miRNAs-Diseases|glioblastoma",
+            "mir-21|Specific_miRNAs-Genes/Proteins|Pdcd4"
+        ],
+        "sentence": "MicroRNAs (miRNAs) are small, noncoding RNAs that play a critical role in developmental and physiological processes and are implicated in the pathogenesis of several human diseases, including cancer.  Downregulation of Pdcd4 by mir-21 facilitates glioblastoma proliferation in vivo.   In this study, we examined the role of oncogenic mir-21 in the pathogenesis of glioblastoma, the most aggressive form of primary brain tumor.  They function by regulating target gene expression post-transcriptionally.  We demonstrate that downregulation of mir-21 in glioblastoma-derived cell lines results in increased expression of its target, programmed cell death 4 (Pdcd4), a known tumor-suppressor gene.  We have previously reported that mir-21 is expressed at higher levels in primary glioblastoma-tissue and glioblastoma-derived cell lines than in normal brain tissue.  Using a glioblastoma xenograft model in immune-deficient nude mice, we observe that glioblastoma-derived cell lines in which mir-21 levels are downregulated or Pdcd4 is over-expressed exhibit decreased tumor formation and growth.  In addition, our data indicate that either downregulation of mir-21 or overexpression of its target, Pdcd4, in glioblastoma-derived cell lines leads to decreased proliferation, increased apoptosis, and decreased colony formation in soft agar.  Significantly, tumors grow when the glioblastoma-derived cell lines are transfected with anti-mir-21 and siRNA to Pdcd4, confirming that the tumor growth is specifically regulated by Pdcd4.  These critical in vivo findings demonstrate an important functional linkage between mir-21 and Pdcd4 and further elucidate the molecular mechanisms by which the known high level of mir-21 expression in glioblastoma can attribute to tumorigenesis--namely, inhibition of Pdcd4 and its tumor-suppressive functions.   "
+    },
+    {
+        "triples": [],
+        "sentence": "New insights into non-coding RNA networks in Huntington's disease.     "
+    },
+    {
+        "triples": [
+            "miRNAs|Non-Specific_miRNAs-Diseases|CNS damage",
+            "miRNAs|Non-Specific_miRNAs-Diseases|infection",
+            "miRNAs|Non-Specific_miRNAs-Diseases|CNS disease",
+            "miRNAs|Non-Specific_miRNAs-Diseases|CNS disease",
+            "miRNAs|Non-Specific_miRNAs-Diseases|CNS disease",
+            "miRNA|Non-Specific_miRNAs-Diseases|acute infection"
+        ],
+        "sentence": "Plasma miRNAs should be investigated further as leading indicators of HIV diseases as early as acute infection.    CONCLUSION: : Acute-phase differential expression of plasma miRNAs predicts CNS disease and suggests that CNS damage or predisposition to disease progression begins in the earliest phase of infection.  At least six miRNAs were significantly differentially expressed in individuals with severe versus no CNS disease; in an unweighted expression test, they predicted CNS disease.  miRNAs tracked with viral load and platelet count were also predictors of CNS disease.  OBJECTIVE: : Plasma microRNAs (miRNAs) are modulated during disease and are emerging biomarkers; they have not been characterized in HIV infection.  A plasma microRNA signature of acute lentiviral infection:  biomarkers of central nervous system disease.   miRNA expression was compared with levels of cytokines, virus, and plasma platelet count.  METHODS: : Plasma miRNA expression profiles were determined by TaqMan low-density array for six individuals.  DESIGN: : Plasma samples were obtained before inoculation and 10 days after inoculation from SIV-infected macaques.  Using our macaque/simian immunodeficiency virus (SIV) model of HIV, we sought to identify a plasma miRNA profile of acute lentiviral infection, evaluate its relationship with known cellular and viral determinants of lentivirus-associated central nervous system (CNS) disease, and explore the potential of miRNAs to predict CNS disease.  Several differentially expressed miRNAs correlated with CNS disease-associated cytokines interleukin-6 and CCL2 and included predicted and/or validated regulators of the corresponding mRNAs.  RESULTS: : A 45-miRNA signature of acute infection (differential expression with P < 0.05 after multiple comparison correction) classified plasma as infected or not.  Nineteen individuals were used to validate a disease prediction test.  miRNA results were confirmed by single miRNA-specific assays for 10 macaques. "
+    },
+    {
+        "triples": [],
+        "sentence": "Regulation of oligodendrocyte differentiation and myelination.   These recent advances provide new insight into how remyelination may be stimulated in demyelinating disorders such as multiple sclerosis.    Studies have also demonstrated an unexpected level of plasticity of myelin in the adult CNS.  Recent results have greatly advanced this understanding, identifying new transcriptional regulators of myelin gene expression, elucidating vital roles for microRNAs in controlling myelination, and clarifying the extracellular signaling mechanisms that orchestrate the development of myelin.  Despite the importance of myelin for the rapid conduction of action potentials, the molecular bases of oligodendrocyte differentiation and central nervous system (CNS) myelination are still incompletely understood. "
+    },
+    {
+        "triples": [
+            "miR-182|Specific_miRNAs-Diseases|malignant glioma",
+            "miR-182|Specific_miRNAs-Diseases|glioma",
+            "miR-182|Specific_miRNAs-Diseases|glioma",
+            "miR-182|Specific_miRNAs-Diseases|glioma tumors",
+            "miR-182|Specific_miRNAs-Diseases|glioma",
+            "miR-182|Specific_miRNAs-Diseases|human primary glioma"
+        ],
+        "sentence": "miR-182 as a prognostic marker for glioma progression and patient survival.   Taken together, our results suggest that miR-182 could be a valuable marker of glioma progression and that high miR-182 expression is associated with poor overall survival in patients with malignant glioma.    Moreover, the correlations of miR-182 level with the clinical features of glioma suggested in the in situ hybridization analysis were further verified by the real-time RT-PCR analysis.  The cumulative 5-year survival rate of glioma patients was 51.54% (95% confidence interval, 0.435 to 0.596) in the low miR-182-expression group, whereas it was only 7.23% (95% confidence interval, 0.027 to 0.118) in the high miR-182-expression group (P = 0.001), and multivariate Cox regression analysis indicated that miR-182 expression was an independent prognostic indicator for the survival of glioma patients.  Statistical analysis revealed a significant correlation between miR-182 expression and World Health Organization glioma grading (P < 0.001).  Elevated expression of miR-182 was further identified by in situ hybridization in 248 of 253 (98%) archived human glioma biopsies tested.  Quantitative PCR analysis showed that miR-182 was significantly increased by up to 32-fold in glioma tumors compared with the adjacent nontumor brain tissues obtained from the same patient.  We report that the expression level of miR-182 was markedly up-regulated in glioma cell lines and in human primary glioma specimens.  Accumulating evidence indicates that miRNA expression can be used as a diagnostic and prognostic marker for human cancers. "
+    },
+    {
+        "triples": [],
+        "sentence": "Leukodystrophy and gene therapy with a dimmer switch.     "
+    },
+    {
+        "triples": [
+            "MicroRNA-145|Specific_miRNAs-Diseases|vascular neointimal lesion",
+            "miR-145|Specific_miRNAs-Genes/Proteins|KLF5",
+            "miR-145|Specific_miRNAs-Diseases|vascular neointimal lesion"
+        ],
+        "sentence": "Recently, we have found that microRNA (miRNA) miR-145 is the most abundant miRNA in normal vascular walls and in freshly isolated VSMCs; however, the role of miR-145 in VSMC phenotypic modulation and vascular diseases is currently unknown.  Phenotypic modulation of vascular smooth muscle cells (VSMCs) plays a critical role in the pathogenesis of a variety of proliferative vascular diseases.  More importantly, both in cultured rat VSMCs in vitro and in balloon-injured rat carotid arteries in vivo, we demonstrate that the noncoding RNA miR-145 is a novel phenotypic marker and a novel phenotypic modulator of VSMCs.  Here we find that miR-145 is selectively expressed in VSMCs of the vascular wall and its expression is significantly downregulated in the vascular walls with neointimal lesion formation and in cultured dedifferentiated VSMCs.  MicroRNA-145, a novel smooth muscle cell phenotypic marker and modulator, controls vascular neointimal lesion formation.   These novel findings may have extensive implications for the diagnosis and therapy of a variety of proliferative vascular diseases.    We have further identified that miR-145-mediated phenotypic modulation of VSMCs is through its target gene KLF5 and its downstream signaling molecule, myocardin.  VSMC differentiation marker genes such as SM alpha-actin, calponin, and SM-MHC are upregulated by premiR-145 or adenovirus expressing miR-145 (Ad-miR-145) but are downregulated by the miR-145 inhibitor 2'OMe-miR-145.  We conclude that miR-145 is a novel VSMC phenotypic marker and modulator that is able of controlling vascular neointimal lesion formation.  Finally, restoration of miR-145 in balloon-injured arteries via Ad-miR-145 inhibits neointimal growth. "
+    },
+    {
+        "triples": [],
+        "sentence": "MicroRNAs and regenerative medicine.   Recently, researchers have demonstrated the crucial roles of microRNAs, not only in the differentiation and proliferation of stem cells, which have a key function in the regeneration and transplantation of organs, but also in oncogenesis.  In this paper, we review the prospects of microRNAs as future therapies in regenerative medicine.  The combination of microRNAs and regenerative medicine is an emerging interdisciplinary medical field that can yield exciting new possibilities for clinical medicine.  MicroRNAs, identified only relatively recently, are regulators of gene expression with potential medical benefits.  Further, microRNAs have been indicated to be involved in diverse biological processes, suggesting the potential role of these molecules in the treatment of diseases.    Several lines of indirect evidence show that the initiation and maintenance of cancer stem cells might also be under the control of microRNAs. "
+    },
+    {
+        "triples": [],
+        "sentence": "MicroRNAs in CNS injury: potential roles and therapeutic implications.     "
+    },
+    {
+        "triples": [],
+        "sentence": "Ameliorating amyotrophic lateral sclerosis.     "
+    },
+    {
+        "triples": [
+            "miRNA|Non-Specific_miRNAs-Diseases|VEEV infection",
+            "miRNAs|Non-Specific_miRNAs-Diseases|VEEV infected"
+        ],
+        "sentence": "Pathway analyses showed that majority of these miRNAs are involved in the neuronal development and function.  In this study, we report for the first time that VEEV infection in mice brain causes modulation of miRNA expression.  Target gene prediction of the modulated miRNAs correlates with our recently reported mRNA expression in VEEV infected mice brain.    Recent studies have shown that cellular miRNA plays a very important role in the pathogenesis of viral infection.  MicroRNAs (miRNA) are small RNA (approximately 22nts) molecules that are expressed endogenously in cells and play an important role in regulating gene expression.  VEEV is infectious in aerosol form and is a potential biothreat agent.  Venezuelan equine encephalitis virus (VEEV) is an RNA virus and is a member of the genus Alphavirus in the family Togaviridae.  Analysis of microRNAs induced by Venezuelan equine encephalitis virus infection in mouse brain.  "
+    },
+    {
+        "triples": [
+            "MiR-92b|Specific_miRNAs-Diseases|primary tumors",
+            "miR-9/9|Specific_miRNAs-Diseases|primary tumors",
+            "hsa-miR-9/hsa-miR-9|Specific_miRNAs-Diseases|brain primary tumors",
+            "hsa-miR-92b|Specific_miRNAs-Diseases|brain primary tumors",
+            "MicroRNAs|Non-Specific_miRNAs-Diseases|cancer",
+            "microRNAs|Non-Specific_miRNAs-Diseases|brain primary tumors"
+        ],
+        "sentence": "The accurate diagnosis of brain malignancies is essential for selection of proper treatment.  A recurring challenge for brain pathologists is to diagnose whether a brain malignancy is a primary tumor or a metastasis from some other tissue.  MiR-92b and miR-9/9* are specifically expressed in brain primary tumors and can be used to differentiate primary from metastatic brain tumors.   These microRNAs thus represent excellent biomarkers for brain primary tumors.  By considering the expression of only these two microRNAs, it is possible to distinguish between primary and metastatic brain tumors with very high accuracy.  Using microRNA expression profiling, we found that hsa-miR-92b and hsa-miR-9/hsa-miR-9* are over-expressed, specifically in brain primary tumors, as compared to primary tumors from other tissues and their metastases to the brain.  MicroRNAs are a class of small non-coding RNA species that regulate gene expression; many exhibit tissue-specific expression and are misregulated in cancer.  Previous reports have found that hsa-miR-92b and hsa-miR-9/hsa-miR-9* are expressed more strongly in developing neurons and brain than in adult brain.  Thus, their specific over-expression in brain primary tumors supports a functional role for these microRNAs or a link between neuronal stem cells and brain tumorigenesis.   "
+    },
+    {
+        "triples": [],
+        "sentence": "These findings call attention to the potential of microRNAs to provide etiologic insights as well as to serve as both diagnostic markers and therapeutic targets for many different tumor types.    Our results provide evidence that microRNA expression patterns may mark specific biological characteristics of tumors and/or mediate biological activities important for the pathobiology of malignant tumors.  Agglomerative hierarchical clustering analysis of microRNA expression revealed four groups among the NCI-60 cell lines consisting of hematologic, colon, central nervous system, and melanoma tumor-derived cell lines clustered in a manner that reflected their tissue of origin.  Most microRNAs were expressed at lower levels in tumor-derived cell lines compared with the corresponding normal tissue.  We also identified specific microRNA expression patterns that correlated with the proliferation indices of the NCI-60 cell lines, and we developed evidence for the identification of specific microRNAs as candidate oncogenes and tumor suppressor genes in different tumor types.  We identified specific subsets of microRNAs that provide candidate molecular signatures characteristic of the tumor-derived cell lines belonging to these four clusters.  They play a critical role in developmental and physiologic processes and are implicated in the pathogenesis of several human diseases including cancer.  MicroRNAs are small noncoding RNAs that function by regulating target gene expression posttranscriptionally.  To quantify microRNA expression, we employed a highly sensitive technique that uses stem-loop primers for reverse transcription followed by real-time PCR.  We examined the expression profiles of 241 human microRNAs in normal tissues and the NCI-60 panel of human tumor-derived cell lines.  Characterization of microRNA expression levels and their biological correlates in human cancer cell lines.  "
+    },
+    {
+        "triples": [],
+        "sentence": "Recent evidence suggests that both development and proper function of central nervous system require intricate spatiotemporal expression of a wide repertoire of small regulatory RNAs.  Increasingly complex networks of small RNAs act through RNA interference pathway to regulate gene expression.  Small regulatory RNAs in neurodevelopmental disorders.   Here, we will review recent progress made toward understanding roles of small regulatory RNAs in neurodevelopmental disorders and discuss the potential involvement of newly discovered classes of small RNAs in these disorders.    Misregulation of these small regulatory RNAs could contribute to the abnormalities in brain development that are associated with neurodevelopmental disorders. "
+    },
+    {
+        "triples": [],
+        "sentence": "MicroRNA expression profiling for molecular classification of pediatric brain tumors.     "
+    },
+    {
+        "triples": [],
+        "sentence": "These concepts will be explored in this article.    This encourages the idea that certain miRs allow continued tumor growth through the suppression of differentiation and the maintenance of the stem cell-like properties of tumor cells.  At the same time, it has become clear that one of the major roles that microRNAs play is in the regulation of stem cell biology, differentiation, and cell 'identity'.  Recent data draw close parallels between cancer, including glial brain tumors, and the biology of stem and progenitor cells.  Interestingly, initial studies in the incurable brain tumor glioblastoma multiforme strongly suggest that microRNAs involved in neural development play a role in this disease.  For example, microRNAs have been increasingly implicated in the regulation of neural differentiation.  MicroRNAs and glioblastoma; the stem cell connection.  "
+    },
+    {
+        "triples": [
+            "miR-223|Specific_miRNAs-Diseases|SCI",
+            "miR-223|Specific_miRNAs-Diseases|SCI"
+        ],
+        "sentence": "MicroRNA-223 expression in neutrophils in the early phase of secondary damage after spinal cord injury.   MicroRNA (miR)s are short non-coding RNAs that suppress the translation of target genes, and play an important role in gene regulation.  Despite this prominence, there are few reports that refer to the expression of miRs after spinal cord injury (SCI).  Previously, we reported on miR-223 expression after SCI in mice.  The purpose of this study is to reveal the distribution of miR-223 and identify the cells that express miR-223 in the injured spinal cord.  Quantitative polymerase chain reaction analysis revealed high expression of miR-223 at 12h after SCI. Double staining of in situ hybridization and immunohistochemistry showed that the signals of miR-223 merged with Gr-1 positive neutrophils.  Our data indicate that miR-223 might regulate neutrophils in the early phase after SCI.   "
+    },
+    {
+        "triples": [
+            "miR-124a|Specific_miRNAs-Diseases|GBM",
+            "microRNA|Non-Specific_miRNAs-Diseases|cancer",
+            "miRNA|Non-Specific_miRNAs-Diseases|cancer",
+            "miR-124a|Specific_miRNAs-Diseases|GBM",
+            "miR-124a|Specific_miRNAs-Genes/Proteins|IQGAP1",
+            "miR-124a|Specific_miRNAs-Genes/Proteins|IQ motif containing GTPase activating protein 1",
+            "miR-124a|Specific_miRNAs-Genes/Proteins|laminin γ1",
+            "miR-124a|Specific_miRNAs-Genes/Proteins|LAMC1",
+            "miR-124a|Specific_miRNAs-Genes/Proteins|integrin β1",
+            "miR-124a|Specific_miRNAs-Genes/Proteins|ITGB1",
+            "miR-124a|Specific_miRNAs-Diseases|glioblastoma"
+        ],
+        "sentence": "Our results suggest that miR-124a may play a role in GBM migration, and that targeted delivery of miR-124a may be a novel inhibitor of GBM invasion.    Glioblastoma (GBM) represents a formidable clinical challenge for both patients and treating physicians.  Due to better local treatments and prolonged patient survival, remote recurrences are increasingly observed, underpinning the importance of targeting tumour migration and attachment.  Aberrant expression of microRNA (miRNA) is commonly associated with cancer and loss of miR-124a has previously been implicated to function as a tumour suppressor.  The assessment of miR-124a in clinical specimens has been limited and a potential role in migration and invasion has been unexplored until now.  We measured the expression levels of mature miR-124a in a retrospective series of 119 cases of histologically confirmed GBM and found its expression was markedly lower in over 80% of the GBM clinical specimens compared to normal brain tissue.  The level of reduction in the clinical cohort varied significantly and patients with lower than the average miR-124a expression levels displayed shorter survival times.  Endogenous miR-124a expression and the protein expression of three of its targets; IQ motif containing GTPase activating protein 1 (IQGAP1), laminin γ1 (LAMC1) and integrin β1 (ITGB1) were significantly reciprocally associated in the majority of the clinical cases.  We confirmed this association in our in vitro model.  miR-124a is frequently down-regulated in glioblastoma and is involved in migration and invasion.   Functionally, the ectopic expression of mature miR-124a in a GBM cell line resulted in significant inhibition of migration and invasion, demonstrating a role for miR-124a in promoting tumour invasiveness. "
+    },
+    {
+        "triples": [],
+        "sentence": "Specificity, duplex degradation and subcellular localization of antagomirs.   Finally, we show that antagomirs, although incapable of silencing miRNAs in the central nervous system (CNS) when injected systemically, efficiently target miRNAs when injected locally into the mouse cortex.  Our data further validate the effectiveness of antagomirs in vivo and should facilitate future studies to silence miRNAs for functional analysis and in clinically relevant settings.    We demonstrate that antagomirs harbor optimized phosphorothioate modifications, require >19-nt length for highest efficiency and can discriminate between single nucleotide mismatches of the targeted miRNA.  Degradation of different chemically protected miRNA/antagomir duplexes in mouse livers and localization of antagomirs in a cytosolic compartment that is distinct from processing (P)-bodies indicates a degradation mechanism independent of the RNA interference (RNAi) pathway.  We recently demonstrated silencing miRNA function in mice using chemically modified and cholesterol-conjugated RNAs termed 'antagomirs'.  Here, we further characterize the properties and function of antagomirs in mice.  MicroRNAs (miRNAs) are an abundant class of 20-23-nt long regulators of gene expression.  The study of miRNA function in mice and potential therapeutic approaches largely depend on modified oligonucleotides. "
+    },
+    {
+        "triples": [],
+        "sentence": "Many of these pathways were first identified in genetic screens in Drosophila and other lower organisms.  In the last 20 years, it has become clear that developmental genes and their regulators, noncoding RNAs including microRNAs and long-noncoding RNAs, within signaling pathways play a critical role in the pathogenesis of cancer.  Genes and pathways expressed during embryonic development, including the Notch, Wnt/β-Catenin, TGF-β/BMP, Shh/Patched, and Hippo pathways are mutated, lost, or aberrantly regulated in a wide variety of human cancers, including skin, breast, blood, and brain cancers, including medulloblastoma.  Mammalian orthologs were subsequently identified and genes within the pathways cloned and found to regulate cell growth.  Cerebellum development and medulloblastoma.   Medulloblastoma, the most common malignant nervous system tumor in childhood, are thought to arise from disruptions in cerebellar development [reviewed by Marino, S. (2005)].  These biochemical pathways affect cell fate determination, axis formation, and patterning during development and regulate tissue homeostasis and regeneration in adults.  In this chapter, we will review the development of the cerebellar cortex, highlighting signaling pathways of potential relevance to tumorigenesis.    Defining the extracellular cues and intracellular signaling pathways that control cerebellar neurogenesis, especially granule cell progenitor (GCP) proliferation and differentiation has been useful for developing models to unravel the mechanisms underlying medulloblastoma formation and growth. "
+    },
+    {
+        "triples": [],
+        "sentence": "A specific miRNA signature in the peripheral blood of glioblastoma patients.   Biomarkers for the disease would be desirable in order to allow for an early detection of tumor progression or to indicate rapidly growing tumor subtypes requiring more intensive therapy.  The prognosis of patients afflicted by glioblastoma remains poor.  To this end, miRNA profiles from the blood of 20 patients with glioblastoma and 20 age- and sex-matched healthy controls were compared.  In this study, we investigated whether a blood-derived specific miRNA fingerprint can be defined in patients with glioblastoma.  Of these, two candidates, miR-128 (up-regulated) and miR-342-3p (down-regulated), remained significant after correcting for multiple testing by Benjamini-Hochberg adjustment with a p-value of 0.025.  Of 1158 tested miRNAs, 52 were significantly deregulated, as assessed by unadjusted Student's t-test at an alpha level of 0.05.  The altered expression of these two biomarkers was confirmed in a second cohort of glioblastoma patients and healthy controls by real-time PCR and validated for patients who had received neither radio- nor chemotherapy and for patients who had their glioblastomas resected more than 6 months ago.  Moreover, using machine learning, a comprehensive miRNA signature was obtained that allowed for the discrimination between blood samples of glioblastoma patients and healthy controls with an accuracy of 81% [95% confidence interval (CI) 78-84%], specificity of 79% (95% CI 75-83%) and sensitivity of 83% (95% CI 71-85%).  In summary, our proof-of-concept study demonstrates that blood-derived glioblastoma-associated characteristic miRNA fingerprints may be suitable biomarkers and warrant further exploration.   "
+    },
+    {
+        "triples": [
+            "mir-146a|Specific_miRNAs-Diseases|HIV-encephalitis",
+            "mir-146a|Specific_miRNAs-Diseases|HIVE",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|CCL8",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|MCP-2",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|MCP-2 chemokine",
+            "mir-146a|Specific_miRNAs-Diseases|infection with HIV-1",
+            "mir-146a|Specific_miRNAs-Diseases|infection with HIV-1",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|CCL8",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|MCP-2",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|chemokine CCL8",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|MCP-2",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|CCR5 chemokine receptor",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|CD4",
+            "mir-146a|Specific_miRNAs-Genes/Proteins|CCR5",
+            "Mir-146a|Specific_miRNAs-Diseases|chronic inflammation"
+        ],
+        "sentence": "The clinical relevance of our findings was evaluated in HIV-encephalitis (HIVE) brain samples in which decreased levels of MCP-2 and increased levels of mir-146a were observed, suggesting a role for mir-146a in the maintenance of HIV-mediated chronic inflammation of the brain.    We further show that CCL8/MCP-2 is a target for mir-146a in HIV-1 infected microglia, as overexpression of mir-146a prevented HIV-induced secretion of MCP-2 chemokine.  In the present study, we have analyzed changes in the expression of mir-146a in primary human fetal microglial cells upon infection with HIV-1 and found increased expression of mir-146a.  MicroRNA-mediated regulation of gene expression appears to be involved in a variety of cellular processes, including development, differentiation, proliferation, and apoptosis.  CCL8/MCP-2 is a target for mir-146a in HIV-1-infected human microglial cells.   Among the predicted gene targets for mir-146a, the chemokine CCL8/MCP-2 is a ligand for the CCR5 chemokine receptor and a potent inhibitor of CD4/CCR5-mediated HIV-1 entry and replication.  Mir-146a is thought to be involved in the regulation of the innate immune response, and its expression is increased in tissues associated with chronic inflammation. "
+    },
+    {
+        "triples": [
+            "miRNA|Non-Specific_miRNAs-Diseases|gliomas"
+        ],
+        "sentence": "We explored the role of microRNAs (miRNAs) in glioma progression by investigating the expression profiles of 157 miRNAs in four patients with primary WHO grade II gliomas that spontaneously progressed to WHO grade IV secondary glioblastomas.  Thereby, we identified 12 miRNAs (miR-9, miR-15a, miR-16, miR-17, miR-19a, miR-20a, miR-21, miR-25, miR-28, miR-130b, miR-140 and miR-210) showing increased expression, and two miRNAs (miR-184 and miR-328) showing reduced expression upon progression.  Identification and functional characterization of microRNAs involved in the malignant progression of gliomas.   Diffuse astrocytoma of World Health Organization (WHO) grade II has an inherent tendency to spontaneously progress to anaplastic astrocytoma WHO grade III or secondary glioblastoma WHO grade IV.  Taken together, our results support an important role of altered miRNA expression in gliomas, and suggest miR-17 and miR-184 as interesting candidates contributing to glioma progression.    Using mRNA and protein expression profiling, we identified distinct sets of transcripts and proteins that were differentially expressed after inhibition of miR-17 or overexpression of miR-184 in glioma cells.  These studies revealed miRNA-specific influences on the viability, proliferation, apoptosis and invasive growth properties of A172 and T98G glioma cells in vitro.  Validation experiments on independent series of primary low-grade and secondary high-grade astrocytomas confirmed miR-17 and miR-184 as promising candidates, which were selected for functional analyses. "
+    },
+    {
+        "triples": [
+            "MicroRNA-328|Specific_miRNAs-Diseases|cancers",
+            "MicroRNA-328|Specific_miRNAs-Diseases|glioblastoma multiforme",
+            "miR-328|Specific_miRNAs-Diseases|cancers",
+            "miR-328|Specific_miRNAs-Diseases|glioblastoma multiforme",
+            "miRNA-328|Specific_miRNAs-Genes/Proteins|ABCG2",
+            "miRNA-328|Specific_miRNAs-Genes/Proteins|ABCG2",
+            "miRNA-328|Specific_miRNAs-Genes/Proteins|ABCG2"
+        ],
+        "sentence": "MicroRNA-328 (miR-328) is underexpressed in many cancers including glioblastoma multiforme and contributes to tumor resistance to chemotherapy.  MicroRNAs control a wide array of biological processes (e.g., cell differentiation, proliferation and apoptosis) whose dysregulation is a hallmark of cancer.  ABCG2, which encodes an ATP-binding cassette transporter protein, is associated with the phenotype of cancer stem cells and is used to define the pluripotential side population cells by flow cytometry and slide-cytometry.  Downregulation of ABCG2 expression in glioblastoma cancer stem cells with miRNA-328 may decrease their chemoresistance.   Thus, we hypothesize that modulating ABCG2 expression by targeting miRNA-328 in glioblastoma cancer stem cells could represent a promising strategy for therapeutic manipulation to increase the efficacy of chemotherapeutic agents for glioblastoma, a highly lethal type of cancer.    ABCG2 is associated with multi-drug resistance and is also highly expressed in glioblastoma.  Some preliminary studies have shown that ABCG2 is the target gene for miRNA-328. "
+    },
+    {
+        "triples": [],
+        "sentence": "This is the first study suggesting that plasma miRs might be used as biomarkers for HD.    Huntington's disease (HD) is a devastating, neurodegenerative condition, which lacks effective treatment.  Hsa-miR-34b is a plasma-stable microRNA that is elevated in pre-manifest Huntington's disease.   Importantly, miRs are present in a bio-stable form in human peripheral blood plasma and have recently been shown to be useful biomarkers in other diseases.  Normal Huntingtin (HTT) and mutant Huntingtin (mHTT) are expressed in multiple tissues and can alter transcription of microRNAs (miRs).  In a cell line over-expressing mHTT-Exon-1, miR microarray analysis was used to identify candidate miRs.  We therefore sought to identify potential miR biomarkers of HD that are present in, and have functional consequences for, neuronal and non-neuronal tissues.  We found that miR-34b is significantly elevated in response to mHTT-Exon-1, and its blockade alters the toxicity of mHTT-Exon-1 in vitro.  We then examined their presence and bio-stability in control and HD plasma.  We also show that miR-34b is detectable in plasma from small input volumes and is insensitive to freeze-thaw-induced RNA degradation.  Interestingly, miR-34b is significantly elevated in plasma from HD gene carriers prior to symptom onset. "
+    },
+    {
+        "triples": [
+            "miR-196a|Specific_miRNAs-Diseases|NPC",
+            "miR-196b|Specific_miRNAs-Diseases|NPC",
+            "miR-296|Specific_miRNAs-Diseases|NPC",
+            "miRNAs|Non-Specific_miRNAs-Diseases|NPC",
+            "miRNAs|Non-Specific_miRNAs-Diseases|NPC",
+            "miR-98|Specific_miRNAs-Diseases|NPC",
+            "miRNA|Non-Specific_miRNAs-Diseases|NPC",
+            "miR-143|Specific_miRNAs-Diseases|NPC",
+            "miRNA|Non-Specific_miRNAs-Diseases|NPC"
+        ],
+        "sentence": "Additionally, gene ontology analyses of the target genes suggested a distinct role for each miRNA.  Our results show that NPC fibroblasts have an altered miRNA expression profile and certain miRNAs have importance in disease pathogenesis as well as the therapeutic capacity to correct lipid related pathophysiologies in the NPC cells.    Expression differences between the healthy and NPC cells were detected according to the relative quantification values.  Target genes were predicted by using three different algorithms and classified regarding NPC related biological processes and cellular components.  We found that three miRNAs, miR-196a, miR-196b and miR-296 were up-regulated (>3.5-fold increase, p<0.05) whereas 38 miRNAs were significantly down-regulated in NPC cells (>3.5-fold decrease, p<0.05).  Among these non-coding RNAs, miR-98 was the most down-regulated (-33.3-fold) miRNA and miR-143, the lipid biosynthesis associated miRNA, had a 20-fold decreased expression in the NPC cells.  Dysregulation of miRNA expression may lead to severe pathophysiologies in human cells.  Niemann-Pick type C (NPC) disease is a complex lipid storage disease characterized by late endosomal-lysosomal accumulation of multiple lipid molecules.  Our aim was to characterize the miRNA profile in NPC fibroblasts as they may play an active role in the NPC disease associated changes in the cellular physiology.  To investigate the miRNA expression, total RNAs were isolated from cultured human NPC fibroblasts and healthy fibroblasts and then, TaqMan Low-Density Array system containing 365 mature human miRNAs was used.  MicroRNAs (miRNAs) are non-coding RNAs that regulate gene expression at post-transcriptional level.  Niemann-Pick type C fibroblasts have a distinct microRNA profile related to lipid metabolism and certain cellular components.  "
+    },
+    {
+        "triples": [
+            "microRNA|Non-Specific_miRNAs-Diseases|neuroectodermal brain tumors",
+            "miR-517c and 520g|Specific_miRNAs-Diseases|primary CNS-PNET"
+        ],
+        "sentence": "Frequent amplification of a chr19q13.41 microRNA polycistron in aggressive primitive neuroectodermal brain tumors.   microRNA (miRNA) cluster (C19MC) in 11/45 ( approximately 25%) primary CNS-PNET, which results in striking overexpression of miR-517c and 520g.  We discovered a high-level amplicon involving the chr19q13.41  Remarkably, the C19MC amplicon, which is very rare in other brain tumors (1/263), identifies an aggressive subgroup of CNS-PNET with distinct gene-expression profiles, characteristic histology, and dismal survival.  Constitutive expression of miR-517c or 520g promotes in vitro and in vivo oncogenicity, modulates cell survival, and robustly enhances growth of untransformed human neural stem cells (hNSCs) in part by upregulating WNT pathway signaling and restricting differentiation of hNSCs.  Our data implicate miR-517c and 520g as oncogenes and promising biological markers for CNS-PNET and provide important insights into oncogenic properties of the C19MC locus.   "
+    },
+    {
+        "triples": [
+            "microRNAs|Non-Specific_miRNAs-Diseases|glioblastoma",
+            "miR-9|Specific_miRNAs-Diseases|glioblastoma",
+            "miR-9|Specific_miRNAs-Genes/Proteins|STAT3",
+            "microRNAs|Non-Specific_miRNAs-Diseases|glioblastoma"
+        ],
+        "sentence": "Our findings suggest that microRNAs are important determinants of glioblastoma subclasses through their ability to regulate developmental growth and differentiation programs in several transformed neural precursor cell types.  Foremost among these is miR-9, which suppresses mesenchymal differentiation in glioblastoma by downregulating expression of JAK kinases and inhibiting activation of STAT3.  Taken together, our results define developmental microRNA expression signatures that both characterize and contribute to the phenotypic diversity of glioblastoma subclasses, thereby providing an expanded framework for understanding the pathogenesis of glioblastoma in a human neurodevelopmental context.    These microRNA-based glioblastoma subclasses displayed microRNA and mRNA expression signatures resembling those of radial glia, oligoneuronal precursors, neuronal precursors, neuroepithelial/neural crest precursors, or astrocyte precursors.  In this study, we analyzed 261 microRNA expression profiles from The Cancer Genome Atlas (TCGA), identifying five clinically and genetically distinct subclasses of glioblastoma that each related to a different neural precursor cell type.  We also identified several microRNAs as potent regulators of subclass-specific gene expression networks in glioblastoma.  Each subclass was determined to be genetically distinct, based on the significant differences they displayed in terms of patient race, age, treatment response, and survival.  mRNA expression profiling has suggested the existence of multiple glioblastoma subclasses, but their number and characteristics vary among studies and the etiology underlying their development is unclear.  A developmental taxonomy of glioblastoma defined and maintained by MicroRNAs.  "
+    },
+    {
+        "triples": [
+            "miRNAs|Non-Specific_miRNAs-Diseases|vascular pathologies",
+            "miRNAs|Non-Specific_miRNAs-Diseases|atherosclerosis",
+            "miRNAs|Non-Specific_miRNAs-Diseases|inflammation",
+            "miRNAs|Non-Specific_miRNAs-Diseases|hypertension",
+            "miRNAs|Non-Specific_miRNAs-Diseases|neointimal hyperplasia",
+            "miRNAs|Non-Specific_miRNAs-Diseases|vascular disease"
+        ],
+        "sentence": "miRNAs are small, endogenously expressed noncoding RNAs that regulate gene expression, mainly at the post-transcriptional level, via degradation or translational inhibition of their target mRNAs.  Functionally, an individual miRNA can regulate the expression of multiple target genes.  miRNAs: roles and clinical applications in vascular disease.   The study of miRNAs is rapidly growing and recent studies have revealed a significant role of miRNAs in vascular biology and disease.  Many miRNAs are highly expressed in the vasculature, and their expression is dysregulated in diseased vessels.  Several miRNAs have been found to be critical modulators of vascular pathologies, such as atherosclerosis, lipoprotein metabolism, inflammation, arterial remodeling, angiogenesis, smooth muscle cell regeneration, hypertension, apoptosis, neointimal hyperplasia and signal transduction pathways.  Thus, miRNAs may serve as novel biomarkers and/or therapeutic targets for vascular disease.  This article summarizes the current studies related to the disease correlations and functional roles of miRNAs in the vascular system and discusses the potential applications of miRNAs in vascular disease.   "
+    },
+    {
+        "triples": [
+            "miR-221/222|Specific_miRNAs-Genes/Proteins|p27Kip1",
+            "miR-221/222|Specific_miRNAs-Genes/Proteins|p27Kip1",
+            "miR-221/222|Specific_miRNAs-Genes/Proteins|p27Kip1",
+            "miR-221/222|Specific_miRNAs-Diseases|gliomas",
+            "miR-221/222|Specific_miRNAs-Diseases|glioma",
+            "miR-221/222|Specific_miRNAs-Genes/Proteins|p27Kip1",
+            "miR-221/222|Specific_miRNAs-Diseases|human glioma",
+            "miR-221/222|Specific_miRNAs-Genes/Proteins|p27kip1",
+            "miRNA|Non-Specific_miRNAs-Diseases|cancers"
+        ],
+        "sentence": "Co-suppression of miR-221/222 directly resulted in the up-regulation of p27Kip1 in the tested cells, consequently, affects their growth potential by reducing a G1 to S shift in the cell cycle.  Consistently, miR-221/222 knocked-down through antisense 2'-OME-oligonucleotides increased p27Kip1 in U251 glioma subcutaneous mice and strongly reduced tumor growth in vivo through up regulation of p27Kip1.  Our results suggest that miR-221/222 is a regulator of the tumor suppressor gene p27Kip1, and co-suppression of miR-221/222 expression in advanced gliomas may inhibit glioma cell proliferation by a mechanism involving the up-regulation of p27Kip1 in vitro and in vivo.    Co-suppression of miR-221/222 cluster suppresses human glioma cell growth by targeting p27kip1 in vitro and in vivo.   MicroRNAs are short regulatory RNAs that negatively modulate protein expression at a post-transcriptional level.  Emerging evidence suggests that altered regulation of miRNA may be involved in the pathogenesis of several types of cancers.  In the current study, an inverse relationship between the expression of miR-221/miR-222 and the cell cycle inhibitor p27Kip1 was identified in U251 glioma cells. "
+    },
+    {
+        "triples": [
+            "miRNAs|Non-Specific_miRNAs-Diseases|glioblastoma",
+            "miRNA|Non-Specific_miRNAs-Diseases|glioma",
+            "microRNA|Non-Specific_miRNAs-Diseases|cancer"
+        ],
+        "sentence": "The therapy employed, in a single baculoviral vector, a glial fibrillary acidic protein (GFAP) gene promoter and the repeated target sequences of three miRNAs that are enriched in astrocytes but downregulated in glioblastoma cells to control the expression of the herpes simplex virus thymidine kinase (HSVtk) gene.  This resulted in significantly improved in vivo selectivity over the use of a control vector without miRNA regulation, enabling effective elimination of human glioma xenografts while producing negligible toxic effects on normal astrocytes.  In the context of cancer suicide gene therapy, this approach may lead to cytotoxic effects in both cancer and nontarget normal cells.  Considering microRNA (miRNA) function in post-transcriptional regulation of gene expression, we have developed a viral vector platform combining cellular promoter-based transcriptional targeting with miRNA regulation for a glioma suicide gene therapy in the mouse brain.  Thus, incorporating miRNA regulation into a transcriptional targeting vector adds an extra layer of security to prevent off-target transgene expression and should be useful for the development of gene delivery vectors with high targeting specificity for cancer therapy.    Transcriptional targeting using a tissue-specific cellular promoter is proving to be a powerful means for restricting transgene expression in targeted tissues.  Combinatorial control of suicide gene expression by tissue-specific promoter and microRNA regulation for cancer therapy.  "
+    },
+    {
+        "triples": [],
+        "sentence": "[AD-FTLD spectrum--new findings on risk genes in neurodegenerative diseases].     "
+    },
+    {
+        "triples": [
+            "miR-21|Specific_miRNAs-Genes/Proteins|STAT3",
+            "microRNA 21|Specific_miRNAs-Diseases|glioblastoma multiforme",
+            "microRNA 21|Specific_miRNAs-Diseases|GBM",
+            "microRNA 21|Specific_miRNAs-Diseases|cancer",
+            "miR-21|Specific_miRNAs-Diseases|glioblastoma multiforme",
+            "miR-21|Specific_miRNAs-Diseases|GBM",
+            "miR-21|Specific_miRNAs-Diseases|cancer",
+            "miR-21|Specific_miRNAs-Diseases|human GBM"
+        ],
+        "sentence": "Interestingly, the above data suggested that in both the PTEN mutant and the wild-type GBM cells, miR-21 blockage increased the chemosensitivity to taxol.  It is worth noting that the miR-21 inhibitor additively interacted with taxol on U251cells and synergistically on LN229 cells.  Furthermore, the miR-21 inhibitor significantly enhanced apoptosis in both U251 cells and LN229 cells, and cell invasiveness was obviously weakened.  The data strongly suggested that a regulatory loop between miR-21 and STAT3 might provide an insight into the mechanism of modulating EGFR/STAT3 signaling.  CONCLUSIONS: Taken together, the miR-21 inhibitor could enhance the chemo-sensitivity of human glioblastoma cells to taxol.  Thus, the miR-21 inhibitor might interrupt the activity of EGFR pathways, independently of PTEN status.  Meanwhile, the expression of STAT3 and p-STAT3 decreased to relatively low levels after miR-21 inhibitor and taxol treatment.  A combination of miR-21 inhibitor and taxol could be an effective therapeutic strategy for controlling the growth of GBM by inhibiting STAT3 expression and phosphorylation.    Expression of miR-21 was investigated by RT-PCR, and western blotting was performed to evaluate malignancy related protein alteration.  RESULTS: IC(50) values were dramatically decreased in cells treated with miR-21 inhibitor combine with taxol, to a greater extent than those treated with taxol alone.  The mechanism between the miR-21 inhibitor and the anticancer drug taxol was analyzed using the Zheng-Jun Jin method.  Annexin V/PI staining was performed, and apoptosis and the cell cycle were evaluated by flow cytometry analysis.  BACKGROUND: Substantial data indicate that the oncogene microRNA 21 (miR-21) is significantly elevated in glioblastoma multiforme (GBM) and regulates multiple genes associated with cancer cell proliferation, apoptosis, and invasiveness.  MicroRNA-21 inhibitor sensitizes human glioblastoma cells U251 (PTEN-mutant) and LN229 (PTEN-wild type) to taxol.   The 50% inhibitory concentration and cell viability were determined by the MTT assay.  METHODS: Human glioblastoma U251 (PTEN-mutant) and LN229 (PTEN wild-type) cells were treated with taxol and the miR-21 inhibitor (in a poly (amidoamine) (PAMAM) dendrimer), alone or in combination.  So far, the effect of downregulating miR-21 to enhance the chemotherapeutic effect to taxol has not been studied in human GBM.  Thus, miR-21 can theoretically become a target to enhance the chemotherapeutic effect in cancer therapy. "
+    },
+    {
+        "triples": [],
+        "sentence": "MicroRNAs: biology and roles in neurodegeneration and brain tumours.  Introduction and historical background.     "
+    },
+    {
+        "triples": [
+            "microRNA-29b|Specific_miRNAs-Genes/Proteins|PGRN",
+            "miR-29b|Specific_miRNAs-Genes/Proteins|PGRN",
+            "MicroRNA-29b|Specific_miRNAs-Genes/Proteins|progranulin",
+            "miR-29b|Specific_miRNAs-Genes/Proteins|PGRN",
+            "miR-29b|Specific_miRNAs-Diseases|FTD"
+        ],
+        "sentence": "Ectopic expression of miR-29b decreased hPGRN expression at the both mRNA and protein levels.  To examine the direct effect of manipulating endogenous miR-29b on hPGRN expression, we established a stable NIH3T3 cell line that expresses hPGRN under the control of the cytomegalovirus promoter.  Endogenous hPGRN in HEK 293 cells was also regulated by miR-29b.  Conversely, knockdown of endogenous miR-29b with locked nucleic acid increased the production and secretion of hPGRN in NIH3T3 cells.  How progranulin (PGRN) expression is regulated is largely unknown.  Progranulin deficiency is thought to cause some forms of frontotemporal dementia (FTD), a major early-onset age-dependent neurodegenerative disease.  miR-29b downregulates the expression of luciferase through hPGRN or mouse PGRN (mPGRN) 3'UTRs, and the regulation was abolished by mutations in the miR-29b binding site.  We identified an evolutionarily conserved binding site for microRNA-29b (miR-29b) in the 3' untranslated region (3'UTR) of the human PGRN (hPGRN) mRNA.  MicroRNA-29b regulates the expression level of human progranulin, a secreted glycoprotein implicated in frontotemporal dementia.   These findings identify miR-29b as a novel posttranscriptional regulator of PGRN expression, raising the possibility that miR-29b or other miRNAs might be targeted therapeutically to increase hPGRN levels in some FTD patients.   "
+    },
+    {
+        "triples": [
+            "miR-21|Specific_miRNAs-Diseases|stroke",
+            "miR-21|Specific_miRNAs-Genes/Proteins|FASLG",
+            "miR-21|Specific_miRNAs-Genes/Proteins|tumor necrosis factor-α ",
+            "miR-21|Specific_miRNAs-Genes/Proteins|FASLG",
+            "miR-21|Specific_miRNAs-Genes/Proteins|tumor necrosis factor-α ",
+            "miR-21|Specific_miRNAs-Genes/Proteins|FASLG"
+        ],
+        "sentence": "These novel findings suggest that miR-21 may be an attractive therapeutic molecule for treatment of stroke.    MicroRNAs are small RNAs that attenuate protein expression by complementary binding to the 3'-UTR of a target mRNA.  MicroRNA-21 protects neurons from ischemic death.   In particular, microRNA-21 (miR-21) is a strong antiapoptotic factor in some biological systems.  Currently, very little is known about microRNAs after cerebral ischemia.  We employed in situ hybridization and laser capture microdissection in combination with real-time RT-PCR to investigate the expression of miR-21 after stroke.  We investigated the role of miR-21 after stroke in the rat.  In vitro, overexpression of miR-21 in cultured cortical neurons substantially suppressed oxygen and glucose deprivation-induced apoptotic cell death, whereas attenuation of endogenous miR-21 by antisense inhibition exacerbated cell death after oxygen and glucose deprivation.  In situ hybridization revealed that miR-21 expression was upregulated in neurons of the ischemic boundary zone, and quantitative real-time RT-PCR analysis revealed that stroke increased mature miR-21 levels by approximately threefold in neurons isolated from the ischemic boundary zone by laser capture microdissection as compared with homologous contralateral neurons 2 days (n = 4; P < 0.05) and 7 days (n = 3; P < 0.05) after stroke.  Our data indicate that overexpression of miR-21 protects against ischemic neuronal death, and that downregulation of FASLG, a tumor necrosis factor-α family member and an important cell death-inducing ligand whose gene is targeted by miR-21, probably mediates the neuroprotective effect.  Moreover, overexpression of miR-21 in neurons significantly reduced FASLG levels, and introduction of an miR-21 mimic into 293-HEK cells substantially reduced luciferase activity in a reporter system containing the 3'-UTR of Faslg. "
+    },
+    {
+        "triples": [],
+        "sentence": "[Genetic and molecular abnormalities of glioblastomas (GBM)].   This presentation reports a series of data dealing with recurrent genetic abnormalities and gene expression profiles that characterize primary glioblastomas and secondary glioblastomas resulting from the transformation of low grade tumors (grade II and III astrocytomas and oligodendrogliomas).  Finally, a short description of exosomes as vectors of tumor information will be presented.    The most recent aspects of the concept of tumor stem cells that may explain the relentless growth of GBM will be reported.  Molecular features of tumor neoangiogenesis will be described.  Epigenetic alterations and deregulation of gene expression by microRNAs (miRs) will be also included.  Some aspects of tumor predisposition will be also discussed. "
+    },
+    {
+        "triples": [
+            "microRNA|Non-Specific_miRNAs-Diseases|multiple sclerosis lesions",
+            "microRNA|Non-Specific_miRNAs-Diseases|multiple sclerosis lesions",
+            "microRNA|Non-Specific_miRNAs-Genes/Proteins|CD47",
+            "microRNA-34a|Specific_miRNAs-Diseases|multiple sclerosis lesions",
+            "microRNA-34a|Specific_miRNAs-Genes/Proteins|CD47",
+            "microRNA-155|Specific_miRNAs-Diseases|multiple sclerosis lesions",
+            "microRNA-155|Specific_miRNAs-Genes/Proteins|CD47",
+            "microRNA-326|Specific_miRNAs-Diseases|multiple sclerosis lesions",
+            "microRNA-326|Specific_miRNAs-Genes/Proteins|CD47",
+            "microRNA|Non-Specific_miRNAs-Diseases|multiple sclerosis lesions",
+            "microRNA|Non-Specific_miRNAs-Diseases|multiple sclerosis lesions",
+            "microRNA-155|Specific_miRNAs-Diseases|multiple sclerosis lesions"
+        ],
+        "sentence": "This mechanism may have broad implications for microRNA-regulated macrophage activation in inflammatory diseases.    Our findings suggest that microRNA dysregulated in multiple sclerosis lesions reduce CD47 in brain resident cells, releasing macrophages from inhibitory control, thereby promoting phagocytosis of myelin.  Three microRNA upregulated in active multiple sclerosis lesions (microRNA-34a, microRNA-155 and microRNA-326) targeted the 3'-untranslated region of CD47 in reporter assays, with microRNA-155 even at two distinct sites.  This converged on CD47, which functions as a 'don't eat me' signal inhibiting macrophage activity.  We established microRNA profiles from active and inactive multiple sclerosis lesions.  Using laser capture microdissection from multiple sclerosis lesions to pool single cells and in vitro cultures, we assigned differentially expressed microRNA to specific cell types.  MicroRNA profiling of multiple sclerosis lesions identifies modulators of the regulatory protein CD47.   This was confirmed with astrocyte cultures from microRNA-155-|-lacZ mice.  We matched microRNA upregulated in phagocytically active multiple sclerosis lesions with downregulated protein coding transcripts.  Astrocytes contained all 10 microRNA that were most strongly upregulated in active multiple sclerosis lesions, including microRNA-155, which is known to modulate immune responses in different ways but so far had not been assigned to central nervous system resident cells.  MicroRNA-155 was expressed in human astrocytes in situ, and further induced with cytokines in human astrocytes in vitro. "
+    },
+    {
+        "triples": [
+            "MicroRNAs|Non-Specific_miRNAs-Diseases|ischemia",
+            "miRNAs|Non-Specific_miRNAs-Diseases|ischemia",
+            "miR-23a|Specific_miRNAs-Genes/Proteins|XIAP",
+            "miRNA|Non-Specific_miRNAs-Genes/Proteins|XIAP",
+            "miR-23a|Specific_miRNAs-Genes/Proteins|XIAP",
+            "miR-23a|Specific_miRNAs-Genes/Proteins|XIAP",
+            "miR-23a|Specific_miRNAs-Genes/Proteins|XIAP",
+            "miR-23a|Specific_miRNAs-Genes/Proteins|X-linked inhibitor of apoptosis",
+            "miR-23a|Specific_miRNAs-Genes/Proteins|XIAP"
+        ],
+        "sentence": "MicroRNAs (miRNAs) predominantly induce translational repression and are emerging as a major regulators of mRNA and subsequent protein expression after ischemia.  The miRNA miR-23a was predicted to bind XIAP mRNA.  miR-23a directly bound the 3' UTR of XIAP, and miR-23a inhibition led to an increase in XIAP mRNA in vitro, demonstrating that XIAP is a previously uncharacterized target for miR-23a.  Embelin treatment significantly exacerbated stroke-induced injury in females but had no effect in males, demonstrating that XIAP is an important mediator of sex-specific responses after stroke.    miR-23a levels differed in male and female ischemic brains, providing evidence for sex-specific miRNA expression in stroke.  Embelin, a small-molecule inhibitor of XIAP, decreased the interaction between XIAP and caspase-3 and led to enhanced caspase activity.  It is increasingly recognized that the mechanisms underlying ischemic cell death are sexually dimorphic.  miR-23a regulation of X-linked inhibitor of apoptosis (XIAP) contributes to sex differences in the response to cerebral ischemia.   In contrast, ischemic cell death in females is primarily triggered by mitochondrial cytochrome c release with subsequent caspase activation.  Stroke-induced cell death in males is initiated by the mitochondrial release of apoptosis-inducing factor, resulting in caspase-independent cell death.  XIAP mRNA levels were higher in females at baseline.  Because X-linked inhibitor of apoptosis (XIAP) is the primary endogenous inhibitor of caspases, its regulation may play a unique role in the response to injury in females.  However, XIAP protein levels were decreased in both sexes after stroke.  Stroke induced a significant decrease in XIAP mRNA in females, whereas no changes were seen in the male brain. "
+    },
+    {
+        "triples": [],
+        "sentence": "We also demonstrate that the single-nucleotide polymorphism (SNP) that is located immediately adjacent (3') to the repeats of the SCA3 transcript modulates the structures formed by these sequences, and may have functional significance, as only one of its variants is selected in human evolution.      We provide evidence that the hairpin structure formed by CAG repeats in mRNA fragments is preserved in full-length mRNA.  Here, we show that the structures formed by the repeats and their natural flanking sequences in the spinocerebellar ataxia (SCA) type 3 and type 6, and dentatorubral-palidoluysian atrophy (DRPLA) transcripts have different molecular architectures which may have functional meaning.  The expanded CAG repeats are present in transcripts from several mutant genes associated with hereditary neurodegenerative diseases but their contribution to pathogenesis has not been documented convincingly.  CAG repeats are present in numerous human transcripts but neither their structures nor physiological functions have been satisfactorily recognized.  Molecular architecture of CAG repeats in human disease related transcripts.   "
+    },
+    {
+        "triples": [],
+        "sentence": "The rapid and exciting pace of advances in glioblastoma genetics has prompted this up-to-date review.    The likely impact on care delivery in the clinic may only be a few years away.  Within the last few years, high-throughput efforts such as The Cancer Genome Atlas and a massive sequencing project have yielded novel insights and classifications of this dreaded cancer.  It has been hoped that dissection of the genetics of this cancer would lead to more targeted and effective treatments, and new advances may finally be bringing this closer to fruition.  Glioblastoma genetics: in rapid flux.   Glioblastoma is the most common and most lethal primary brain tumor.  While small progress has been made in treating this cancer in recent years, glioblastoma remains largely resistant to all existing therapies. "
+    },
+    {
+        "triples": [],
+        "sentence": "Biomarkers associated with metastasis of lung cancer to brain predict patient survival.   This research involves comprehensive miRNA expression profiling, evaluation of normalisation techniques and combination of miRNA with imaging features FDG-PET/CT and CT Scan.  We combine validated miRNA expression values with imaging features to classify NSCLC brain mets from non-brain mets and identify possible biomarkers of brain mets.  Generally, one miRNA is predicted to regulate several hundred genes, and as a result, miRNAs could serve as a better classifier than gene expression.  MicroRNAs influence cell physiology; alteration in miRNA regulation can be implicated in carcinogenesis and disease progression.  The biomarkers were validated on an independent data set to predict potential brain mets.   "
+    },
+    {
+        "triples": [
+            "Let-7|Specific_miRNAs-Diseases|human glioblastoma",
+            "microRNA|Non-Specific_miRNAs-Diseases|human glioblastoma",
+            "let-7|Specific_miRNAs-Genes/Proteins|pan-RAS",
+            "let-7|Specific_miRNAs-Genes/Proteins|N-RAS",
+            "let-7|Specific_miRNAs-Genes/Proteins|K-RAS",
+            "miRNA|Non-Specific_miRNAs-Genes/Proteins|pan-RAS",
+            "miRNA|Non-Specific_miRNAs-Genes/Proteins|N-RAS",
+            "miRNA|Non-Specific_miRNAs-Genes/Proteins|K-RAS",
+            "let-7|Specific_miRNAs-Diseases|cancer"
+        ],
+        "sentence": "MicroRNAs (miRNAs) are small noncoding RNAs comprising 21-23 nucleotides that regulate gene expression by transcriptionally repressing their complementary mRNAs.  Let-7 microRNA inhibits the proliferation of human glioblastoma cells.   Transfection of let-7 miRNA reduced expression of pan-RAS, N-RAS, and K-RAS in the glioblastoma cells.  Human glioblastoma cells (U251 or U87 cells) were transfected with let-7 miRNA and assayed for in-vitro proliferation, migration, and in-vivo tumor formation.  In this study, we investigated the anti-tumorigenic effect of let-7 miRNA in glioblastoma cells.  In particular, let-7 miRNA has been postulated to function as a tumor suppressor in various cancer cells, but not yet in glioblastoma.  These results indicate that let-7 miRNA has an anti-tumorigenic effect on glioblastoma cells, and suggest possible use of let-7 miRNA for treating glioblastoma.    However, let-7 miRNA exerted no effect on the proliferation of normal human astrocytes.  Let-7 miRNA also reduced the in-vitro proliferation and migration of the cells, and reduced the sizes of the tumors produced after transplantation into nude mice. "
+    },
+    {
+        "triples": [],
+        "sentence": "Proteasomal degradation of myocardin is required for its transcriptional activity in vascular smooth muscle cells.   Myocardin is a transcriptional co-activator of serum response factor (SRF) and can be degraded through ubiquitin-proteasome system.  Our preliminary studies unexpectedly revealed that accumulation of myocardin in response to proteasome inhibition by MG132 or lactacystin resulted in decrease of transcriptional activity of myocardin as indicated by reduced expression of SMC contractile marker genes (SM α-actin, SM22, and calponin) and muscle-enriched microRNAs (miR-143/145 and miR-1/133a), and reduced contractility of human vascular smooth muscle cells (SMCs) embedded in collagen gel lattices, suggesting that myocardin degradation is required for its transcriptional activity.  Further studies using chromatin immunoprecipitation assay revealed that proteasome inhibition, although increased the occupancy of myocardin and SRF on the promoter of SM α-actin gene, abolished myocardin-dependent recruitment of RNA polymerase II.  We further examined the degradation of myocardin in epithelioid and spindle-shaped SMCs and revealed that myocardin in more differentiated spindle-shaped SMCs was more quickly degraded and had shorter half-life than in epithelioid SMCs.  In neointimal lesions, we found that stabilization of myocardin protein was companied by downregulation of transcripts of ubiquitin and proteasome subunits, further illustrating the mechanism underlying reduction of myocardin transcriptional activity.  In summary, our results have suggested that proteasomal degradation of myocardin is required for its transcriptional activity.   "
+    },
+    {
+        "triples": [
+            "mir-7|Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "mir-153|Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "mir-7|Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "mir-153|Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "microRNAs|Non-Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "mir-7|Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "mir-153|Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "mir-7|Specific_miRNAs-Genes/Proteins|alpha-synuclein",
+            "mir-153|Specific_miRNAs-Genes/Proteins|alpha-synuclein"
+        ],
+        "sentence": "These findings reveal a significant additional mechanism by which alpha-synuclein is regulated and point toward new therapeutic regimes for lowering endogenous alpha-synuclein levels in patients with familial or sporadic Parkinson disease.    Overexpression of mir-7 and mir-153 significantly reduces endogenous alpha-synuclein levels, whereas inhibition of mir-7 and mir-153 enhances translation of a luciferase construct bearing the alpha-synuclein 3'-untranslated region in primary neurons.  They are expressed predominantly in the brain with a pattern that mirrors synuclein expression in different tissues as well as during neuronal development, indicating that they play a tuning role in the amount of alpha-synuclein produced.  These microRNAs bind specifically to the 3'-untranslated region of alpha-synuclein and down-regulate its mRNA and protein levels, with their effect being additive.  Here, two microRNAs, namely mir-7 and mir-153, have been identified to regulate alpha-synuclein levels post-transcriptionally.  Genetic and biochemical studies have established a central role for alpha-synuclein accumulation in the pathogenesis of Parkinson disease.  Post-transcriptional regulation of alpha-synuclein expression by mir-7 and mir-153.  "
+    },
+    {
+        "triples": [],
+        "sentence": "The findings also indicate that allopregnanolone and perhaps other neurosteroid-like compounds might represent potential biomarkers or therapies for multiple sclerosis.  These multi-platform studies point to impaired neurosteroidogenesis in both multiple sclerosis and experimental autoimmune encephalomyelitis.  Allopregnanolone treatment of the experimental autoimmune encephalomyelitis mouse model limited the associated neuropathology, including neuroinflammation, myelin and axonal injury and reduced neurobehavioral deficits (P < 0.05).  Levels of important neurosteroids, including allopregnanolone, were suppressed in the white matter of patients with multiple sclerosis (P < 0.05).  Induction of the murine micro-RNAs, miR-338 and miR-155, accompanied by diminished expression of neurosteroidogenic enzymes and allopregnanolone, was also observed in the brains of mice with experimental autoimmune encephalomyelitis (P < 0.05).  Analysis of the neurosteroidogenic pathways targeted by micro-RNAs revealed suppression of enzyme transcript and protein levels in the white matter of patients with multiple sclerosis (P < 0.05).  This was confirmed by firefly/Renilla luciferase micro-RNA target knockdown experiments (P < 0.05) and detection of specific micro-RNAs by in situ hybridization in the brains of patients with or without multiple sclerosis.  These observations were verified using the in vivo multiple sclerosis model, experimental autoimmune encephalomyelitis.  Brains of patients with or without multiple sclerosis demonstrated differential expression of multiple micro-RNAs, but expression of three neurosteroid synthesis enzyme-specific micro-RNAs (miR-338, miR-155 and miR-491) showed a bias towards induction in patients with multiple sclerosis (P < 0.05).  High-throughput technologies have led to advances in the recognition of disease pathways and their underlying mechanisms.  To investigate the impact of micro-RNAs on the disease process in multiple sclerosis, a prototypic inflammatory neurological disorder, we examined cerebral white matter from patients with or without the disease by micro-RNA profiling, together with confirmatory reverse transcription-polymerase chain reaction analysis, immunoblotting and gas chromatography-mass spectrometry.  Impaired neurosteroid synthesis in multiple sclerosis.  "
+    },
+    {
+        "triples": [
+            "microRNA-7|Specific_miRNAs-Diseases|gliomas",
+            "microRNAs|Non-Specific_miRNAs-Diseases|tumor",
+            "microRNA|Non-Specific_miRNAs-Diseases|MV infection"
+        ],
+        "sentence": "Since neuron-specific microRNA-7 is downregulated in gliomas but highly expressed in normal brain tissue, we engineered a microRNA-sensitive virus containing target sites for microRNA-7 in the 3'-untranslated region of the viral fusion gene.  Recent preclinical studies have shown that the cellular tropism of several viruses can be controlled by inserting microRNA-target sequences into their genomes, thereby inhibiting spread in tissues expressing cognate microRNAs.  Oncolytic measles viruses (MV) derived from the live attenuated vaccine strain have been engineered for increased tumor-cell specificity, and are currently under investigation in clinical trials including a phase I study for glioblastoma multiforme (GBM).  MicroRNA-sensitive oncolytic measles viruses for cancer-specific vector tropism.   This is proof-of-concept that tropism restriction by tissue-specific microRNAs can be adapted to oncolytic MV to regulate viral replication and gene expression to maximize tumor specificity without compromising oncolytic efficacy.    Furthermore, microRNA-mediated inhibition protected genetically modified mice susceptible to MV infection from a potentially lethal intracerebral challenge.  Importantly, endogenous microRNA-7 expression in primary human brain resections tightly restricted replication and spread of microRNA-sensitive virus.  In presence of microRNA-7 this modification inhibits translation of envelope proteins, restricts viral spread, and progeny production.  Even though highly attenuated in presence of microRNA-7, this virus retained full efficacy against glioblastoma xenografts. "
+    },
+    {
+        "triples": [
+            "miR-211|Specific_miRNAs-Genes/Proteins|angiopoietin-1",
+            "microRNA|Non-Specific_miRNAs-Diseases|stroke",
+            "miR-211|Specific_miRNAs-Genes/Proteins|angiopoietin-1"
+        ],
+        "sentence": "Finally, the association of the variant with stroke was tested in 438 stroke patients and 890 controls, and replicated in an independent population of 1791 stroke patients and 1843 controls.  The TT genotype resulted in a significant reduction in overall stroke risk {OR, 0.51 [95% confidence interval (CI), 0.36-0.74], P = 0.0003}, ischemic stroke [OR, 0.56 (95% CI, 0.36-0.85), P = 0.007] and hemorrhagic stroke [OR, 0.46 (95% CI, 0.26-0.80), P = 0.007].  We found that the A allele of rs2507800 suppressed angiopoietin-1 translation by facilitating miR-211 binding, but not the T allele.  Subjects carrying the TT genotype had higher plasma angiopoietin-1 levels than those with the A allele.  To test our hypothesis, a predicted microRNA-binding site was found in the 3'-UTR of angiopoietin-1 using bioinformatics; variant rs2507800 was identified to be located in the miR-211-binding site of angiopoietin-1.  Secondly, the effects of the identified variant on angiopoietin-1 translation were assessed using a luciferase reporter assay and ELISA.  Angiopoietin-1 is a vascular strengthening factor during vascular development and a protective factor for pathological vascular inflammation and leakage.  Brain vascular leaking and inflammation are two important pathological processes of stroke; therefore, we hypothesized that variants of the microRNA-binding site in angiopoietin-1 would affect its expression and confer a risk of stroke.  A functional variant in the 3'-UTR of angiopoietin-1 might reduce stroke risk by interfering with the binding efficiency of microRNA 211.   Our results provide evidence that the TT genotype (rs2507800) in the 3'-UTR of angiopoietin-1 might reduce the risk of stroke by interfering with miR-211 binding.    These results were confirmed in an independent study. "
+    },
+    {
+        "triples": [],
+        "sentence": "Does the effect of microRNAs in vascular neointimal formation depend on cell cycle phase?     "
+    },
+    {
+        "triples": [],
+        "sentence": "The characteristics of tumors induced in NG2-KO were compared to those of tumors induced in wild type mice by immunostaining for different cell lineage markers and by transplantation assays in adult mice.  METHODS: The survival curves of NG2-KO mice overexpressing PDGF-B were compared to controls by using a Log-rank test.  We have recently generated a glioma model based on the overexpression of PDGF-B in neural progenitors and here we investigated the possible relevance of NG2 during PDGF-driven gliomagenesis.  NG2 has been shown to function as a co-receptor for PDGF ligands whose aberrant expression is common in gliomas.  BACKGROUND: In the last years, the transmembrane proteoglycan NG2 has gained interest as a therapeutic target for the treatment of diverse tumor types, including gliomas, because increases of its expression correlate with dismal prognosis.  PDGF-B-driven gliomagenesis can occur in the absence of the proteoglycan NG2.   On the basis of the data obtained, we therefore suggest that the role of NG2 as a target molecule for glioma treatment should be carefully reconsidered.    CONCLUSIONS: Our analysis, using both NG2-KO mice and a miRNA based silencing approach, clearly demonstrates that NG2 is not required for PDGF-B to efficiently induce and maintain gliomas from neural progenitors.  RESULTS: We showed that the lack of NG2 does not appreciably affect any of the characterized steps of PDGF-driven brain tumorigenesis, such as oligodendrocyte progenitor cells (OPC) induction, the recruitment of bystander OPCs and the progression to full malignancy, which take place as in wild type animals. "
+    },
+    {
+        "triples": [
+            "miR-107|Specific_miRNAs-Genes/Proteins|GRN",
+            "miR-107|Specific_miRNAs-Genes/Proteins|GRN",
+            "miR-107|Specific_miRNAs-Genes/Proteins|granulin",
+            "miR-107|Specific_miRNAs-Genes/Proteins|progranulin",
+            "miR-107|Specific_miRNAs-Genes/Proteins|GRN",
+            "miR-107|Specific_miRNAs-Genes/Proteins|GRN",
+            "miR-107|Specific_miRNAs-Genes/Proteins|GRN"
+        ],
+        "sentence": "These findings indicate that miR-107 contributes to GRN expression regulation with implications for brain disorders.    In brain tissue subjacent to 1.0 mm depth controlled cortical impact, surviving hippocampal neurons show decreased miR-107 with augmentation of neuronal GRN expression.  We also tested a mouse model where miR-107 has been shown to be down-regulated.  However, GRN regulation expression is poorly understood.  A high-throughput experimental microRNA assay showed that GRN is the strongest target for miR-107 in human H4 neuroglioma cells.  miR-107 has been implicated in Alzheimer's disease pathogenesis, and sequence elements in the open reading frame-rather than the 3' untranslated region-of GRN mRNA are recognized by miR-107 and are highly conserved among vertebrate species.  To better understand the mechanism of this interaction, FLAG-tagged Argonaute constructs were used following miR-107 transfection.  miR-107 regulates granulin/progranulin with implications for traumatic brain injury and neurodegenerative disease.   Granulin (GRN, or progranulin) is a protein involved in wound repair, inflammation, and neoplasia.  GRN has also been directly implicated in frontotemporal dementia and may contribute to Alzheimer's disease pathogenesis.  GRN mRNA interacts preferentially with Argonaute 2. In vitro and in vivo studies indicate that regulation of GRN by miR-107 may be functionally important.  Glucose supplementation in cultured cells that leads to increased miR-107 levels also results in decreased GRN expression, including changes in cell compartmentation and decreased secretion of GRN protein.  This effect was eliminated following miR-107 transfection. "
+    },
+    {
+        "triples": [
+            "miRNAs|Non-Specific_miRNAs-Diseases|glioblastoma multiforme",
+            "microRNA-21|Specific_miRNAs-Diseases|glioblastoma multiforme",
+            "miR-21|Specific_miRNAs-Diseases|glioblastoma multiforme"
+        ],
+        "sentence": "MicroRNAs (miRNAs) are small noncoding RNA molecules that regulate protein expression by cleaving or repressing the translation of target mRNAs.  MiR-21 protected human glioblastoma U87MG cells from chemotherapeutic drug temozolomide induced apoptosis by decreasing Bax/Bcl-2 ratio and caspase-3 activity.   Several miRNAs have been recently reported to be involved in modulation of glioma development, especially some up-regulated miRNAs, such as microRNA-21 (miR-21), which has been found to function as an oncogene in cultured glioblastoma multiforme cells.  In mammal animals, their function mainly represses the target mRNAs transcripts via imperfectly complementary to the 3'UTR of target mRNAs.  However, resistance develops quickly and with high frequency.  Temozolomide (TMZ), an alkylating agent, is a promising chemotherapeutic agent for treating glioblastoma.  Our studies showed that TMZ markedly enhanced apoptosis in U87MG cells compared with untreated cells (P<0.05).  To explore the mechanism of resistance, we found that miR-21 could protect human glioblastoma U87MG cells from TMZ induced apoptosis.  However, over-express miR-21 in U87MG cells could significantly reduce TMZ-induced apoptosis (P<0.05).  Pro-apoptotic Bax and anti-apoptotic Bcl-2 proteins are known to regulate the apoptosis of glioma cells.  Further research demonstrated that the mechanism was associated with a shift in Bax/Bcl-2 ratio and change in caspase-3 activity.  Bax is shown to correlate with an increased survival of glioblastoma multiforme patients.  However, such effect was partly prevented by treatment of cells with miR-21 overexpression before, which appeared to downregulate the Bax expression, upregulate the Bcl-2 expression and decrease caspase-3 activity.  Compared to control cells, cells treated with TMZ showed a significant increase in the Bax/Bcl-2 ratio and caspase-3 activity (P<0.01).  Taken together, these results suggested that over-express miR-21 could inhibit TMZ-induced apoptosis in U87MG cells, at least in part, by decreasing Bax/Bcl-2 ratio and caspase-3 activity, which highlighted the possibility of miR-21 overexpression in the clinical resistance to chemotherapeutic therapy of TMZ.    Bcl-2, resistance to induction of apoptosis, constitutes one major obstacle to chemotherapy in many cancer cells. "
+    },
+    {
+        "triples": [
+            "miR-210|Specific_miRNAs-Genes/Proteins|ephrin-A3",
+            "miR-210|Specific_miRNAs-Genes/Proteins|neuronal pentraxin 1",
+            "miR-210|Specific_miRNAs-Diseases|hypoxia",
+            "miR-210|Specific_miRNAs-Genes/Proteins|HIF-1alpha",
+            "miR-210|Specific_miRNAs-Genes/Proteins|ephrin-A3",
+            "miR-210|Specific_miRNAs-Genes/Proteins|neuronal pentraxin 1"
+        ],
+        "sentence": "Hypoxia induces microRNA miR-210 in vitro and in vivo ephrin-A3 and neuronal pentraxin 1 are potentially regulated by miR-210.   Shortage of oxygen is one of the prime stress conditions in tissues.  In this study, we looked for microRNAs expressed during hypoxia and showed that miR-210 expression was upregulated in response to hypoxia in vitro and in vivo.  An active form of the HIF-1alpha induced the expression of miR-210, showing the involvement of the HIF-1 signaling pathway in miR-210 gene transcription.  Furthermore, miR-210 was shown to bind to the predicted target sites of ephrin-A3 or neuronal pentraxin 1, causing repression in luciferase reporter activity.  Thus, the regulatory effects of miR-210 on its targets in vivo need to be further characterized.    Contrary to the microRNA-mediated repression hypothesis, ephrin-A3 was expressed at very high levels in post-ischemic mouse hippocampus in vivo. "
+    },
+    {
+        "triples": [],
+        "sentence": "Cells stably transfected with LAT or trigeminal ganglionic neurons of mice infected with a LAT expressing virus appeared to express the L2 or L8 ORF.  Peptide-specific immunoglobulin G (IgG) was generated against open reading frames (ORFs) that are located within the first 1.5 kb of LAT coding sequences.  Only L2 ORF expression was readily detected in trigeminal ganglionic neurons of latently infected mice.    Expression of the first 1.5 kb of the latency-associated transcript (LAT) that is encoded by herpes simplex virus type 1 (HSV-1) is sufficient for wild-type (wt) levels of reactivation from latency in small animal models.  Identification of herpes simplex virus type 1 proteins encoded within the first 1.5 kb of the latency-associated transcript.  "
+    },
+    {
+        "triples": [
+            "miR-155|Specific_miRNAs-Diseases|autoimmune disorders"
+        ],
+        "sentence": "Our study shows that one aspect of miR-155 function is the promotion of T cell-dependent tissue inflammation, suggesting that miR-155 might be a promising therapeutic target for the treatment of autoimmune disorders.    miR-155 functions in the hematopoietic compartment to promote the development of inflammatory T cells including the T helper 17 (Th17) cell and Th1 cell subsets.  Furthermore, the major contribution of miR-155 to EAE was CD4(+) T cell intrinsic, whereas miR-155 was also required for optimum dendritic cell production of cytokines that promoted Th17 cell formation.  Here, we have investigated the role of miR-155 during an autoimmune inflammatory disease.  Consistent with a positive role for miR-155 in mediating inflammatory responses, Mir155(-/-) mice were highly resistant to experimental autoimmune encephalomyelitis (EAE).  MicroRNA-155 promotes autoimmune inflammation by enhancing inflammatory T cell development.   Mammalian noncoding microRNAs (miRNAs) are a class of gene regulators that have been linked to immune system function. "
+    },
+    {
+        "triples": [
+            "miR-124|Specific_miRNAs-Diseases|experimental autoimmune encephalomyelitis",
+            "miR-124|Specific_miRNAs-Diseases|EAE",
+            "miR-124|Specific_miRNAs-Diseases|EAE",
+            "MicroRNA-124|Specific_miRNAs-Diseases|EAE",
+            "miR-124|Specific_miRNAs-Genes/Proteins|enhancer-binding protein-α",
+            "miR-124|Specific_miRNAs-Genes/Proteins|C/EBP-α",
+            "miR-124|Specific_miRNAs-Genes/Proteins|PU.1"
+        ],
+        "sentence": "During experimental autoimmune encephalomyelitis (EAE), miR-124 was downregulated in activated microglia.  Peripheral administration of miR-124 in EAE caused systemic deactivation of macrophages, reduced activation of myelin-specific T cells and marked suppression of disease.  Conversely, knockdown of miR-124 in microglia and macrophages resulted in activation of these cells in vitro and in vivo.  These findings identify miR-124 both as a key regulator of microglia quiescence in the central nervous system and as a previously unknown modulator of monocyte and macrophage activation.    MicroRNA-124 promotes microglia quiescence and suppresses EAE by deactivating macrophages via the C/EBP-α-PU.1 pathway.   MicroRNAs are a family of regulatory molecules involved in many physiological processes, including differentiation and activation of cells of the immune system.  We found that brain-specific miR-124 is expressed in microglia but not in peripheral monocytes or macrophages.  When overexpressed in macrophages, miR-124 directly inhibited the transcription factor CCAAT/enhancer-binding protein-α (C/EBP-α) and its downstream target PU.1, resulting in transformation of these cells from an activated phenotype into a quiescent CD45(low), major histocompatibility complex (MHC) class II(low) phenotype resembling resting microglia. "
+    },
+    {
+        "triples": [],
+        "sentence": "Mutations in the Drosophila gene lethal (3) malignant brain tumor cause malignant growth in the larval brain.  Here we show that l(3)mbt tumors exhibited a soma-to-germline transformation through the ectopic expression of genes normally required for germline stemness, fitness, or longevity.  Orthologs of some of these genes were also expressed in human somatic tumors.  In addition, inactivation of any of the germline genes nanos, vasa, piwi, or aubergine suppressed l(3)mbt malignant growth.  Ectopic expression of germline genes drives malignant brain tumor growth in Drosophila.   Model organisms such as the fruit fly Drosophila melanogaster can help to elucidate the molecular basis of complex diseases such as cancer.  Our results demonstrate that germline traits are necessary for tumor growth in this Drosophila model and suggest that inactivation of germline genes might have tumor-suppressing effects in other species.   "
+    },
+    {
+        "triples": [
+            "miR-451|Specific_miRNAs-Diseases|glioma"
+        ],
+        "sentence": "We also identified a potential feedback loop between LKB1 and miR-451, which allows a sustained and robust response to glucose deprivation.  We then found that by targeting the LKB1 kinase complex miR-451 suppresses the activity of downstream protein kinases including the major energy biosensor AMPK.  We initially identified miR-451 due to its downregulation in a glioma cell migration assay.  Under conditions of glucose withdrawal, miR-451 downregulation is necessary for AMPK pathway activation, leading to suppressed proliferation rates, increased cell survival and migration.  MiR-451 levels are regulated by glucose; under conditions of abundant energy miR-451 expression is high, and the suppression of AMPK signaling allows cells to maintain elevated proliferation rates via unrestrained mTOR activation.  Incomplete knowledge of the molecular biology, genetics, causes and cellular origin of these tumors may limit the development of improved therapeutics.  Glioblastoma, the most common and aggressive primary brain tumor, is rapidly growing and highly infiltrative.  Here we will discuss further our recently published data on the role of miR-451 in the biology of glioblastoma.  A major and fundamental advance in recent years has been the identification of microRNAs as highly conserved regulators of gene expression.  microRNA-451: A conditional switch controlling glioma cell proliferation and migration.   This data will be discussed in the context of potential biological significance and therapeutic implications.   "
+    },
+    {
+        "triples": [
+            "miR-206|Specific_miRNAs-Diseases|ALS"
+        ],
+        "sentence": "Thus, miR-206 slows ALS progression by sensing motor neuron injury and promoting the compensatory regeneration of neuromuscular synapses.    Here, we show that a key regulator of this signaling is miR-206, a skeletal muscle-specific microRNA that is dramatically induced in a mouse model of ALS.  Mice that are genetically deficient in miR-206 form normal neuromuscular synapses during development, but deficiency of miR-206 in the ALS mouse model accelerates disease progression.  miR-206 is required for efficient regeneration of neuromuscular synapses after acute nerve injury, which probably accounts for its salutary effects in ALS.  miR-206 mediates these effects at least in part through histone deacetylase 4 and fibroblast growth factor signaling pathways.  MicroRNA-206 delays ALS progression and promotes regeneration of neuromuscular synapses in mice.   Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease characterized by loss of motor neurons, denervation of target muscles, muscle atrophy, and paralysis.  Understanding ALS pathogenesis may require a fuller understanding of the bidirectional signaling between motor neurons and skeletal muscle fibers at neuromuscular synapses. "
+    },
+    {
+        "triples": [
+            "microRNA-21|Specific_miRNAs-Diseases|gliomas",
+            "miR-21|Specific_miRNAs-Diseases|gliomas",
+            "miR-21|Specific_miRNAs-Diseases|human glioma",
+            "miR-21|Specific_miRNAs-Diseases|glioma"
+        ],
+        "sentence": "In gliomas, microRNA-21 (miR-21) levels have been reported to be elevated and their knockdown is associated with increased apoptotic activity.  We hypothesized that suppression of miR-21 might sensitize gliomas for cytotoxic tumor therapy.  With the use of locked nucleic acid (LNA)-antimiR-21 oligonucleotides, bimodal imaging vectors, and neural precursor cells (NPC) expressing a secretable variant of the cytotoxic agent tumor necrosis factor-related apoptosis inducing ligand (S-TRAIL), we show that the combined suppression of miR-21 and NPC-S-TRAIL leads to a synergistic increase in caspase activity and significantly decreased cell viability in human glioma cells in vitro.  This phenomenon persists in vivo, as we observed complete eradication of LNA-antimiR-21-treated gliomas subjected to the presence of NPC-S-TRAIL in the murine brain.  Our results reveal the efficacy of miR-21 antagonism in murine glioma models and implicate miR-21 as a target for therapeutic intervention.  Furthermore, our findings provide the basis for developing combination therapies using miRNA modulation and cytotoxic tumor therapies.    MicroRNA-21 knockdown disrupts glioma growth in vivo and displays synergistic cytotoxicity with neural precursor cell delivered S-TRAIL in human gliomas.   Mounting evidence indicates that microRNAs (miRNA) might play a fundamental role in tumorigenesis, controlling cell proliferation and apoptosis.  Despite the development of new glioma therapies that allow for tumor-targeted in situ delivery of cytotoxic drugs, tumor resistance to apoptosis remains a key impediment to effective treatment. "
+    },
+    {
+        "triples": [
+            "microRNA|Non-Specific_miRNAs-Diseases|vesicular stomatitis virus encephalitis"
+        ],
+        "sentence": "We therefore sought to determine whether microRNA targets could be engineered into VSV to ameliorate its neuropathogenicity.  Using a panel of recombinant VSVs incorporating microRNA target sequences corresponding to neuron-specific or control microRNAs (in forward and reverse orientations), we tested viral replication kinetics in cell lines treated with microRNA mimics, neurotoxicity after direct intracerebral inoculation in mice, and antitumor efficacy.  Compared to picornaviruses and adenoviruses, the engineered VSVs were relatively resistant to microRNA-mediated inhibition, but neurotoxicity could nevertheless be ameliorated significantly using this approach, without compromise to antitumor efficacy.  Neurotoxicity was most profoundly reduced in a virus carrying four tandem copies of a neuronal mir125 target sequence inserted in the 3'-untranslated region of the viral polymerase (L) gene.    Attenuation of vesicular stomatitis virus encephalitis through microRNA targeting.   Vesicular stomatitis virus (VSV) has long been regarded as a promising recombinant vaccine platform and oncolytic agent but has not yet been tested in humans because it causes encephalomyelitis in rodents and primates.  Recent studies have shown that specific tropisms of several viruses could be eliminated by engineering microRNA target sequences into their genomes, thereby inhibiting spread in tissues expressing cognate microRNAs. "
+    },
+    {
+        "triples": [
+            "microRNA 124|Specific_miRNAs-Genes/Proteins|CDK6",
+            "miR 124|Specific_miRNAs-Diseases|medulloblastoma",
+            "microRNAs|Non-Specific_miRNAs-Genes/Proteins|CDK6",
+            "miR 124a|Specific_miRNAs-Diseases|medulloblastoma",
+            "miR 124a|Specific_miRNAs-Genes/Proteins|CDK6",
+            "miR 124a|Specific_miRNAs-Genes/Proteins|CDK6",
+            "miR 124|Specific_miRNAs-Diseases|medulloblastoma",
+            "microRNA 124|Specific_miRNAs-Genes/Proteins|cyclin dependent kinase 6"
+        ],
+        "sentence": "Furthermore, in patient samples expression of miR 124a is significantly decreased.  Our data strongly indicate that CDK6 is regulated by microRNA 124 in medulloblastoma and that miR 124 modulates medulloblastoma cell growth.    We hypothesized that CDK6 expression is also regulated by microRNAs in medulloblastoma.  Genomic amplification accounts for some, but not all of the CDK6 over-expression.  Expression of miR 124a was significantly decreased in medulloblastoma cells compared to normal adult cerebellum.  We identified putative miR sites in the CDK6 including microRNA 124a, a brain enriched microRNA.  Additionally, re-expression of miR 124a in medulloblastoma cells decreased expression of CDK6 protein.  Functional association between miR 124a and CDK6 in medulloblastoma was established using luciferase assays.  Transfection of miR 124 significantly decreases medulloblastoma cell growth but does not alter apoptosis.  Regulation of cyclin dependent kinase 6 by microRNA 124 in medulloblastoma.   Despite recent advances in treatment medulloblastoma continues to remain a vexing problem.  Recently increased expression of cyclin dependent kinase 6 (CDK6) was identified as an adverse prognostic marker in medulloblastoma. "
+    },
+    {
+        "triples": [],
+        "sentence": "An association study of rs9897526 and rs5848 was carried out in an Italian population and in a replication population of European American patients and controls.  The influence of GRN genetic variability on susceptibility to AD and on expression levels in a series of neuropathologically-confirmed AD patients as well as in peripheral mononuclear cells (PBMC) and in cells isolated from cerebrospinal fluid (CSF) was investigated.  Mutations in the progranulin gene (GRN), causative for Frontotemporal Lobar Degeneration with ubiquitin-immunoreactive neuronal inclusions (FTLD-U), could also be associated with Alzheimer's disease (AD).  Rs5848 variant influences GRN mRNA levels in brain and peripheral mononuclear cells in patients with Alzheimer's disease.   Despite no significant differences were found in the relative PBMC and CSF GRN expression in patients compared to controls, stratifying patients according to the presence of rs5848 T allele, a 0.57-fold decrease in GRN mRNA levels over C carriers was found in PBMC (1.22 +/- 0.23 versus 0.70 +/- 0.12, P = 0.04).  Patients carrying the rs5848 TT genotype had the lowest GRN expression levels (0.96 +/- 0.12, P = 0.014).  GRN expression in the parietal lobe of AD cases showed a 0.76-fold decrease compared with controls (1.31 +/- 0.07 versus 1.73 +/- 0.12, P = 0.0025).  None of the variants tested act as unequivocal susceptibility factor in both populations although rs9897526 anticipated the onset of the disease in the Italian population.  Similarly to data obtained in brain samples, patients carrying the TT genotype showed the lowest GRN mRNA levels (TT = 0.46 +/- 0.14, CC = 1.22 +/- 0.23; P = 0.013).  These data argue against a direct role of GRN as a susceptibility factor for sporadic AD but support a role of GRN as a disease-modifying gene, possibly contributing to the failure of neuronal survival.   "
+    },
+    {
+        "triples": [
+            "microRNAs|Non-Specific_miRNAs-Diseases|stroke"
+        ],
+        "sentence": "Thrombolytic therapy involving recombinant tissue plasminogen activator (rtPA) has been shown to be beneficial only when used within 4.5 hours of onset of acute ischemic stroke.  There are two major types of stroke: cerebral ischemia caused by obstruction of blood vessels in the brain and haemorrhagic stroke that is triggered by the disruption of blood vessels.  Stroke is one of the leading causes of death and disability worldwide.  microRNAs in stroke pathogenesis.   Although the biochemistry of stroke and related diseases is quite well understood, the knowledge on the molecular mechanisms underlying these diseases is still at its infancy.  microRNAs that form a unique class of endogenous riboregulators of gene function, offer tremendous potential in unraveling the mechanisms underlying stroke pathogenesis.  rtPA treatment beyond this time window has been found to be unsuitable and usually resulting in haemorrhagic transformation.  Stroke is a multifactorial disease that forms a possible end state for majority of patients suffering from diabetes, atherosclerosis and hypertension which are known risk factors.  microRNA expression also reflects the response of individuals to drugs and therapy.  Several microRNAs and their target genes, known to be involved in endothelial dysfunction, dysregulation of neurovascular integrity, edema formation, pro-apoptosis, inflammation and extra-cellular matrix remodeling contribute to the critical processes in the pathogenesis of stroke.  In this review, we will also be discussing the role of microRNAs as possible diagnostic and prognostic biomarkers as well as potential therapeutic targets in stroke pathogenesis.   "
+    },
+    {
+        "triples": [],
+        "sentence": "Molecular biology.  miRNAs in neurodegeneration.     "
+    },
+    {
+        "triples": [
+            "miR-10b|Specific_miRNAs-Genes/Proteins|BCL2L11",
+            "miR-10b|Specific_miRNAs-Genes/Proteins|Bim",
+            "miR-10b|Specific_miRNAs-Genes/Proteins|TFAP2C",
+            "miR-10b|Specific_miRNAs-Genes/Proteins|AP-2γ",
+            "miR-10b|Specific_miRNAs-Genes/Proteins|CDKN1A",
+            "miR-10b|Specific_miRNAs-Genes/Proteins|p21",
+            "miR-10b|Specific_miRNAs-Genes/Proteins|CDKN2A",
+            "miR-10b|Specific_miRNAs-Genes/Proteins|p16",
+            "miR-10b|Specific_miRNAs-Diseases|human glioblastomas",
+            "miRNA|Non-Specific_miRNAs-Diseases|high-grade gliomas",
+            "miRNA|Non-Specific_miRNAs-Diseases|glioma",
+            "miR-10b|Specific_miRNAs-Diseases|high-grade gliomas",
+            "miR-10b|Specific_miRNAs-Diseases|glioma",
+            "miRNAs|Non-Specific_miRNAs-Diseases|malignant brain tumor glioblastoma",
+            "miR-10b|Specific_miRNAs-Diseases|gliomas",
+            "miR-10|Specific_miRNAs-Diseases|glioblastoma",
+            "miR-10b|Specific_miRNAs-Diseases|human glioma",
+            "miR-10b|Specific_miRNAs-Diseases|tumor"
+        ],
+        "sentence": "These cellular responses are mediated by augmented expression of the direct targets of miR-10b, including BCL2L11/Bim, TFAP2C/AP-2γ, CDKN1A/p21, and CDKN2A/p16, which normally protect cells from uncontrolled growth.  Analysis of The Cancer Genome Atlas expression data set reveals a strong positive correlation between numerous genes sustaining cellular growth and miR-10b levels in human glioblastomas, while proapoptotic genes anticorrelate with the expression of miR-10b.  Molecular functions of these miRNAs in gliomagenesis are mainly unknown.  We show that inhibition of miR-10b, a miRNA not expressed in human brain and strongly upregulated in both low-grade and high-grade gliomas, reduces glioma cell growth by cell-cycle arrest and apoptosis.  Human glioma growth is controlled by microRNA-10b.   MicroRNA (miRNA) expression profiling studies revealed a number of miRNAs dysregulated in the malignant brain tumor glioblastoma.  Altogether, our experiments validate an important role of miR-10b in gliomagenesis, reveal a novel mechanism of miR-10b-mediated regulation, and suggest the possibility of its future use as a therapeutic target in gliomas.    Furthermore, survival of glioblastoma patients expressing high levels of miR-10 family members is significantly reduced in comparison to patients with low miR-10 levels, indicating that miR-10 may contribute to glioma growth in vivo.  Finally, inhibition of miR-10b in a mouse model of human glioma results in significant reduction of tumor growth. "
+    },
+    {
+        "triples": [],
+        "sentence": "Adult-onset autosomal dominant leukodystrophy: linking nuclear envelope to myelin.     "
+    },
+    {
+        "triples": [],
+        "sentence": "The advent of next-generation sequencing technologies promises to greatly transform our understanding of medulloblastoma pathogenesis in the next few years, permitting comprehensive analyses of all aspects of the genome and increasing the likelihood that genomic medicine will become part of the routine diagnosis and treatment of medulloblastoma.    The application of high-resolution microarray platforms to the study of medulloblastoma has revealed new oncogenes and tumor suppressors and has implicated changes in DNA copy number, gene expression, and methylation state in its etiology.  Additionally, the integration of medulloblastoma genomics with patient clinical data has confirmed molecular markers of prognostic significance and highlighted the potential utility of molecular disease stratification.  Genomics of medulloblastoma: from Giemsa-banding to next-generation sequencing in 20 years.   Advances in the field of genomics have recently enabled the unprecedented characterization of the cancer genome, providing novel insight into the molecular mechanisms underlying malignancies in humans. "
+    },
+    {
+        "triples": [],
+        "sentence": "Here, we report an elegant mechanism of Tau degradation involving the cochaperone BAG2.  The BAG2/Hsp70 complex is tethered to the microtubule and this complex can capture and deliver Tau to the proteasome for ubiquitin-independent degradation.  The components of a Tau protein triage system consisting of CHIP/Hsp70 and other chaperones have begun to emerge.  However, the site of triage and the master regulatory elements are unknown.  Tau inclusions are a prominent feature of many neurodegenerative diseases including Alzheimer's disease.  Their accumulation in neurons as ubiquitinated filaments suggests a failure in the degradation limb of the Tau pathway.  The cochaperone BAG2 sweeps paired helical filament- insoluble tau from the microtubule.   Thus, we propose that ubiquitinated Tau inclusions arise due to shunting of Tau degradation toward a less efficient ubiquitin-dependent pathway.    This complex preferentially degrades Sarkosyl insoluble Tau and phosphorylated Tau.  BAG2 levels in cells are under the physiological control of the microRNA miR-128a, which can tune paired helical filament Tau levels in neurons. "
+    },
+    {
+        "triples": [
+            "miR-15a|Specific_miRNAs-Diseases|pituitary adenomas",
+            "miR-16-1|Specific_miRNAs-Diseases|pituitary adenomas",
+            "miR-15a|Specific_miRNAs-Diseases|pituitary adenomas",
+            "miR-16-1|Specific_miRNAs-Diseases|pituitary adenomas",
+            "miR15|Specific_miRNAs-Diseases|pituitary adenomas",
+            "miR15|Specific_miRNAs-Diseases|tumor",
+            "miR16|Specific_miRNAs-Diseases|pituitary adenomas",
+            "miR16|Specific_miRNAs-Diseases|tumor",
+            "miR-15a|Specific_miRNAs-Diseases|B cell chronic lymphocytic leukemia",
+            "miR-15a|Specific_miRNAs-Diseases|B-CLL",
+            "miR-16-1|Specific_miRNAs-Diseases|B cell chronic lymphocytic leukemia",
+            "miR-16-1|Specific_miRNAs-Diseases|B-CLL"
+        ],
+        "sentence": "miR-15a and miR-16-1 down-regulation in pituitary adenomas.   We found that miR-15a and miR-16-1 are expressed at lower levels in pituitary adenomas as compared to normal pituitary tissue.  We explored miR-15a and miR-16-1 expression in 10 GH-secreting and in 10 PRL-secreting pituitary macroadenomas by Northern blot, and investigated the possible correlation with in vivo and in vitro characteristics.  Therefore, miR15 and miR16 down-regulation in pituitary adenomas correlates with a greater tumor diameter and a lower p43 secretion, suggesting that these genes may, at least in part, influence tumor growth.    Moreover, their expression inversely correlates with tumor diameter and with RARS expression (P < 0.05), but directly correlates with p43 secretion (P < 0.02).  miR-15a and miR-16-1 genes are located at chromosome 13q14, a region which is frequently deleted in pituitary tumors.  Micro RNAs (miRs) are small noncoding RNAs, functioning as antisense regulators of other RNAs.  When secreted, p43 regulates local inflammatory response and macrophage chemotaxis, and seems to have anti-neoplastic properties in mice.  An inverse correlation has been shown in B cell chronic lymphocytic leukemia (B-CLL) between miR-15a and miR-16-1 expression and the expression levels of arginyl-tRNA synthetase (RARS), an enzyme which associates with the cofactor p43 in the aminoacyl-tRNA synthetase complex. "
+    },
+    {
+        "triples": [],
+        "sentence": "The emerging role of epigenetics in stroke: II. RNA regulatory circuitry.  These non-protein-coding RNAs (ncRNAs) include subclasses that are well known, such as transfer RNAs and ribosomal RNAs, as well as those that have more recently been characterized, such as microRNAs, small nucleolar RNAs, and long ncRNAs.  In this review, we examine the role of these novel ncRNAs in the nervous system and highlight emerging evidence that implicates RNA-based networks in the molecular pathogenesis of stroke.  Recent scientific advances have demonstrated the existence of extensive RNA-based regulatory networks involved in orchestrating nearly every cellular process in health and various disease states.  This previously hidden layer of functional RNAs is derived largely from non-protein-coding DNA sequences that constitute more than 98% of the genome in humans.  These novel approaches for neural cell- and tissue-selective reprogramming of epigenetic regulatory mechanisms are likely to promote more effective neuroprotective and neural regenerative responses for safeguarding and even restoring central nervous system function.    We also describe RNA editing, a related epigenetic mechanism that is partly responsible for generating the exquisite degrees of environmental responsiveness and molecular diversity that characterize ncRNAs.  In addition, we discuss the development of future therapeutic strategies for locus-specific and genome-wide regulation of genes and functional gene networks through the modulation of RNA transcription, posttranscriptional RNA processing (eg, RNA modifications, quality control, intracellular trafficking, and local and long-distance intercellular transport), and RNA translation. "
+    },
+    {
+        "triples": [],
+        "sentence": "Keystone symposium, Neurodegenerative Diseases: New Molecular Mechanisms 17-22 February 2009.     "
+    },
+    {
+        "triples": [],
+        "sentence": "Diseases potentially mediated by alterations in RNA processes include tauopathies, myotonic dystrophy, Alzheimer disease, brain cancer, and many others.  Some noncoding RNAs have been shown to be involved in human brain diseases.  Furthermore, there is poor correlation between mRNA levels and protein levels in mammalian cells, due partly to complicated post-transcriptional regulation by hitherto unknown noncoding RNAs.  For example, neurologic illnesses may arise because of perturbations in distinct but interrelated tiers of RNA-based genetic regulation: pre-mRNA splicing; nonsplicing RNA modifications; and mRNA translational regulation.  A variety of unforeseen complexities have been identified, many with relevance to human brain disease.  RNA research has made great progress in recent years.  RNA in brain disease: no longer just \"the messenger in the middle\".   Here we present an overview of new research highlighting functions for RNA that far surpass the \"messenger in the middle\" role and that identify RNA molecules as important agents in the human brain in health and in disease states.   "
+    },
+    {
+        "triples": [
+            "miR17|Specific_miRNAs-Diseases|gliomas",
+            "mir183-182|Specific_miRNAs-Diseases|gliomas",
+            "mir367-302|Specific_miRNAs-Diseases|gliomas",
+            "mir371-373|Specific_miRNAs-Diseases|gliomas"
+        ],
+        "sentence": "Gliomas display a microRNA expression profile reminiscent of neural precursor cells.   Gliomas express many genes that play a role in neural precursor cells (NPCs), but no direct comparison between glioma and stem cell (SC) gene expression profiles has been performed.  To investigate the similarities and differences between gliomas and SCs, we compared the microRNA (miRNA) expression signatures of glial tumors, embryonic SCs (ESCs), NPCs, and normal adult brains from both human and mouse tissues.  We demonstrated that both human gliomas (regardless of their grade) and methylcholanthrene-induced mouse glioma shared an miRNA expression profile that is reminiscent of NPCs.  About half of the miRNAs expressed in the shared profile clustered in seven genomic regions susceptible to genetic/epigenetic alterations in various cancers.  These clusters comprised the miR17 family, mir183-182, and the SC-specific clusters mir367-302 and mir371-373, which are upregulated in gliomas, ESCs, and NPCs.  The bipartite cluster of 7 + 46 miRNAs on chromosome 14q32.31,  which might represent the largest tumor suppressor miRNA cluster, was downregulated in the shared expression profile.  This study provides the first evidence for association between these clusters and gliomas.  Despite the broad similarity in the miRNA expression profiles, 15 miRNAs showed disparate expression between SC and gliomas.  Ten miRNAs belong to the 2 SC-specific clusters and the remaining (mir135b, mir141, mir205, mir200C, and mir301a) have been previously shown to associate with malignancies.  Our finding showed that all gliomas displayed NPC-like miRNA signatures, which may have implications for studies of glioma origins.  Furthermore, careful study of the 15 miRNAs that differ in expression between SCs and gliomas, particularly those 5 that are not SC-specific, may enhance our understanding of gliomagenesis.   "
+    },
+    {
+        "triples": [],
+        "sentence": "Finally, we will discuss fundamental issues to be considered in study design when targeting the epigenome.    Pharmacology of epigenetics in brain disorders.   Epigenetics is a rapidly growing field and holds great promise for a range of human diseases, including brain disorders such as Rett syndrome, anxiety and depressive disorders, schizophrenia, Alzheimer disease and Huntington disease.  This review is concerned with the pharmacology of epigenetics to treat disorders of the epigenome whether induced developmentally or manifested/acquired later in life.  In particular, we will focus on brain disorders and their treatment by drugs that modify the epigenome.  While the use of DNA methyl transferase inhibitors and histone deacetylase inhibitors in in vitro and in vivo models have demonstrated improvements in disease-related deficits, clinical trials in humans have been less promising.  We will address recent advances in our understanding of the complexity of the epigenome with its many molecular players, and discuss evidence for a compromised epigenome in the context of an ageing or diseased brain.  We will also draw on examples of species differences that may exist between humans and model systems, emphasizing the need for more robust pre-clinical testing. "
+    },
+    {
+        "triples": [],
+        "sentence": "This review discusses potential RNAi-based targets that are of interest for epilepsy therapy, including adenosine kinase (ADK), the key negative regulator of the brain's endogenous anticonvulsant adenosine.  Therapeutic RNAi has been widely explored for dominant targets involved in neurodegenerative diseases; however, their use for epilepsy therapy has received less attention.  Therefore, RNAi-strategies aimed at reducing ADK (and increasing adenosine) are based on a direct neurochemical rationale that has recently been explored experimentally using ex vivo and in vivo gene therapy approaches.  Overexpression of ADK, and the resulting adenosine deficiency, are pathologic hallmarks of the sclerotic epileptic brain, and have been implicated in seizure generation.  Inhibitory RNA in epilepsy: research tools and therapeutic perspectives.   In contrast to conventional antiepileptic drugs (AEDs) that target specific proteins such as ion channels or receptors, RNAi-based therapeutics exploit an endogenous regulatory mechanism of gene expression and thereby are poised to prevent or reverse pathogenetic mechanisms involved in seizure development.  Since its discovery a decade ago, RNA interference (RNAi) has been developed not only into powerful experimental tools but also into promising novel therapeutics.  Technical issues and challenges remain before those promising tools can be developed into future therapeutics for epilepsy.   "
+    },
+    {
+        "triples": [
+            "Hsa-miR-30b|Specific_miRNAs-Diseases|medulloblastoma",
+            "Hsa-miR-30d|Specific_miRNAs-Diseases|medulloblastoma",
+            "hsa-miR-30b|Specific_miRNAs-Diseases|medulloblastomas",
+            "hsa-miR-30d|Specific_miRNAs-Diseases|medulloblastomas",
+            "hsa-miR-30b|Specific_miRNAs-Diseases|medulloblastoma",
+            "hsa-miR-30d|Specific_miRNAs-Diseases|medulloblastoma"
+        ],
+        "sentence": "A series of novel and established medulloblastoma defects were detected (MYC amplification (n = 4), 17q21.31 high-level gain (n = 1); 9p21.1-p21.3 (n = 1) and 6q23.1 (n = 1) homozygous deletion).  METHODOLOGY/PRINCIPAL FINDINGS: We performed a SNP-array based genome-wide copy number analysis in medulloblastoma cell lines, to identify regions of genomic amplification and homozygous deletion, which may harbour critical disease genes.  Most notably, a novel recurrent region of genomic amplification at 8q24.22-q24.23 was identified (n = 2), and selected for further investigation.  Amplification and overexpression of Hsa-miR-30b, Hsa-miR-30d and KHDRBS3 at 8q24.22-q24.23 in medulloblastoma.   The identification of critical genes involved in its pathogenesis will be central to advances in our understanding of its molecular basis, and the development of improved therapeutic approaches.  BACKGROUND: Medulloblastoma is the most common malignant brain tumour of childhood.  Of these, only expression of hsa-miR-30b, hsa-miR-30d and KHDRBS3 correlated with copy number status, and all three of these transcripts also displayed evidence of elevated expression in sub-sets of primary medulloblastomas, measured relative to the normal cerebellum.  Additional analysis by interphase fluorescence in situ hybridisation (iFISH), PCR-based mapping and SNP-array revealed this novel amplification at 8q24.22-q24.23 is independent of MYC amplification at 8q24.21, and is unique to medulloblastoma in over 800 cancer cell lines assessed from different tumour types, suggesting it contains key genes specifically involved in medulloblastoma development.  Detailed mapping identified a 3Mb common minimal region of amplification harbouring 3 coding genes (ZFAT1, LOC286094, KHDRBS3) and two genes encoding micro-RNAs (hsa-miR-30b, hsa-miR-30d).  Our findings suggest critical roles for these genes in medulloblastoma development, and further support the contribution of micro-RNA species to medulloblastoma pathogenesis.    CONCLUSIONS/SIGNIFICANCE: These data implicate hsa-miR-30b, hsa-miR-30d and KHDRBS3 as putative oncogenic target(s) of a novel recurrent medulloblastoma amplicon at 8q24.22-q24.23. "
+    },
+    {
+        "triples": [
+            "miR-29b|Specific_miRNAs-Diseases|glioblastoma",
+            "miR-29b|Specific_miRNAs-Genes/Proteins|podoplanin",
+            "miR-125a|Specific_miRNAs-Diseases|glioblastoma",
+            "miR-125a|Specific_miRNAs-Genes/Proteins|podoplanin",
+            "miR-29b|Specific_miRNAs-Diseases|glioblastoma",
+            "miR-125a|Specific_miRNAs-Diseases|glioblastoma",
+            "miR-29b|Specific_miRNAs-Genes/Proteins|PDPN",
+            "miR-125a|Specific_miRNAs-Genes/Proteins|PDPN",
+            "microRNAs|Non-Specific_miRNAs-Genes/Proteins|PDPN",
+            "microRNAs|Non-Specific_miRNAs-Diseases|glioblastomas",
+            "miR-29b|Specific_miRNAs-Diseases|glioblastomas",
+            "miR-125a|Specific_miRNAs-Diseases|glioblastomas",
+            "MicroRNAs|Non-Specific_miRNAs-Diseases|cancer"
+        ],
+        "sentence": "Recently, it was demonstrated that podoplanin membrane sialo-glycoprotein encoded by PDPN gene is over-expressed and related to cellular invasion in astrocytic tumors; however the mechanisms of regulation are still unknown.  Glioblastoma is the most frequent and malignant brain tumor, characterized by an elevated capacity for cellular proliferation and invasion.  miR-29b and miR-125a regulate podoplanin and suppress invasion in glioblastoma.   Taken together, these results suggest that miR-29b and miR-125a represent potential therapeutic targets in glioblastoma.    In this study, we focused on miR-29b and miR-125a, which were predicted to regulate PDPN, and demonstrated that these microRNAs directly target the 3' untranslated region of PDPN and inhibit invasion, apoptosis, and proliferation of glioblastomas.  Furthermore, we report that miR-29b and miR-125a are downregulated in glioblastomas and also in CD133-positive cells.  MicroRNAs are noncoding RNAs that regulate gene expression and several biological processes and diseases, including cancer.  Nevertheless, their roles in invasion, proliferation, and apoptosis of glioblastoma are not completely understood. "
+    },
+    {
+        "triples": [
+            "miR-326|Specific_miRNAs-Genes/Proteins|Ets-1",
+            "microRNA|Non-Specific_miRNAs-Diseases|multiple sclerosis",
+            "microRNA|Non-Specific_miRNAs-Diseases|autoimmune encephalomyelitis",
+            "microRNA|Non-Specific_miRNAs-Diseases|EAE",
+            "miR-326|Specific_miRNAs-Diseases|multiple sclerosis",
+            "miR-326|Specific_miRNAs-Diseases|autoimmune encephalomyelitis",
+            "miR-326|Specific_miRNAs-Diseases|EAE",
+            "miR-326|Specific_miRNAs-Diseases|EAE",
+            "MicroRNA|Non-Specific_miRNAs-Diseases|multiple sclerosis",
+            "miR-326|Specific_miRNAs-Diseases|multiple sclerosis"
+        ],
+        "sentence": "We also found that miR-326 promoted T(H)-17 differentiation by targeting Ets-1, a negative regulator of T(H)-17 differentiation.  Our data show a critical role for microRNA in T(H)-17 differentiation and the pathogenesis of multiple sclerosis.    Interleukin 17 (IL-17)-producing T helper cells (T(H)-17 cells) are increasingly recognized as key participants in various autoimmune diseases, including multiple sclerosis.  Although sets of transcription factors and cytokines are known to regulate T(H)-17 differentiation, the role of noncoding RNA is poorly understood.  Here we identify a T(H)-17 cell-associated microRNA, miR-326, whose expression was highly correlated with disease severity in patients with multiple sclerosis and mice with experimental autoimmune encephalomyelitis (EAE).  In vivo silencing of miR-326 resulted in fewer T(H)-17 cells and mild EAE, and its overexpression led to more T(H)-17 cells and severe EAE.  MicroRNA miR-326 regulates TH-17 differentiation and is associated with the pathogenesis of multiple sclerosis.  "
+    },
+    {
+        "triples": [
+            "miRNA-433|Specific_miRNAs-Genes/Proteins|FGF20",
+            "miRNA-433|Specific_miRNAs-Genes/Proteins|alpha-synuclein"
+        ],
+        "sentence": "Parkinson disease (PD) is a common neurodegenerative disorder caused by environmental and genetic factors.  Variation in the miRNA-433 binding site of FGF20 confers risk for Parkinson disease by overexpression of alpha-synuclein.   Subsequently, fibroblast growth factor 20 (FGF20) at 8p21.3-22 was identified as a risk factor in several association studies.  We have previously shown linkage of PD to chromosome 8p.  In a sample of 729 nuclear families with 1089 affected and 1165 unaffected individuals, the strongest evidence of association came from rs12720208 in the 3' untranslated region of FGF20.  To identify the risk-conferring polymorphism in FGF20, we performed genetic and functional analysis of single-nucleotide polymorphisms within the gene.  In a cell-based system and in PD brains, this increase in translation of FGF20 is correlated with increased alpha-synuclein expression, which has previously been shown to cause PD through both overexpression and point mutations.  We show in several functional assays that the risk allele for rs12720208 disrupts a binding site for microRNA-433, increasing translation of FGF20 in vitro and in vivo.  We propose this is likely to be a common mechanism of genetic modulation of individual susceptibility to complex disease.    We suggest a novel mechanism of action for PD risk in which the modulation of the susceptibility gene's translation by common variations interfere with the regulation mechanisms of microRNA. "
+    },
+    {
+        "triples": [],
+        "sentence": "The reason why a mild TBI results in varying clinical symptoms is currently unknown.  Based on evidence that microRNA species in peripheral blood mononuclear cells (PBMCs) may reflect molecular alterations in neurodegenerative disorders, it can be hypothesized that at early, preclinical phases of the disease, PBMC may provide an ideal and clinically assessable \"window\" into the brain.  Patients who have sustained a mild traumatic brain injury (TBI) from both civilian and military populations exhibit clinical symptoms of varying severity with minimal to profound impact on their daily functioning.  Although most patients make a full recovery, a subgroup of mild TBI patients develop cognitive, somatic, and neurobehavioral sequelae that generally resolve over 3 to 6 months; a smaller subgroup develop persisting symptoms.  Personalized medicine in traumatic brain injury.   Thus, it is conceivable that changes in the expression profile of clinically accessible biological indices (biomarkers), such as microRNA in PBMC, may reflect molecular alterations following TBI that contribute to the onset and progression of TBI phenotypes including chronic traumatic encephalopathy.  It is possible that the availability of TBI biomarkers may provide potential elements with clinical relevance to prevention, prognosis, and treatment of postconcussive disorders.   "
+    }
+]
