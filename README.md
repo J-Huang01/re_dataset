@@ -11,4 +11,5 @@ Dataset Info
 | miRNA    | Diseases, Relation_Trigger,<br/>Specific_miRNAs, Non-Specific_miRNAs,<br/>Species, Genes/Proteins | Non-Specific_miRNAs-Diseases,<br/>Specific_miRNAs-Diseases,<br/>Specific_miRNAs-Genes/Proteins,<br/>Non-Specific_miRNAs-Genes/Proteins |      |       |
 |     GDA     |                                                              |                                                              |   https://paperswithcode.com/dataset/gda   |       |
 |     GAD     |                                                              |                                                              | https://paperswithcode.com/sota/relation-extraction-on-gad     |       |
+|     DUIE     |                                                              |                                                              |   https://paperswithcode.com/sota/relation-extraction-on-duie  |       |
 
