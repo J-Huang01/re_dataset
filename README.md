@@ -16,3 +16,4 @@ Dataset Info
 |     2010 i2b2/VA    |                                                              |                                                              |  https://paperswithcode.com/dataset/2010-i2b2-va    or https://arxiv.org/pdf/2401.00579 or https://huggingface.co/datasets/nlpie/Llama2-MedTuned-Instructions|       |
 |     PGR    |                                                              |                                                              |   https://paperswithcode.com/dataset/pgr  |       |
 |Relation Extraction on 2018 n2c2 posology|                                |                                                               |https://paperswithcode.com/sota/relation-extraction-on-2018-n2c2-posology||
+|     COMAGC  & EUADR & PolySearch  |                                                              |                                                              |     https://arxiv.org/pdf/2310.18463  |       |
