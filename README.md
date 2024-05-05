@@ -12,4 +12,7 @@ Dataset Info
 |     GDA     |                                                              |                                                              |   https://paperswithcode.com/dataset/gda   |       |
 |     GAD     |                                                              |                                                              | https://paperswithcode.com/sota/relation-extraction-on-gad     |       |
 |     DUIE     |                                                              |                                                              |   https://paperswithcode.com/sota/relation-extraction-on-duie  |       |
-
+|     JNLPBA     |                                                              |                                                              |  https://paperswithcode.com/sota/relation-extraction-on-jnlpba  |       |
+|     2010 i2b2/VA    |                                                              |                                                              |  https://paperswithcode.com/dataset/2010-i2b2-va   |       |
+|     PGR    |                                                              |                                                              |   https://paperswithcode.com/dataset/pgr  |       |
+|Relation Extraction on 2018 n2c2 posology|                                |                                                               |https://paperswithcode.com/sota/relation-extraction-on-2018-n2c2-posology||
