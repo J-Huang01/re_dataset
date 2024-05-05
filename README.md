@@ -9,6 +9,6 @@ Dataset Info
 | DDI      | Drug                                                         | int, mechanism, advise, effect                               |      |       |
 | DrugProt | CHEMICAL, GENE- Y, GENE- N                                   | ACTIVATOR, AGONIST,<br/>AGONIST-ACTIVATOR,<br/>AGONIST-INHIBITOR, ANTAGONIST,<br/>DIRECT-REGULATOR,<br/>INDIRECT-DOWNREGULATOR,<br/>INDIRECT-UPREGULATOR, INHIBITOR,<br/>PART-OF, SUBSTRATE,<br/>SUBSTRATE_PRODUCT-OF |      |       |
 | miRNA    | Diseases, Relation_Trigger,<br/>Specific_miRNAs, Non-Specific_miRNAs,<br/>Species, Genes/Proteins | Non-Specific_miRNAs-Diseases,<br/>Specific_miRNAs-Diseases,<br/>Specific_miRNAs-Genes/Proteins,<br/>Non-Specific_miRNAs-Genes/Proteins |      |       |
-|          |                                                              |                                                              |      |       |
+|     GDA     |                                                              |                                                              |   https://paperswithcode.com/dataset/gda   |       |
 |          |                                                              |                                                              |      |       |
 
