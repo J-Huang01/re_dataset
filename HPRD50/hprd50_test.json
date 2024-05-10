@@ -1,0 +1,72 @@
+[
+    {
+        "triples": [
+            "Jak2|PPI|STAT3"
+        ],
+        "sentence": "Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of Jak2, p125FAK, and paxillin These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of Jak2, p125FAK, and paxillin and actin polymerization Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 (Jak2) and STAT3 in neutrophils Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and Jak2, STAT3, p125FAK, and paxillin phosphorylation Immunoprecipitation experiments revealed a physical association of Jak2 with p125FAK via STAT3 in vivo"
+    },
+    {
+        "triples": [
+            "CD43|PPI|sialoadhesin",
+            "CD43|PPI|Siglec-1",
+            "CD43|PPI|sialoadhesin",
+            "sialoadhesin|PPI|CD43",
+            "CD43|PPI|sialoadhesin"
+        ],
+        "sentence": "Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 (CD162), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions"
+    },
+    {
+        "triples": [
+            "beta 2 integrin|PPI|GPI-80",
+            "GPI-80|PPI|beta 2 integrin",
+            "beta 2 integrin|PPI|GPI-80",
+            "GPI-80|PPI|CD18",
+            "GPI-80|PPI|beta 2 integrin"
+        ],
+        "sentence": "Physical association of beta 2 integrin with GPI-80, a novel glycosylphosphatidylinositol-anchored protein with potential for regulating adhesion and migration To clarify the mechanisms by which GPI-80 functions on leukocytes, we explored the possibility of its physical association with beta 2 integrin which is important for leukocyte adherence, locomotion, and extravasation beta 2 integrin, detected by anti-CD18 mAb, was coprecipitated with GPI-80 from human neutrophil lysates by a mAb to GPI-80 In addition, GPI-80 was immunoprecipitated from human neutrophil lysates by anti-human CD18 mAb These results clearly show that GPI-80 is physically associated with beta 2 integrin in human neutrophils"
+    },
+    {
+        "triples": [],
+        "sentence": "DGKdelta (type II isozyme) contains a pleckstrin homology domain at the N terminus and a sterile alpha motif domain at the C terminus"
+    },
+    {
+        "triples": [
+            "MSH2|PPI|Chk1",
+            "MSH2|PPI|SMC1",
+            "Chk1|PPI|Rad17"
+        ],
+        "sentence": "We report that MSH2 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 (structure maintenance of chromosome 1) We found that phosphorylation of Chk1 by ATR also requires checkpoint proteins Rad17 and replication protein A In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival"
+    },
+    {
+        "triples": [
+            "CD22|PPI|protein tyrosine phosphatase 1C",
+            "CD22|PPI|PTP-1C",
+            "PTP-1C|PPI|CD22",
+            "PTP-1C|PPI|CD22",
+            "CD22|PPI|PTP-1C",
+            "CD22|PPI|PTP-1C",
+            "PTP-1C|PPI|CD22"
+        ],
+        "sentence": "CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22 The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C"
+    },
+    {
+        "triples": [
+            "TFIID|PPI|TAF(II)250",
+            "TAF(II)250|PPI|TFIID"
+        ],
+        "sentence": "TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID"
+    },
+    {
+        "triples": [
+            "BCL-6|PPI|histone deacetylase-1"
+        ],
+        "sentence": "We report here that PLZF, and a structurally similar transcriptional repressor, BCL-6, can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) histone deacetylase-1"
+    },
+    {
+        "triples": [
+            "Bcl3|PPI|TFIIB",
+            "Bcl3|PPI|TFIIA"
+        ],
+        "sentence": "Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR"
+    }
+]

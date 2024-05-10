@@ -1,0 +1,1374 @@
+[
+    {
+        "triples": [],
+        "sentence": "A sequential procedure for monitoring clinical trials against historical controls. In this paper, we develop a sequential procedure to monitor clinical trials against historical controls. When there is a strong ethical concern about randomizing patients to existing treatment because biological and medical evidence suggests that the new treatment is potentially superior to the existing one, or when the enrollment is too limited for randomization of subjects into experimental and control groups, one can monitor the trial sequentially against historical controls if the historical data with required quality and sample size are available to form a valid reference for the trial. This design of trial is sometimes the only alternative to a randomized phase III trial design that is intended but not feasible in situations such as above. Monitoring this type of clinical trial leads to a statistical problem of comparing two population means in a situation in which data from one population are sequentially collected and compared with all data from the other population at each interim look. The proposed sequential procedures is based on the sequential conditional probability ratio test (SCPRT) by which the conclusion of the sequential test would be virtually the same as that arrived at by a non-sequential test based on all data at the planned end of the trial. We develop the sequential procedure by proposing a Brownian motion that emulates the test statistic, and then proposing an SCPRT that is adapted to the special properties of the trial.CI - Copyright (c) 2006 John Wiley & Sons, Ltd."
+    },
+    {
+        "triples": [
+            "antiepileptic agents|SA|perioperative seizures",
+            "oxcarbazepine|PA|perioperative seizures",
+            "oxcarbazepine|NA|major side effects",
+            "oxcarbazepine|PA|hematological side effects",
+            "antiepileptic agents|PA|perioperative seizures",
+            "oxcarbazepine|PA|early postoperative seizures",
+            "oxcarbazepine|PA|primary brain tumors",
+            "oxcarbazepine|PA|early postoperative seizures",
+            "oxcarbazepine|PA|supratentorial brain gliomas",
+            "oxcarbazepine|PA|major side effects"
+        ],
+        "sentence": "Prevention of early postoperative seizures in patients with primary brain tumors: preliminary experience with oxcarbazepine. Early postoperative seizures are defined as those that appear within the first week after surgery and are a well-known and feared complication in patients with supratentorial brain tumors. Few studies have investigated the value of pharmacological prophylaxis in the prevention of postoperative seizures in these patients and their outcome has not been consistent. Furthermore, the efficacy of the new generation of antiepileptic agents in the prophylaxis of perioperative seizures has not been assessed so far. We analyzed the data related to 150 patients harboring supratentorial brain gliomas with the aim to assess the efficacy of oxcarbazepine in preventing the occurrence or the recurrence of early postoperative seizures and its tolerability when it is rapidly titrated. Only four patients (2.7%) experienced seizures within the first week after surgery. Patients did not report disturbances during the titration phase. Regarding adverse events in the first week, six patients (4%) showed minor skin rash. Persistent symptomatic hyponatremia never occurred. Our data showed that oxcarbazepine can be a good alternative to traditional antiepileptic agents in the prevention of perioperative seizures being efficacy, ease of use (rapid titration in 3 days, not requiring close plasma concentration monitoring) and good tolerability (no major side effects during titration and during the first postoperative week) the key factors. Moreover, oxcarbazepine can be a valid choice when long-term therapy is required because of the low interaction with other drugs and the low hematological side effects."
+    },
+    {
+        "triples": [
+            "RTX|PA|lymphoma",
+            "RTX|PA|mixed cryoglobulinaemia",
+            "RTX|PA|thrombocytopenia",
+            "RTX|PA|mononeuritis multiplex",
+            "RTX|PA|refractory pulmonary disease with polysynovitis",
+            "RTX|PA|severe polysynovitis",
+            "RTX|SA|pSS",
+            "RTX|PA|tumour necrosis",
+            "rituximab|PA|complications",
+            "rituximab|PA|primary SjÃ¶gren's syndrome",
+            "rituximab|PA|primary SjÃ¶gren's syndrome",
+            "rituximab|PA|systemic symptoms",
+            "rituximab|PA|pSS",
+            "RTX|PA|pSS"
+        ],
+        "sentence": "Tolerance and efficacy of rituximab and changes in serum B cell biomarkers in patients with systemic complications of primary SjÃ¶gren's syndrome. OBJECTIVE: To investigate the safety and efficacy of rituximab (RTX) for systemic symptoms in patients with primary SjÃ¶gren's syndrome (pSS), and changes in B cell biomarkers. PATIENTS AND METHODS: The records of 16 patients with pSS according to the American European consensus group criteria were reviewed retrospectively. RESULTS: Patients, all women, had a median age of 58.5 (range 41-71) years and a disease duration of 9.5 (range 0-25) years. RTX was prescribed for lymphoma (n = 5), refractory pulmonary disease with polysynovitis (n = 2), severe polysynovitis (n = 2), mixed cryoglobulinaemia (n = 5), thrombocytopenia (n = 1) and mononeuritis multiplex (n = 1). The median follow-up duration was 14.5 (range 2-48) months. Three patients experienced adverse events, including one mild serum sickness-like reaction with the presence of human antichimeric antibodies. Efficacy of treatment was observed in 4 of 5 patients with lymphomas and in 9 of 11 patients with systemic involvement. Dryness was improved in only a minority of patients. Corticosteroid dose was reduced in 11 patients. RTX induced decreased rheumatoid factor, gamma-globulin and beta2-microglobulin levels, and the level of B cell activating factor of the tumour necrosis factor family (BAFF) increased concomitantly with B cell depletion. Five patients were re-treated, with good efficacy and tolerance, except for one with probable serum sickness-like reaction. CONCLUSION: This study shows good efficacy and fair tolerance of RTX for systemic features. In addition, RTX allows for a marked reduction in corticosteroid use. Except for BAFF, the level of which increases, serum B cell biomarker levels decrease after taking RTX. Controlled trials should be performed to confirm the efficacy of RTX in pSS."
+    },
+    {
+        "triples": [],
+        "sentence": "Differential effects of inactivated Axin1 and activated beta-catenin mutations in human hepatocellular carcinomas. Perturbations to the Wnt signaling pathway have been implicated in a large proportion of human hepatocellular carcinomas (HCCs). Activating beta-catenin mutations and loss of function mutations in Axin1 are thought to be functionally equivalent. We examined the Wnt pathway in HCC by comparing the expression of beta-catenin target genes and the level of beta-catenin-dependent transcriptional activation, in 45 HCC tumors and four cell lines. Among these samples, beta-catenin and AXIN1 were mutated in 20 and seven cases, respectively. We found a significant correlation between activated beta-catenin mutations and overexpression of mRNA for the target genes glutamine synthetase (GS), G-protein-coupled receptor (GPR)49 and glutamate transporter (GLT)-1 (P=0.0001), but not for the genes ornithine aminotransferase, LECT2, c-myc and cyclin D1. We also showed that GS is a good immunohistochemical marker of beta-catenin activation in HCC. However, we observed no induction of GS, GPR49 or GLT-1 in the five inactivated Axin1 tumors. Beta-catenin-dependent transcriptional activation in two Axin1-mutated HCC cell lines was much weaker than in beta-catenin-mutated cell lines. Our results strongly suggest that in HCC, contrary to expectation, the loss of function of Axin1 is not equivalent to the gain of function of beta-catenin. Our results also suggest that the tumor suppressor function of Axin1 in HCC may be related to another, non-Wnt pathway."
+    },
+    {
+        "triples": [],
+        "sentence": "ATM regulates ionizing radiation-induced disruption of HDAC1:PP1:Rb complexes. Ionizing radiation elicits signaling events that coordinate DNA repair and interruption of cell cycle progression. We previously demonstrated that ionizing radiation (IR) of cells activates nuclear protein phosphatase-1 (PP1) by promoting dephosphorylation of Thr320, an inhibitory site in the enzyme and that the ATM kinase is required for this response. We sought to identify potential targets of IR-activated PP1. Untreated and IR-treated Jurkat cells were labeled with (32)P orthophosphate, and nuclear extracts were subjected to microcystin affinity chromatography to recover phosphatase complexes that were analyzed by 2D-PAGE and mass spectrometry. Several proteins associated with protein phosphatases demonstrated a significant decrease in (32)P intensity following IR, and one of these was identified as HDAC1. Co-immunoprecipitation revealed complexes containing PP1 with HDAC1 and Rb in cell extracts. In response to IR, there was an ATM-dependent activation of PP1, dephosphorylation of HDAC1, dissociation of HDAC1-PP1-Rb complexes and increased HDAC1 activity. These results suggest that IR regulates HDAC1 phosphorylation and activity through ATM-dependent activation of PP1."
+    },
+    {
+        "triples": [
+            "Thr genotypes|PA|NHL",
+            "Thr genotypes|PA|B-cell lymphoma",
+            "Ala/Thr|PA|NHL",
+            "Ala/Thr|PA|B-cell lymphoma",
+            "Thr/Thr|PA|NHL",
+            "Thr/Thr|PA|B-cell lymphoma",
+            "circadian genes|SA|NHL",
+            "circadian genes|PA|lymphomagenesis",
+            "clock|PA|non-Hodgkin's lymphoma",
+            "NPAS2|PA|non-Hodgkin's lymphoma",
+            "NHL|PA|non-Hodgkin's lymphoma",
+            "NHL|PA|B-cell lymphoma",
+            "NHL|PA|lymphomagenesis",
+            "Ala394Thr|PA|non-Hodgkin's lymphoma",
+            "NPAS2|SA|NHL",
+            "Ala394Thr|SA|NHL",
+            "rs2305160|SA|NHL"
+        ],
+        "sentence": "Ala394Thr polymorphism in the clock gene NPAS2: a circadian modifier for the risk of non-Hodgkin's lymphoma. Circadian disruption is theorized to cause immune dysregulation, which is the only established risk factor for non-Hodgkin's lymphoma (NHL). Genes responsible for circadian rhythm are also involved in cancer-related biological pathways as potential tumor suppressors. However, no previous studies have examined associations between circadian genes and NHL risk. In this population-based case control study (n = 455 cases; 527 controls), we examined the only identified nonsynonymous polymorphism (Ala394Thr; rs2305160) in the largest circadian gene, neuronal PAS domain protein 2 (NPAS2), in order to examine its impact on NHL risk. Our results demonstrate a robust association of the variant Thr genotypes (Ala/Thr and Thr/Thr) with reduced risk of NHL (OR = 0.66, 95% CI: 0.51-0.85, p = 0.001), especially B-cell lymphoma (OR = 0.61, 95% CI: 0.47-0.80, p <or= 0.0001). These findings provide the first molecular epidemiologic evidence supporting a role of circadian genes in lymphomagenesis, which suggests that genetic variations in circadian genes might be a novel panel of promising biomarkers for NHL and warrants further investigation.CI - (c) 2006 Wiley-Liss, Inc."
+    },
+    {
+        "triples": [
+            "rs3840846|PA|schizophrenia",
+            "rs3826047|PA|schizophrenia",
+            "rs3743500|PA|schizophrenia",
+            "T-G-T|PA|schizophrenia",
+            "del-G-G|PA|schizophrenia",
+            "NPTN|SA|schizophrenia",
+            "promoter polymorphisms in the neuroplastin|PA|schizophrenia",
+            "NPTN|PA|schizophrenia",
+            "NPTN|PA|METH/PCP-reactive tags",
+            "PCP|PA|schizophrenia",
+            "PCP|PA|METH/PCP-reactive tags",
+            "BSG|PA|schizophrenia",
+            "BSG|PA|METH/PCP-reactive tags",
+            "NPTN|PA|schizophrenia",
+            "immunoglobulin|SA|schizophrenia"
+        ],
+        "sentence": "Association study of putative promoter polymorphisms in the neuroplastin gene and schizophrenia. A previous study revealed a number of methamphetamine (METH) and phencyclidine (PCP)-reactive tags in a rat brain through serial analysis of gene expression. The present study extends this previous study by investigating whether two genes, which deduced from METH/PCP-reactive tags, were identified as those encoding human transmembrane proteins of the immunoglobulin (Ig) superfamily, neuroplastin (NPTN) and basigin (BSG), confer genetic susceptibility to schizophrenia by analyzing single nucleotide polymorphisms (SNPs). There were nominally significant differences between the two groups in their allelic frequencies (T Ins/Del, chi2=4.910, d.f.=1, P=0.040) and genotypic distributions (T/T or T/Del, chi2=5.116, d.f.=1, P=0.036) of rs3840846 in the 5'-upstream of NPTN. The two groups differed significantly also in their allelic frequencies (G/T, chi2=4.229, d.f.=1, P=0.044), but not genotypic distributions of rs3743500 in the 5'-upstream of NPTN. The haplotypes constructed from the three SNPs (rs3840846, rs3826047 and rs3743500, in order) in the 5'-upstream of NPTN showed a significant association with schizophrenia (permutation P=0.036), in that T-G-T (permutation P=0.028) and del-G-G (permutation P=0.040) were under-represented and over-represented, respectively, in schizophrenia. A reporter construct driven by the 5'-upstream region containing any haplotype consisting of the three SNPs had substantial transcriptional activity. Notably, a reporter construct containing a haplotype T-G-T had significantly lower transcriptional activity as compared with one having a haplotype T-G-G or T-A-G. There was no significant difference between the two groups regarding allelic frequencies, genotypic distribution or the adopted SNP-combinatory haplotype for BSG. These results suggest that NPTN may be involved in genetic susceptibility to schizophrenia."
+    },
+    {
+        "triples": [],
+        "sentence": "Caspase-3 regulates catalytic activity and scaffolding functions of the protein tyrosine phosphatase PEST, a novel modulator of the apoptotic response. The protein tyrosine phosphatase PEST (PTP-PEST) is involved in the regulation of the actin cytoskeleton. Despite the emerging functions attributed to both PTPs and the actin cytoskeleton in apoptosis, the involvement of PTP-PEST in apoptotic cell death remains to be established. Using several cell-based assays, we showed that PTP-PEST participates in the regulation of apoptosis. As apoptosis progressed, a pool of PTP-PEST localized to the edge of retracting lamellipodia. Expression of PTP-PEST also sensitized cells to receptor-mediated apoptosis. Concertedly, specific degradation of PTP-PEST was observed during apoptosis. Pharmacological inhibitors, immunodepletion experiments, and in vitro cleavage assays identified caspase-3 as the primary regulator of PTP-PEST processing during apoptosis. Caspase-3 specifically cleaved PTP-PEST at the (549)DSPD motif and generated fragments, some of which displayed increased catalytic activity. Moreover, caspase-3 regulated PTP-PEST interactions with paxillin, leupaxin, Shc, and PSTPIP. PTP-PEST acted as a scaffolding molecule connecting PSTPIP to additional partners: paxillin, Shc, Csk, and activation of caspase-3 correlated with the modulation of the PTP-PEST adaptor function. In addition, cleavage of PTP-PEST facilitated cellular detachment during apoptosis. Together, our data demonstrate that PTP-PEST actively contributes to the cellular apoptotic response and reveal the importance of caspases as regulators of PTPs in apoptosis."
+    },
+    {
+        "triples": [
+            "asbestos|PA|asbestos-related diseases"
+        ],
+        "sentence": "The 2nd ADAO Asbestos Conference. On National Asbestos Awareness Day 2006, a conference was held at Mount Sinai, the home ground of Dr. Irving J. Selikoff, who, more than any other single individual, started the debate about occupational hazards in the U.S. Four decades after the pioneering conference on the Biological Effects of Asbestos was organized by Drs. Selikoff and Churg, asbestos victims and their relatives, public health campaigners, medical professionals, journalists and community representatives convened in New York City to assess the progress that had been made in raising public, professional and political awareness of asbestos-related diseases. The report which follows conveys the substance of their presentations and highlights key issues which were discussed.CI - (c) 2006 Wiley-Liss, Inc."
+    },
+    {
+        "triples": [
+            "ROAb12|PA|RANTES",
+            "ROAb12|PA|MIP1alpha",
+            "ROAb12|PA|MIP1beta",
+            "ROAb13|NA|RANTES",
+            "ROAb13|NA|MIP1alpha",
+            "ROAb13|NA|MIP1beta",
+            "ROAb14|PA|RANTES",
+            "ROAb14|PA|MIP1alpha",
+            "ROAb14|PA|MIP1beta",
+            "ROAb18|PA|RANTES",
+            "ROAb18|PA|MIP1alpha",
+            "ROAb18|PA|MIP1beta",
+            "mAbs|NA|CCR5",
+            "enfuvirtide|PA|CCR5 antagonist",
+            "maraviroc|PA|CCR5 antagonist"
+        ],
+        "sentence": "Novel CCR5 monoclonal antibodies with potent and broad-spectrum anti-HIV activities. To identify monoclonal antibodies (mAbs) with high potency and novel recognition sites, more than 25,000 of mouse hybridomas were screened and 4 novel anti-human CCR5 mAbs ROAb12, ROAb13, ROAb14, and ROAb18 showing potent activity in cell-cell fusion (CCF) assay were identified. These mAbs demonstrated potent antiviral activities in both single-cycle HIV infection (IC(50) range: 0.16-4.3 microg/ml) and PBMC viral replication (IC(50) range: 0.02-0.04 microg/ml) assays. These potent antiviral effects were donor-independent. All 4 mAbs were also highly potent in the PhenoSense assay against 29 HIV isolates covering clade A through G. In all antiviral assays, these mAbs showed potency superior to the previously reported mAb 2D7 in side-by-side comparison studies. All 4 mAbs were also fully active against viruses resistant to HIV fusion inhibitor enfuvirtide and CCR5 antagonist maraviroc. Although ROAb12, ROAb14, and ROAb18 inhibited RANTES, MIP1alpha and MIP1beta binding and cell activation, the other novel mAb ROAb13 was inactive in inhibiting cell activation by these three ligands. Furthermore, highly synergistic antiviral effects were found between mAb ROAb13 and 2D7 or ROAb12. In addition, none of these mAbs showed agonist activity or caused internalization of the CCR5 receptor."
+    },
+    {
+        "triples": [
+            "L-165041|PA|caspase-3",
+            "GW501516|PA|caspase-3",
+            "MPTP|PA|dopamine",
+            "PPARdelta agonists|SA|PPARdelta",
+            "L-165041|PA|PPARdelta agonists",
+            "4-[3-(4-acetyl-3-hydroxy-2-propylphenoxy)-propoxyl]phenoxy]-acetic acid|PA|PPARdelta agonists",
+            "GW501516|PA|PPARdelta agonists",
+            "2-methyl4-((4-methyl-2-(4-trifluoromethylphenyl)-1,3-triazol-5-yl)-methylsulfanyl)phenoxy acetic acid|PA|PPARdelta agonists",
+            "1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine|PA|PPARdelta agonists",
+            "MPTP|PA|PPARdelta agonists",
+            "dopamine|SA|PPARdelta agonists",
+            "MPTP|SA|PPARdelta agonists",
+            "thapsigargin|PA|caspase-3",
+            "1-methyl-4-phenylpyridinium|PA|caspase-3",
+            "staurosporine|PA|caspase-3"
+        ],
+        "sentence": "Neuroprotective efficacy of the peroxisome proliferator-activated receptor delta-selective agonists in vitro and in vivo. Peroxisome proliferator-activated receptors (PPARs) are members of the nuclear receptor superfamily and function as ligand-modulated transcription factors that regulate gene expression in many important biological processes. The PPARdelta subtype has the highest expression in the brain and is postulated to play a major role in neuronal cell function; however, the precise physiological roles of this receptor remain to be elucidated. Herein, we show that the high-affinity PPARdelta agonists L-165041 [4-[3-(4-acetyl-3-hydroxy-2-propylphenoxy)-propoxyl]phenoxy]-acetic acid] and GW501516 [2-methyl4-((4-methyl-2-(4-trifluoromethylphenyl)-1,3-triazol-5-yl)-methylsulfanyl)phenoxy acetic acid] protect against cytotoxin-induced SH-SY5Y cell injury in vitro and both ischemic brain injury and 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) neurotoxicity in vivo. In the SH-SY5Y studies, treatment with L-165041 or GW501516 significantly and concentration-dependently attenuated cell death following thapsigargin, 1-methyl-4-phenylpyridinium, or staurosporine exposure, with the extent of damage correlated with the level of caspase-3 inhibition. In the transient (90 min) middle cerebral artery occlusion model of ischemic brain injury in rats, i.c.v. infusion of L-165041 or GW501516 significantly attenuated the ischemic brain damage measured 24 h after reperfusion. Moreover, the PPARdelta agonists also significantly attenuated MPTP-induced depletion of striatal dopamine and related metabolite contents in mouse brain. These results demonstrate that subtype-selective PPARdelta agonists possess antiapoptotic properties in vitro, which may underlie their potential neuroprotective potential in in vivo experimental models of cerebral ischemia and Parkinson's disease (PD). These findings suggest that PPARdelta agonists could be useful tools for understanding the role of PPARdelta in other neurodegenerative disorders, as well as attractive therapeutic candidates for stroke and neurodegenerative diseases such as PD."
+    },
+    {
+        "triples": [
+            "cocaine|PA|Spinal cord infarction",
+            "Cocaine|PA|cerebrovascular events",
+            "Cocaine|PA|spinal cord effects",
+            "cocaine|PA|spinal cord infarction",
+            "cocaine|PA|secondary"
+        ],
+        "sentence": "Spinal cord infarction secondary to cocaine use. A 27-yr-old woman recreationally inhaled cocaine. Several hours later, she noted chest tightness, back and neck pain, and later bilateral upper-extremity weakness. Physical examination revealed flaccid paresis of the upper extremities. Spasticity at 2 mos after injury, but no detectable weakness, developed in the lower extremities. Cocaine was detected in her urine. Magnetic resonance imaging showed hyperintensity in the anterior cervicothoracic spinal cord. Electrodiagnostic studies of the upper extremities were consistent with anterior horn cell death. Cocaine abuse is associated with cerebrovascular events; spinal cord effects are rarely reported. The patient seems to have an infarct in the anterior spinal artery distribution, with clinical, imaging, and electrodiagnostic findings of upper-extremity lower-motor neuron injury, accompanied by spasticity of the lower extremities. Gray matter has increased susceptibility to ischemia compared with white matter, producing flaccid weakness in the cervical region with isolated arm weakness. Although uncommon, cocaine abuse can cause spinal cord infarction."
+    },
+    {
+        "triples": [
+            "EGF|PA|Fas",
+            "IGF-I|PA|Fas",
+            "VEGF|PA|Fas"
+        ],
+        "sentence": "The variation in Fas localization and the changes in Fas expression level upon stimulation with growth factors. Although Fas (APO-1/CD95) is well known as a death receptor, its stimulation occasionally fails to induce apoptosis in malignant cells. On the contrary, Fas is reported to advance the cell cycle in cancer cells. Therefore, we investigated roles of Fas in cell growth and apoptosis using human lung cancer cell lines. Fas was localized in the cytoplasm in exponentially growing cells, whereas only confluent cells expressed Fas on the cell membrane. A stimulation of confluent cells by either of EGF, IGF-I or VEGF induced once a decrease in Fas expression level and its sequential recovery. Fas expression levels in confluent cells were negatively correlated with cell doubling times (r=0.757, p=0.0088). Fas remained on the cell membrane of IgM-treated cells even after the growth factor stimulation, leading to apoptosis with abnormal mitosis, whereas the same stimulation induced Fas internalization in IgG(1)-treated cells. From these results, we suggest that Fas remaining on the cell membrane amplifies to induce apoptosis. Conversely, Fas internalization may enable cancer cells to escape from apoptosis. Our results suggest that growth factor may contribute to the resistance of cancer cells to Fas-mediated apoptosis in an autocrine or paracrine fashion."
+    },
+    {
+        "triples": [
+            "Mn|PA|cytokines",
+            "Mn|PA|transporters",
+            "Mn|PA|signal transducers",
+            "Mn|PA|transcriptional regulators"
+        ],
+        "sentence": "Gene expression profiling of human primary astrocytes exposed to manganese chloride indicates selective effects on several functions of the cells. Exposure of adult humans to manganese (Mn) has long been known to cause neurotoxicity. Recent evidence also suggests that exposure of children to Mn is associated with developmental neurotoxicity. Astrocytes are critical for the proper functioning of the nervous system, and they play active roles in neurogenesis, synaptogenesis and synaptic neurotransmission. In this report, to help elucidate the molecular events underlying Mn neurotoxicity, we systematically identified the molecular targets of Mn in primary human astrocytes at a genome-wide level, by using microarray gene expression profiling and computational data analysis algorithms. We found that Mn altered the expression of diverse genes ranging from those encoding cytokines and transporters to signal transducers and transcriptional regulators. Particularly, 28 genes encoding proinflammatory chemokines, cytokines and related functions were up-regulated, whereas 15 genes encoding functions involved in DNA replication and repair and cell cycle checkpoint control were down-regulated. Consistent with the increased expression of proinflammatory factors, analysis of common regulators revealed that 16 targets known to be positively affected by the interferon-gamma signaling pathway were up-regulated by Mn(2+). In addition, 68 genes were found to be similarly up- or down-regulated by both Mn(2+) and hypoxia. These results from genomic analysis are further supported by data from real-time RT-PCR, Western blotting, flow cytometric and toxicological analyses. Together, these analyses show that Mn(2+) selectively affects cell cycle progression, the expression of hypoxia-responsive genes, and the expression of proinflammatory factors in primary human astrocytes. These results provide important insights into the molecular mechanisms underlying Mn neurotoxicity."
+    },
+    {
+        "triples": [
+            "tumor necrosis factor-related apoptosis inducing ligand |PA|infection with an adenovirus",
+            "TRAIL|PA|prostate cancer",
+            "CAR|PA|adenovirus",
+            "TRAIL|PA|infection with an adenovirus",
+            "TRAIL|PA|prostate cancer"
+        ],
+        "sentence": "The histone deacetylase inhibitors depsipeptide and MS-275, enhance TRAIL gene therapy of LNCaP prostate cancer cells without adverse effects in normal prostate epithelial cells. Gene therapy of cancer using adenovirus as a single treatment modality has met limited success and efforts to enhance therapeutic outcomes have included combination of gene therapy with chemotherapy. The goal of this study was to investigate which chemotherapeutic agents may be suitable for combination with gene therapy of prostate cancer. Using an adenovirus expressing green fluorescent protein (GFP), we determined the effect of cisplatin, gemcitabine, doxorubicin, depsipeptide and MS-275 on adenoviral infectivity and transgene expression in LNCaP cells. We found that the two histone deacetylase inhibitors (HDACi), depsipeptide and MS-275, and to a lesser extent doxorubicin, increased infectivity and transgene expression. However, only the HDACi selectively increased infectivity in LNCaP cells while doxorubicin increased infectivity to a greater extent in normal prostate epithelial cells (PrEC). The increase in infectivity but not transgene expression correlated to increased surface expression of coxsackie and adenovirus receptor (CAR). Increased transgene expression following infection with an adenovirus expressing tumor necrosis factor-related apoptosis inducing ligand (TRAIL) was observed only in LNCaP cells treated with depsipeptide or MS-275. Combination of TRAIL gene therapy with HDACi but not doxorubicin resulted in increased induction of apoptosis in LNCaP cells. In contrast, apoptosis was not enhanced by HDACi in normal PrEC. These results suggest that combination of HDACi with adenoviral TRAIL gene therapy may be a new therapeutic approach for the treatment of prostate cancer that warrants further investigation."
+    },
+    {
+        "triples": [],
+        "sentence": "The Connectivity Map: a new tool for biomedical research. The ultimate objective of biomedical research is to connect human diseases with the genes that underlie them and drugs that treat them. But this remains a daunting task, and even the most inspired researchers still have to resort to laborious screens of genetic or chemical libraries. What if at least some parts of this screening process could be systematized and centralized? And hits found and hypotheses generated with something resembling an internet search engine? These are the questions the Connectivity Map project set out to answer."
+    },
+    {
+        "triples": [
+            "unidentified neurotoxin|PA|acute polyneuropathy",
+            "Urtica ferox|PA|motor polyneuropathy",
+            "Urtica ferox|PA|acute polyneuropathy"
+        ],
+        "sentence": "Urtica ferox neuropathy. A 21-year-old student developed an acute, symmetrical, predominantly motor polyneuropathy within 48 h of walking through a patch of nettles (Urtica ferox). Two companions had similar but less severe symptoms. Nerve conduction studies demonstrated markedly reduced compound muscle action potentials and prolonged distal motor latencies. Recovery occurred over a period of a few weeks. This case demonstrates that cutaneous exposure to Urtica ferox can cause an acute polyneuropathy and that its stinging hairs contain an unidentified neurotoxin."
+    },
+    {
+        "triples": [
+            "botulinum toxin type A injections|PA|lateral canthal rhytids",
+            "Botulinum toxin|PA|lateral canthal rhytids",
+            "botulinum toxin|PA|dry eye",
+            "botulinum toxin type a|PA|tear",
+            "botulinum toxin type A injections|PA|tear",
+            "botulinum toxin type A injections|PA|dry eye",
+            "Botulinum toxin|PA|tear",
+            "botulinum toxin|PA|complication",
+            "botulinum toxin|PA|tear production"
+        ],
+        "sentence": "Effect of botulinum toxin type a on tear production after treatment of lateral canthal rhytids. PURPOSE: To evaluate the incidence of temporary dry eye and the effects on lacrimal gland tear production after treatment of lateral canthal rhytids with botulinum toxin type A injections. METHODS: Twenty-six crow's feet areas were injected with botulinum toxin type A in 13 women with an age range of 31 to 58 years. A total of 10 units of botulinum toxin was injected per side, with two separate injections. Schirmer 1 testing was performed before and at 1 week, 1 month, and 4 months after the injections in all patients. The test was repeated at 6 months and 9 months for the patients whose Schirmer test results were not back to baseline at the 4-month follow-up. Statistical significance was evaluated with paired t test analysis. RESULTS: Overall, no statistical difference was found in Schirmer test results from baseline at 1 week (p = 0.23), 1 month (p = 0.32), or 4 months (p = 0.30) after injection. Five eyes of three patients had a significant decrease in Schirmer test results from baseline at 1 week and 1 month after injection. Three eyes of 2 patients had a significant decrease in Schirmer test results at 4 months after injection. Only one patient reported dry-eye symptoms at the 4-month follow-up. Schirmer test results of two eyes of one patient remained significantly lower than baseline at 6 months follow-up, which returned to the normal range at 9 months. CONCLUSIONS: Botulinum toxin for lateral canthal rhytids usually does not suppress tear production. However, decreased tear production after botulinum toxin injection for crow's feet is a possible complication and patients should be advised of the small but definite risk of a temporary dry eye."
+    },
+    {
+        "triples": [
+            "Mutations in the low-density lipoprotein receptor-related protein 5|PA|low bone mass",
+            "Mutations in the low-density lipoprotein receptor-related protein 5|PA|high",
+            "LRP5|SA|osteoporosis",
+            "rs1784235|SA|osteoporosis",
+            "rs491347|SA|osteoporosis",
+            "LRP5|PA|bone mass",
+            "LRP5 variants|PA|BMD",
+            "LRP5 variation|PA|minor",
+            "LRP5|PA|Mutations in the low-density lipoprotein receptor-related protein 5",
+            "LRP5|PA|BMD",
+            "LRP5|PA|still",
+            "LRP5|PA|BMD",
+            "polymorphisms in block 5 spanning intron 7 to intron 19 of LRP5|PA|BMD",
+            "polymorphisms in block 5 spanning intron 7 to intron 19 of LRP5|PA|block",
+            "LRP5|PA|BMD",
+            "LRP5 variation|PA|bone structure",
+            "block|PA|BMD",
+            "rs491347 in intron 7|PA|BMD",
+            "LRP5|PA|fractures"
+        ],
+        "sentence": "Low-density lipoprotein receptor-related protein 5 (LRP5) gene polymorphisms are associated with bone mass in both Chinese and whites. In this study, the associations of novel LRP5 variants with BMD variation were detected and some replicated in the two ethnic groups of Chinese and white origins, respectively. These data support the concept that LRP5 variation can contribute to minor and major variation in bone structure. INTRODUCTION: Mutations in the low-density lipoprotein receptor-related protein 5 (LRP5) gene have been shown to cause both high and low bone mass. However, it is still controversial whether LRP5 is associated with normal BMD variation. This study explored the association of LRP5 with BMD phenotypes at three clinically important skeletal sites-the spine, hip, and ultradistal radius (UD)-in two independent populations of Chinese and white ethnicities, respectively. MATERIALS AND METHODS: The Chinese sample consisted of 733 unrelated subjects. The white sample was made up of 1873 subjects from 405 nuclear families. High-density single nucleotide polymorphisms (SNPs) across the whole LRP5 gene were genotyped and analyzed in both samples. RESULTS: Linkage disequilibrium (LD) analyses showed that the haplotype structures of LRP5 between Chinese and whites were in good agreement. Association tests showed that polymorphisms in block 5 spanning intron 7 to intron 19 of LRP5 significantly associated with spine BMD variation in both samples. Particularly, the significant association of SNP rs491347 in intron 7 with spine BMD in the Chinese sample (p=0.002) was replicated in whites, even after adjusting for multiple testing (p=0.005). Its strongly associated SNP rs1784235 could cause the loss of an estrogen receptor alpha (ERalpha) binding site in LRP5, which could partially explain the above replicated association. However, we did not observe any significant replication with BMD variation at the hip and UD. After accounting for multiple testing, associations with BMD variation at these two sites were mainly found in Chinese. Sex-stratified analyses further revealed that the LRP5 associations with BMD in Chinese and whites were driven by male and female subjects, respectively. CONCLUSIONS: Our work supported LRP5 genetic variants as possible susceptibility factors for osteoporosis and fractures in humans. Especially, the SNP rs491347 and its strongly associated SNPs (e.g., rs1784235) could be important to human osteoporosis phenotypes."
+    },
+    {
+        "triples": [
+            "BDP|PA|GVHD",
+            "BDP|SA|gastrointestinal graft-versus-host disease",
+            "oral beclomethasone dipropionate|SA|GVHD",
+            "BDP|PA|relapses of gastrointestinal GVHD",
+            "BDP|PA|GVHD",
+            "prednisone|PA|GVHD",
+            "prednisone|PA|relapses of gastrointestinal GVHD",
+            "oral beclomethasone dipropionate|PA|gastrointestinal graft-versus-host disease",
+            "BDP|PA|anorexia",
+            "BDP|PA|vomiting",
+            "BDP|PA|diarrhea",
+            "prednisone|PA|gastrointestinal graft-versus-host disease",
+            "BDP|PA|mortality",
+            "BDP|PA|mortality"
+        ],
+        "sentence": "A randomized, placebo-controlled trial of oral beclomethasone dipropionate as a prednisone-sparing therapy for gastrointestinal graft-versus-host disease. We tested the hypothesis that oral beclomethasone dipropionate (BDP) would control gastrointestinal graft-versus-host disease (GVHD) in patients with anorexia, vomiting, and diarrhea. Patients were randomized to prednisone for 10 days and either oral BDP 8 mg/d (n = 62) or placebo (n = 67) tablets for 50 days. At study day 10, prednisone was rapidly tapered while continuing study drug. On an intent-to-treat basis, the risk of GVHD-treatment failure was reduced for the BDP group at study day 50 (hazard ratio [HR] 0.63, 95% confidence interval [CI] 0.35-1.13) and at 30 days follow-up (HR 0.55, 95% CI 0.32-0.93). Among patients eligible for prednisone taper at study day 10, the risk of GVHD-treatment failure was significantly reduced at both study days 50 and 80 (HR 0.39 and 0.38, respectively). By day 200 after transplantation, 5 patients randomized to BDP had died compared with 16 deaths on placebo, a 67% reduction in the hazard of mortality (HR 0.33, P = .03). In 47 recipients of unrelated and HLA-mismatched stem cells, mortality at transplantation day 200 was reduced by 91% in the BDP group compared with placebo (HR 0.09, P = .02). The survival benefit was durable to 1 year after randomization. Oral BDP prevents relapses of gastrointestinal GVHD following tapering of prednisone; survival is statistically significantly better among patients receiving BDP."
+    },
+    {
+        "triples": [
+            "18q21|PA|schizophrenia",
+            "18q21|PA|bipolar disorder",
+            "ME2|PA|bipolar brains",
+            "ME2|PA|psychosis",
+            "malate|PA|schizophrenia",
+            "malate|PA|bipolar disorder",
+            "ME2|PA|schizophrenia",
+            "ME2|PA|bipolar disorder",
+            "ME2|PA|psychotic",
+            "ME2|PA|manic disorders",
+            "Malic enzyme 2|PA|psychosis",
+            "ME2|PA|anterior",
+            "ME2|PA|schizophrenia",
+            "ME2|PA|bipolar disorder",
+            "Malic enzyme 2|SA|mania"
+        ],
+        "sentence": "Malic enzyme 2 and susceptibility to psychosis and mania. Previous studies have identified a putative gene locus for both schizophrenia and bipolar disorder in the chromosome 18q21 region. To identify candidate genes associated with these disorders we completed fine mapping analyses (using microsatellite markers) in 152 families from the Central Valley of Costa Rica (CVCR) (376 total subjects, 151 with a history of psychosis, 97 with a history of mania). Microsatellite analyses showed evidence of association at two contiguous markers, both located at the same genetic distance and spanning approximately 11 known genes. In a corollary gene expression study, one of these genes, malic enzyme 2 (ME2), showed levels of gene expression 5.6-fold lower in anterior cingulate tissue from post-mortem bipolar brains. Subsequent analysis of individual SNPs in strong linkage disequilibrium with the ME2 gene revealed one SNP and one haplotype associated with the phenotype of psychosis in the CVCR sample. ME2 interacts directly with the malate shuttle system, which has been shown to be altered in schizophrenia and bipolar disorder, and has roles in neuronal synthesis of glutamate and gamma-amino butyric acid. The present study suggests that genetic variation in or near the ME2 gene is associated with both psychotic and manic disorders, including schizophrenia and bipolar disorder."
+    },
+    {
+        "triples": [
+            "p53|PA|cancers",
+            "p53 mutations|PA|skin cancers",
+            "p53|PA|pathogenesis",
+            "p53|PA|skin cancer",
+            "p53 mutations|PA|Genetic alterations",
+            "p53 mutations|PA|mutations",
+            "p53 mutations|PA|transformation",
+            "p53|PA|mutations",
+            "p53|PA|dysfunction",
+            "p53|PA|non-melanoma skin cancers",
+            "p53 mutations|PA|p53 mutations",
+            "p53 mutations|PA|non-melanoma skin cancer",
+            "p53 mutations|PA|Li-Fraumeni syndrome",
+            "p53 mutations|PA|immune suppression",
+            "p53|PA|pre-cancerous lesions",
+            "p53 mutation|PA|non-melanoma skin cancer",
+            "p53 mutation|PA|Li-Fraumeni syndrome"
+        ],
+        "sentence": "p53 and the pathogenesis of skin cancer. The p53 tumor suppressor gene and gene product are among the most diverse and complex molecules involved in cellular functions. Genetic alterations within the p53 gene have been shown to have a direct correlation with cancer development and have been shown to occur in nearly 50% of all cancers. p53 mutations are particularly common in skin cancers and UV irradiation has been shown to be a primary cause of specific 'signature' mutations that can result in oncogenic transformation. There are certain 'hot-spots' in the p53 gene where mutations are commonly found that result in a mutated dipyrimidine site. This review discusses the role of p53 from normal function and its dysfunction in pre-cancerous lesions and non-melanoma skin cancers. Additionally, special situations are explored, such as Li-Fraumeni syndrome in which there is an inherited p53 mutation, and the consequences of immune suppression on p53 mutations and the resulting increase in non-melanoma skin cancer in these patients."
+    },
+    {
+        "triples": [
+            "cyclosporin A|PA|gingival overgrowth",
+            "CsA|PA|gingival overgrowth",
+            "CsA|PA|periodontitis",
+            "CsA|PA|gingival overgrowth",
+            "CsA|PA|gingival overgrowth",
+            "CsA|PA|periodontitis",
+            "cyclosporin A|PA|periodontitis",
+            "Endothelin-1|PA|drug-induced gingival overgrowth"
+        ],
+        "sentence": "Endothelin-1 and its receptors ET(A) and ET(B) in drug-induced gingival overgrowth. BACKGROUND: The purpose of this study was to study the expression of endothelin-1 (ET-1) and its receptors ETA and ETB in normal human gingiva and cyclosporin-induced gingival fibroblasts. METHODS: Gingival samples were collected from eight normal healthy individuals, eight patients with periodontitis, and eight patients with cyclosporin A (CsA)-induced gingival overgrowth. Total RNA was extracted from tissue samples, and reverse transcriptase-polymerase chain reaction was performed for ET-1, ETA, and ETB. ET-1 protein was estimated from the tissues by enzyme-linked immunosorbent assay. The expression of ET-1 and its receptors was also examined in gingival fibroblast cells treated with CsA. RESULTS: ET-1 mRNA expression was significantly higher in patients with CsA-induced gingival overgrowth (P <0.001) than in patients with periodontitis and the controls. ETA mRNA was expressed more than the ETB in all examined samples. In human gingival fibroblasts, ET-1 expression was increased with CsA incorporation compared to controls (P <0.001). CONCLUSION: These results suggest that CsA can modulate the expression of ET-1 in gingival fibroblasts and CsA-induced gingival overgrowth."
+    },
+    {
+        "triples": [
+            "Paeonol|PA|intercellular adhesion molecule-1",
+            "Paeonol|PA|p38",
+            "Paeonol|PA|ERK",
+            "Paeonol|PA|nuclear factor-kappaB",
+            "paeonol|SA|ICAM-1",
+            "Paeonol|PA|ICAM-1",
+            "Paeonol|PA|NF-kappaB",
+            "Paeonol|PA|p65",
+            "Paeonol|PA|IkappaBalpha",
+            "Paeonol|PA|nuclear factor-kappaB",
+            "Paeonol|PA|inhibitory factor kappaBalpha",
+            "Paeonol|PA|TNF-alpha",
+            "paeonol|PA|ICAM-1",
+            "paeonol|SA|p38",
+            "paeonol|SA|NF-kappaB",
+            "paeonol|SA|ERK",
+            "Paeonol|PA|tumor necrosis factor-alpha",
+            "paeonol|SA|tumor necrosis factor-alpha",
+            "paeonol|SA|TNF-alpha",
+            "paeonol|PA|TNF-alpha"
+        ],
+        "sentence": "Paeonol suppresses intercellular adhesion molecule-1 expression in tumor necrosis factor-alpha-stimulated human umbilical vein endothelial cells by blocking p38, ERK and nuclear factor-kappaB signaling pathways. Paeonol (2'-hydroxy-4'-methoxyacetophenone), the main active compound of the traditionally used Chinese herb Paeonia lactiflora Pallas, has anti-inflammatory, antioxidant and cardiovascular protective activities. We studied how the levels of intercellular adhesion molecule-1 (ICAM-1), one of the key molecules in the development of atherosclerosis, might be affected by paeonol in tumor necrosis factor-alpha (TNF-alpha)-activated human umbilical vein endothelial cells (HUVECs). Paeonol concentration-dependently inhibited the production of ICAM-1; it inhibited nuclear factor-kappaB (NF-kappaB) p65 translocation into the nucleus and the phosphorylation of inhibitory factor kappaBalpha (IkappaBalpha). It also blocked the TNF-alpha-induced phosphorylation of p38 and extracellular signal-regulated kinase (ERK), which are involved in regulating ICAM-1 production by TNF-alpha. Paeonol inhibited U937 monocyte adhesion to HUVECs stimulated by TNF-alpha, suggesting that it may inhibit the binding of monocytes to endothelium by regulating the production of critical adhesion molecules by TNF-alpha. The inhibitory effect of paeonol on ICAM-1 production might be mediated by inhibiting p38, ERK and NF-kappaB signaling pathways, which are involved in TNF-alpha-induced ICAM-1 production. Thus, paeonol may be beneficial in the treatment of cardiovascular disorders such as atherosclerosis."
+    },
+    {
+        "triples": [
+            "sirolimus|PA|Pulmonary alveolar proteinosis",
+            "SRL|PA|PAP",
+            "SRL|SA|nonproductive cough",
+            "SRL|SA|chest pain",
+            "SRL|SA|low-grade fever",
+            "sirolimus|PA|pulmonary toxicity",
+            "sirolimus|PA|pulmonary toxicity",
+            "SRL|PA|pulmonary toxicity",
+            "SRL|PA|dyspnoea"
+        ],
+        "sentence": "Pulmonary alveolar proteinosis: a rare pulmonary toxicity of sirolimus. The aim of our paper is to describe an unusual pulmonary toxicity of sirolimus (SRL) in a kidney transplant recipient. We present a 34-year-old woman with a second renal transplantation, complicated with steroid-resistant acute rejection and chronic allograft dysfunction. Two years after initiating SRL, she presented complaints of progressive dyspnoea, nonproductive cough, chest pain and low-grade fever of 1 month duration. She had chronic allograft nephropathy and slight elevation of lactic dehydrogenase levels. After exclusion of common reasons of this condition, a computed tomography (CT) of the thorax and bronchoscopy was performed, revealing ground-glass opacification with polygonal shapes on CT and an opaque appearance with numerous macrophages on bronchoalveolar lavage. The alveolar macrophages stained positive by Periodic acid-Schiff. Diagnosis of pulmonary alveolar proteinosis (PAP) was made and drug-induced toxicity was suspected. SRL was withdrawn with marked improvement in the patients' clinical and radiological status. PAP resolved within 3 months without further therapy. PAP is a very rare complication of SRL therapy with only a few cases described. Withdrawal of SRL with conversion to another immunosuppressant seems to be an appropriate procedure in this condition."
+    },
+    {
+        "triples": [],
+        "sentence": "Production of polyclonal antibodies against the human respiratory syncytial virus nucleoprotein and phosphoprotein expressed in Escherichia coli. The nucleoprotein (N) and the phosphoprotein (P) of the human respiratory syncytial virus (HRSV), A2 strain, were cloned into pMAL-c2e vector. The proteins were expressed fused with the maltose-binding protein (MBP) and were preferentially found in the soluble fraction of the bacterial lysate. After their purification using amylose resin, almost no other protein was detected in SDS-PAGE. The fused proteins were cleaved by digestion with enterokinase and then used as antigens for BALB/c mice immunization. The obtained polyclonal antibodies were tested against HRSV infected cells in immunofluorescence assays. The results indicate that the antibodies generated against the recombinant proteins were able to recognize the virus proteins. We now intend to purify the cleaved N and P proteins and use them in structural studies. The recombinant proteins will also be tested as potential inducers of a protective immunity against the HRSV."
+    },
+    {
+        "triples": [
+            "diltiazem|PA|CYP3A",
+            "diltiazem|PA|CYP3A",
+            "MA|PA|CYP3A",
+            "MD|PA|CYP3A",
+            "diltiazem|PA|CYP3A",
+            "MA|PA|CYP3A",
+            "MD|PA|CYP3A",
+            "MA|PA|CYP3A",
+            "diltiazem|PA|CYP3A",
+            "MA|PA|CYP3A",
+            "diltiazem|PA|CYP3A",
+            "diltiazem|PA|CYP3A",
+            "MD|PA|CYP3A",
+            "MD|PA|CYP3A",
+            "diltiazem|PA|CYP3A",
+            "MA|SA|CYP3A",
+            "MD|NA|CYP3A",
+            "MA|PA|CYP3A"
+        ],
+        "sentence": "Sequential metabolism is responsible for diltiazem-induced time-dependent loss of CYP3A. Kinetic parameters (k(inact) and K(I)) obtained in microsomes are often used to predict time-dependent inactivation. We previously reported that microsomal inactivation kinetic parameters of diltiazem underpredicted CYP3A inactivation in hepatocytes. In this study, we evaluated the contributions of inactivation and reversible inhibition of CYP3A by diltiazem and its N-desmethyl (MA) and N,N-didesmethyl (MD) metabolites. In human liver microsomes, MA was a more potent time-dependent inactivator of CYP3A than its parent drug, with apparent k(inact) approximately 4-fold higher than that of diltiazem at a microsomal protein concentration of 0.2 mg/ml. MD did not inactivate CYP3A. Inactivation of CYP3A by diltiazem was dependent on microsomal protein concentration (25, 36, and 41% decrease in CYP3A activity at 0.2, 0.4, and 0.8 mg/ml microsomal protein, respectively, incubated with 10 microM diltiazem over 20 min), whereas inactivation by MA did not seem to be protein concentration-dependent. MA and MD were reversible inhibitors of CYP3A with competitive Ki values of 2.7 and 0.2 microM, respectively. In cryopreserved hepatocytes incubated with diltiazem, time-dependent loss of CYP3A was accompanied by increased formation of MA and MD, with the MA level similar to its K(I) at higher diltiazem concentrations. In addition, the metabolites appeared to be accumulated inside the cells. In summary, time-dependent CYP3A inactivation by MA seems to be the major contributor responsible for the loss of CYP3A in human liver microsomes and human hepatocytes incubated with diltiazem. These findings suggest that prediction of CYP3A loss based solely on microsomal inactivation parameters of parent drug may be inadequate."
+    },
+    {
+        "triples": [
+            "girl|PA|CIAS1 mutation"
+        ],
+        "sentence": "Response to IL-1-receptor antagonist in a child with familial cold autoinflammatory syndrome. Familial cold auto-inflammatory syndrome, Muckle-Wells syndrome and chronic infantile neurologic, cutaneous, articular syndrome are related disorders associated with mutations in the CIAS1 gene. They appear to represent a continuum of one disease characterized by IL-1-mediated inflammation. Until recently, these conditions have been difficult to treat; however, with the advent of IL-1-receptor antagonist therapy, many reports of successful treatment of patients with these autoinflammatory diseases have emerged in the past 2 years. We describe an 8-year-old girl, diagnosed with Familial cold auto-inflammatory syndrome, confirmed by presence of a novel CIAS1 mutation, who was refractory to symptomatic treatment. As frequent attacks of urticaria and associated arthralgia had a debilitating effect on the child's lifestyle, a trial of IL-1-receptor antagonist (anakinra) was instituted. Dramatic sustained clinical improvement was evident within days and serum amyloid and C-reactive protein levels normalized within a month. Although several authors have reported successful use of this agent in children with chronic infantile neurologic, cutaneous, articular syndrome, we believe ours is the first report of successful treatment with anakinra in a young child with familial cold auto-inflammatory syndrome."
+    },
+    {
+        "triples": [
+            "paroxetine|PA|P-glycoprotein",
+            "paroxetine|SA|P-glycoprotein",
+            "paroxetine|SA|P-glycoprotein",
+            "itraconazole|PA|gut transporters",
+            "paroxetine|PA|gut transporters",
+            "itraconazole|PA|P-glycoprotein inhibitor",
+            "paroxetine|PA|P-glycoprotein inhibitor",
+            "itraconazole|PA|P-glycoprotein"
+        ],
+        "sentence": "Effect of itraconazole on pharmacokinetics of paroxetine: the role of gut transporters. A recent in vitro study has shown that paroxetine is a substrate of P-glycoprotein. However, there was no in vivo information indicating the involvement of P-glycoprotein on the pharmacokinetics of paroxetine. The aim of this study was to examine the effects of itraconazole, a P-glycoprotein inhibitor, on the pharmacokinetics of paroxetine. Two 6 day courses of either 200 mg itraconazole daily or placebo with at least a 4 week washout period were conducted. Thirteen volunteers took a single oral 20 mg dose of paroxetine on day 6 of both courses. Plasma concentrations of paroxetine were monitored up to 48 hours after the dosing. Compared with placebo, itraconazole treatment significantly increased the peak plasma concentration (Cmax) of paroxetine by 1.3 fold (6.7 +/- 2.5 versus 9.0 +/- 3.3 ng/mL, P < 0.05) and the area under the plasma concentration-time curve from zero to 48 hours [AUC (0-48)] of paroxetine by 1.5 fold (137 +/- 73 versus 199 +/- 91 ng*h/mL, P < 0.01). Although elimination half-life differed significantly (16.1 +/- 3.4 versus 18.8 +/- 5.9 hours, P < 0.05), the alteration was small (1.1 fold). The present study demonstrated that the bioavailability of paroxetine was increased by itraconazole, suggesting a possible involvement of P-glycoprotein in the pharmacokinetics of paroxetine."
+    },
+    {
+        "triples": [
+            "RNAi|PA|short hairpin RNA",
+            "RNAi|PA|shRNA",
+            "doxycycline|PA|shRNAs",
+            "doxycycline|PA|Drosha",
+            "doxycycline|PA|shRNAs",
+            "tetracycline regulatory protein|PA|TetR"
+        ],
+        "sentence": "A facile lentiviral vector system for expression of doxycycline-inducible shRNAs: knockdown of the pre-miRNA processing enzyme Drosha. RNA interference (RNAi) is a powerful genetic tool for loss-of-function studies in mammalian cells and is also considered a potentially powerful therapeutic modality for the treatment of a variety of human diseases. During the past 3 years a number of systems for conditional RNAi have been developed that allow controlled expression of short hairpin RNA (shRNA) triggers of RNAi. The simplest strategy relies on tet-operable polymerase III-promoted shRNAs and co-expression of the tetracycline regulatory protein, TetR. In this study we have combined these features into a single lentiviral vector that upon delivery to target cells allows robust induction of shRNAs, even with low levels of doxycycline; importantly, we show minimal leakiness in the absence of inducer. We have exploited the regulatory properties of our system by targeting an essential cellular gene, the nuclear RNaseIII endonuclease Drosha. Drosha is the core catalytic component of the \"microprocessor complex\" and cleaves the primary microRNA (miRNA) transcripts into their pre-miRNA hairpin intermediates. We anticipate that our vector will facilitate functional studies of miRNA biogenesis."
+    },
+    {
+        "triples": [
+            "ATR|PA|DNA damage",
+            "ATM|PA|DNA damage"
+        ],
+        "sentence": "ATM and ATR: components of an integrated circuit. The phosphatidylinositol 3-kinase-like kinases (PIKKs) ATM and ATR activate a complex signaling network in response to diverse forms of DNA damage. Initial characterization of these signaling molecules focused on the individual role that each plays in response to specific types of DNA lesions. Recently, a more integrated view of the DNA-damage signaling network has emerged. ATM- and ATR-activated signaling pathways once appeared parallel, but new findings suggest that this cellular circuitry is highly interconnected. Communication between ATM and ATR enables the cell to respond to DNA strand breaks and inhibition of DNA synthesis with coordinated, highly modulated outputs. In this article, we focus on several new developments that give insight into the integrated processing of diverse signals that arise during the damage and replication of DNA."
+    },
+    {
+        "triples": [
+            "step|PA|HIV"
+        ],
+        "sentence": "Development of methods for coordinate measurement of total cell-associated and integrated human immunodeficiency virus type 1 (HIV-1) DNA forms in routine clinical samples: levels are not associated with clinical parameters, but low levels of integrated HIV-1 DNA may be prognostic for continued successful therapy. We have adapted our established Alu PCR assay for proviral DNA and PCR for total cellular DNA to a real-time PCR format and applied these to human immunodeficiency virus (HIV)-positive specimens collected for routine determination of the plasma viral load (pVL). In a cohort of five patients, measurements of integrated viral load (iVL) and cell-associated viral load (cVL) in CD4(+) cells isolated by a single positive selection step were not indicative of HIV DNA levels in the circulation, and further analysis was performed on peripheral blood mononuclear cells (PBMC). In a cohort of 46 samples total cVL was quantitated in most samples, but iVL could be quantitated in only 47.8%, since in 26% iVL was undetectable and in 21.7% the results were invalid due to high levels of unintegrated HIV DNA. There was no correlation of cVL or iVL with pVL, CD4 count, or duration of successful antiretroviral treatment. Out of 26 patients with undetectable pVL, 4 patients failed therapy within the subsequent 12 months and had higher than average iVL, but this was not the case for cVL. Among nine patients with long-term undetectable pVL, no consistent decline in cVL or iVL was seen with time, and changes in cVL and iVL within a patient could be concordant or discordant. These results show that cVL and iVL can be coordinately measured in PBMC from clinical samples but do not correlate with pVL, CD4 counts, or length of suppressive antiretroviral therapy. Interestingly, a high iVL (but not a high cVL) in patients with undetectable pVL was associated with subsequent treatment failure."
+    },
+    {
+        "triples": [
+            "etanercept|SA|rheumatoid arthritis",
+            "etanercept|SA|sarcoidosis",
+            "etanercept|PA|diseases",
+            "etanercept|PA|noninfectious granulomatous syndromes",
+            "etanercept|SA|sarcoidosis",
+            "etanercept|SA|erythema nodosum",
+            "etanercept|SA|rheumatoid arthritis",
+            "etanercept|PA|cough",
+            "etanercept|PA|dyspnea",
+            "etanercept|PA|plaque lesion"
+        ],
+        "sentence": "Development of sarcoidosis in etanercept-treated rheumatoid arthritis patients. We report two rheumatoid arthritis patients developing sarcoidosis possibly induced by etanercept. Both women, aged 46 and 53, had erosive, rheumatoid-factor-positive rheumatoid arthritis (RA) for 7 and 6 years, respectively. The eldest had received infliximab for over a year with good response, which was stopped because of a perfusion reaction. She developed a cough and dyspnea after 6 months of etanercept treatment. The other developed erythema nodosum and a plaque lesion on the right arm after 1 year of etanercept. Imaging showed, in both cases, mediastinal adenopathies. Biopsies were compatible with sarcoidosis. Etanercept withdrawal led to a complete remission. Recently, there have been reports of noninfectious granulomatous syndromes in patients receiving etanercept for a variety of diseases. In our cases, the temporal association with etanercept therapy and the complete remission after suspension of etanercept suggest a triggering role of this agent. Possible mechanisms of action and supporting evidence are discussed."
+    },
+    {
+        "triples": [
+            "Flavonoids|PA|breast cancer resistance protein",
+            "flavonoids|PA|BCRP",
+            "flavonoids|PA|MRP1",
+            "flavonoids|PA|BCRP",
+            "flavonoids|PA|P-gp",
+            "topotecan|PA|BCRP",
+            "3',4',7-trimethoxyflavone|PA|BCRP",
+            "3',4',7-trimethoxyflavone|NA|P-gp",
+            "acacetin|NA|P-gp",
+            "flavonoids|NA|MRP1",
+            "flavonoids|PA|BCRP",
+            "ABC) transporters|PA|BCRP",
+            "ABC) transporters|PA|P-gp",
+            "ABC) transporters|PA|multidrug resistance-related protein 1",
+            "ABC) transporters|PA|MRP1",
+            "flavonoids|SA|MRP1",
+            "flavonoids|SA|BCRP",
+            "flavonoids|SA|P-gp",
+            "flavonoids|SA|MDR1",
+            "SN-38|PA|BCRP",
+            "mitoxantrone|PA|BCRP",
+            "3',4',7-trimethoxyflavone|PA|P-gp",
+            "acacetin|PA|P-gp"
+        ],
+        "sentence": "Flavonoids inhibit breast cancer resistance protein-mediated drug resistance: transporter specificity and structure-activity relationship. PURPOSE: ATP-binding cassette (ABC) transporters, such as P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), and multidrug resistance-related protein 1 (MRP1), confer resistance to various anticancer agents. We previously reported that some flavonoids have BCRP-inhibitory activity. Here we show the reversal effects of an extensive panel of flavonoids upon BCRP-, P-gp-, and MRP1-mediated drug resistance. METHODS: Reversal effects of flavonoids upon BCRP-, P-gp-, or MRP1-mediated drug resistance were examined in the BCRP- or MDR1-transduced human leukemia K562 cells or in the MRP1-transfected human epidermoid carcinoma KB-3-1 cells using cell growth inhibition assays. The IC(50) values were determined from the growth inhibition curves. The RI(50) values were then determined as the concentration of inhibitor that causes a twofold reduction of the IC(50) in each transfectant. The reversal of BCRP activity was tested by measuring the fluorescence of intracellular topotecan. RESULTS: The BCRP-inhibitory activity of 32 compounds was screened, and 20 were found to be active. Among these active compounds, 3',4',7-trimethoxyflavone showed the strongest anti-BCRP activity with RI(50) values of 0.012 microM for SN-38 and 0.044 muM for mitoxantrone. We next examined the effects of a panel of 11 compounds on P-gp- and MRP1-mediated drug resistance. Two of the flavones, 3',4',7-trimethoxyflavone and acacetin, showed only low anti-P-gp activity, with the remainder displaying no suppressive effects against P-gp. None of the flavonoids that we tested inhibited MRP1. CONCLUSION: Our present results thus indicate that many flavonoids selectively inhibit BCRP only. Moreover, we examined the structure-BCRP inhibitory activity relationship from our current study."
+    },
+    {
+        "triples": [
+            "docetaxel|PA|advanced-stage non-small-cell lung cancer",
+            "docetaxel|PA|poor performance status",
+            "docetaxel|PA|advanced-stage non-small-cell lung cancer",
+            "docetaxel|PA|comorbid disorders"
+        ],
+        "sentence": "An open multicenter phase II trial of weekly docetaxel for advanced-stage non-small-cell lung cancer in elderly patients with significant comorbidity and/or poor performance status: The GFPC 02-02b study. CONTEXT: The objective of this study was to evaluate the feasibility and activity of weekly docetaxel monotherapy in frail elderly patients with advanced-stage non-small-cell lung cancer, selected on the basis of their precise age, general condition, and number of comorbid disorders (Charlson score). METHODS: Analysis of the response rate, toxicity, quality of life, median survival and 1-year survival rates after 1-3 six-week cycles of docetaxel 30mg/m(2) weekly. RESULTS: Fifty patients were enrolled and 42 were assessable. Five patients (10%, [3.7-22.6]) had objective responses, 14 (28%, [16.9-41.6]) had stable disease, and 23 (46%, [32.6-52.8]) progressed. The main grade 3-4 toxicity was fatigue (30%). Quality of life remained stable during treatment. The median survival time was 4.3 months, and the 1-year survival rate was 21.8%. CONCLUSION: In frail elderly patients selected on the basis of their age, general condition and comorbidity, weekly docetaxel monotherapy has acceptable toxicity and does not negatively affect quality of life. In contrast, it has only moderate activity."
+    },
+    {
+        "triples": [
+            "GSK221149A|PA|V1a",
+            "GSK221149A|PA|V1b",
+            "GSK221149A|PA|V2",
+            "GSK221149A|PA|human recombinant oxytocin receptors",
+            "GSK221149A|PA|oxytocin",
+            "GSK221149A|PA|native oxytocin receptors from rat",
+            "GSK221149A|PA|oxytocin",
+            "GSK221149A|PA|oxytocin",
+            "GSK221149A|PA|oxytocin receptor antagonist",
+            "GSK221149A|PA|oxytocin",
+            "GSK221149A|PA|oxytocin"
+        ],
+        "sentence": "Use of a novel and highly selective oxytocin receptor antagonist to characterize uterine contractions in the rat. Spontaneous and induced uterine contractions in the rat were found to be inhibited by a novel and selective oxytocin receptor antagonist GSK221149A (3R,6R)-3-Indan-2-yl-1-[(1R)-1-(2-methyl-1,3-oxazol-4-yl)-2-morpholin-4-yl-2-oxoethyl]-6-[(1S)-1-methylpropyl]-2,5-piperazinedione. GSK221149A displayed nanomolar affinity (K(i) = 0.65 nM) for human recombinant oxytocin receptors with >1,400-fold selectivity over human V1a, V1b, and V2 receptors. GSK221149A had similar affinity (K(i) = 4.1 nM) and selectivity for native oxytocin receptors from rat and produced a functional, competitive block of oxytocin-induced contractions in isolated rat myometrial strips with a pA(2) value of 8.18. Intravenous administration of GSK221149A produced a dose-dependent decrease in oxytocin-induced uterine contractions in anesthetized rats with an ID(50) = 0.27 +/- 0.60 mg/kg (corresponding plasma concentrations were 88 ng/ml). Oral administration of GSK221149A (5 mg/kg) was effective in inhibiting oxytocin-induced uterine contractions after single and multiple (4-day) dosing. Spontaneous uterine contractions in late-term pregnant rats (19-21 days gestation) were significantly reduced by intravenous administration of 0.3 mg/kg of GSK221149A. These results provide further evidence that selective oxytocin receptor antagonism may offer an effective treatment for preterm labor."
+    },
+    {
+        "triples": [
+            "Adalimumab|PA|TNF",
+            "subcutaneously administered, recombinant, human IgG1 monoclonal antibody|PA|TNF",
+            "Adalimumab|PA|IgG1",
+            "Adalimumab|PA|tumor necrosis factor",
+            "adalimumab|PA|TNF"
+        ],
+        "sentence": "Adalimumab: in Crohn's disease. Adalimumab is a subcutaneously administered, recombinant, human IgG1 monoclonal antibody specific for human tumor necrosis factor (TNF). The clinical efficacy and safety of adalimumab in patients with moderate to severe Crohn's disease has been demonstrated in four pivotal, randomized, double-blind trials (CLASSIC-I, GAIN, CHARM, and CLASSIC-II) that included a total of >1400 patients. In the CLASSIC-I trial, adalimumab was significantly more effective than placebo for induction of remission in patients who had not previously received anti-TNF therapy. Adalimumab was also more effective than placebo for induction of remission in the GAIN study in patients who had either lost responsiveness or developed intolerance to infliximab. The CHARM trial showed that, among patients who responded to open-label adalimumab induction, maintenance therapy with adalimumab 40 mg weekly or every other week for up to 1 year was associated with significantly greater remission rates than placebo at weeks 26 and 56. In addition, significantly more adalimumab than placebo recipients achieved corticosteroid-free remission and had complete fistula closure. In CLASSIC-II, an extension of the CLASSIC-I trial, patients who were in remission after a short course of adalimumab and were randomized to receive up to 1 year's treatment with adalimumab 40 mg weekly or every other week were significantly more likely to remain in remission than those randomized to receive placebo. In general, the tolerability profile of adalimumab in patients with Crohn's disease was similar to that in patients with rheumatoid arthritis or other approved indications."
+    },
+    {
+        "triples": [
+            "Nck|PA|translocation",
+            "N-WASP actin|PA|translocation",
+            "O104:H12|PA|strains",
+            "NT:H19|PA|strains",
+            "Nck|PA|EPEC",
+            "N-WASP actin|PA|EPEC",
+            "TccP2 actin|PA|EPEC",
+            "tccP2|PA|EPEC",
+            "O104:H12|PA|EPEC",
+            "NT:H19|PA|EPEC"
+        ],
+        "sentence": "Characterization of tccP2 carried by atypical enteropathogenic Escherichia coli. Atypical enteropathogenic Escherichia coli (EPEC) comprise an important group of paediatric pathogens. Atypical EPEC have reservoirs in farm and domestic animals where they can be either commensal or pathogenic; serogroup O26 is dominant in humans and animals. Central to intestinal colonization by EPEC is the translocation of the type III secretion system effector Tir into enterocytes, which following phosphorylation (Tir-Yp) recruits Nck to activate the N-WASP actin signalling cascade. The authors have recently shown that typical EPEC strains, belonging to the EPEC-2 lineage, carry a tir gene encoding Tir-Yp and can also use the alternative TccP2 actin-signalling cascade. The aim of this study was to determine if tccP2 is found in atypical EPEC isolated from human and farm animals. tccP2 was found at a frequency of 41% in non-O26 EPEC isolates and in 82.3% of the O26 strains. TccP2 of human and animal strains show high level of sequence identity. It is shown that most strains carry a tir gene encoding Tir-Yp. In addition the authors identified two new variants of tir genes in EPEC O104:H12 and NT:H19 strains."
+    },
+    {
+        "triples": [
+            " LP|PA| colon cance",
+            " beta-cateni|PA| colon cance",
+            "/beta-cateni|PA| colon cance",
+            " LP|PA| colon cance",
+            "t L|PA|n colon canc",
+            "f KL|PA|n colon canc",
+            "d L|PA|. Silenci",
+            "f KL|PA|. Silenci",
+            ". L|PA|y block",
+            "d KL|PA|y block",
+            "n KL|PA|r silenci",
+            "n KL|PA|k block",
+            "f eEF|PA|r silenci",
+            "f eEF|PA|k block",
+            "KrÃ¼ppel-like factor |PA|colon cancer",
+            " Wn|PA| colon cance",
+            "Lysophosphatidic acid|PA|colon cancer"
+        ],
+        "sentence": "Lysophosphatidic acid facilitates proliferation of colon cancer cells via induction of KrÃ¼ppel-like factor 5. Among the multiple cellular effects mediated by lysophosphatidic acid (LPA), the effect on cell proliferation has extensively been investigated. A recent study showed that LPA-mediated proliferation of colon cancer cells requires activation of beta-catenin. However, the majority of colon cancer cells have deregulation of the Wnt/beta-catenin pathway. This prompted us to hypothesize the presence of additional pathway(s) activated by LPA resulting in an increase in the proliferation of colon cancer cells. KrÃ¼ppel-like factor 5 (KLF5) is a transcriptional factor highly expressed in the crypt compartment of the intestinal epithelium. In this work, we investigated a role of KLF5 in LPA-mediated proliferation. We show that LPA stimulated the expression levels of KLF5 mRNA and protein in colon cancer cells and this stimulation was mediated by LPA(2) and LPA(3). Silencing of KLF5 expression by small interfering RNA significantly attenuated LPA-mediated proliferation of SW480 and HCT116 cells. LPA-mediated KLF5 induction was partially blocked by inhibition of the mitogen-activated protein kinase kinase and protein kinase C-delta. Moreover, we observed that LPA regulates KLF5 expression via eukaryotic elongation factor 2 kinase (eEF2k). Inhibition of calmodulin or silencing of eEF2k blocked the stimulation in KLF5 expression. Knockdown of eEF2k specifically inhibited KLF5 induction by LPA but not by fetal bovine serum or phorbol 12-myristate 13-acetate. These results identify KLF5 as a target of LPA-mediated signaling and suggest a role of KLF5 in promoting proliferation of intestinal epithelia in response to LPA."
+    },
+    {
+        "triples": [
+            "GABA/glutamate|SA|PDS",
+            "ALDH7A1 mutations|NA|PDS",
+            "glutamate|NA|PDS",
+            "ALDH7A1|PA|pyridoxine dependent seizures",
+            "PDS|PA|seizures",
+            "PDS|PA|disorder",
+            "ALDH7A1|PA|mutations",
+            "PDS|PA|mutations",
+            "ALDH7A1 mutations|PA|ALDH7A1 mutations",
+            "PDS|PA|ALDH7A1 mutations",
+            "ALDH7A1 mutations|PA|mutation",
+            "ALDH7A1 mutations|PA|missense mutations",
+            "ALDH7A1 mutations|PA|nonsense mutation",
+            "ALDH7A1 mutations|PA|deletion",
+            "ALDH7A1 mutation|PA|ALDH7A1 mutation",
+            "PDS|PA|pathophysiology",
+            "ALDH7A1 mutations|PA|ALDH7A1 mutations",
+            "PDS|PA|ALDH7A1 mutations",
+            "CSF|PA|ALDH7A1 mutations",
+            "ALDH7A1|PA|PDS",
+            "ALDH7A1 mutations|SA|PDS",
+            "ALDH7A1 mutations|PA|PDS",
+            "glutamate|PA|PDS"
+        ],
+        "sentence": "Allelic and non-allelic heterogeneities in pyridoxine dependent seizures revealed by ALDH7A1 mutational analysis. Pyridoxine dependent seizure (PDS) is a disorder of neonates or infants with autosomal recessive inheritance characterized by seizures, which responds to pharmacological dose of pyridoxine. Recently, mutations have been identified in the ALDH7A1 gene in Caucasian families with PDS. To elucidate further the genetic background of PDS, we screened for ALDH7A1 mutations in five PDS families (patients 1-5) that included four Orientals. Diagnosis as having PDS was confirmed by pyridoxine-withdrawal test. Exon sequencing analysis of patients 1-4 revealed eight ALDH7A1 mutations in compound heterozygous forms: five missense mutations, one nonsense mutation, one point mutation at the splicing donor site in intron 1, and a 1937-bp genomic deletion. The deletion included the entire exon 17, which was flanked by two Alu elements in introns 16 and 17. None of the mutations was found in 100 control chromosomes. In patient 5, no mutation was found by the exon sequencing analysis. Furthermore, expression level or nucleotide sequences of ALDH7A1 mRNA in lymphoblasts were normal. Plasma pipecolic acid concentration was not elevated in patient 5. These observations suggest that ALDH7A1 mutation is unlikely to be responsible for patient 5. Abnormal metabolism of GABA/glutamate in brain has long been suggested as the underlying pathophysiology of PDS. CSF glutamate concentration was elevated during the off-pyridoxine period in patient 3, but not in patient 2 or 5. These results suggest allelic and non-allelic heterogeneities of PDS, and that the CSF glutamate elevation does not directly correlate with the presence of ALDH7A1 mutations."
+    },
+    {
+        "triples": [
+            "fluorogenic phosphotriester|PA|PON1",
+            "chromogenic lactone|PA|lipolactonase"
+        ],
+        "sentence": "The development of human sera tests for HDL-bound serum PON1 and its lipolactonase activity. Serum paraoxonase (PON1) is a lipolactonase that associates with HDL-apolipoprotein A-I (HDL-apoA-I) and thereby plays a role in the prevention of atherosclerosis. Current sera tests make use of promiscuous substrates and provide no indications regarding HDL-PON1 complex formation. We developed new enzymatic tests that detect total PON1 levels, irrespective of HDL status and R/Q polymorphism, as well as the degree of catalytic stimulation and increased stability that follow PON1's tight binding to HDL-apoA-I. The tests are based on measuring total PON1 levels with a fluorogenic phosphotriester, measuring the lipolactonase activity with a chromogenic lactone, and assaying the enzyme's chelator-mediated inactivation rate. The latter two are affected by tight HDL binding and thereby derive the levels of the serum PON1-HDL complex. We demonstrate these new tests with a group of healthy individuals (n=54) and show that the levels of PON1-HDL vary by a factor of 12. Whereas the traditionally applied paraoxonase and arylesterase tests weakly reflect PON1-HDL levels (R=0.64), the lipolactonase test provides better correlation (R=0.80). These new tests indicate the levels and activity of PON1 in a physiologically relevant context as well as the levels and quality of the HDL particles with which the enzyme is associated."
+    },
+    {
+        "triples": [
+            "Cab45b|PA|Ca(2+)",
+            "Ca(2+)|PA|EF-hand 2",
+            "Cab45b|PA|Ca(2+)",
+            "Ca(2+)|PA|Munc18b",
+            "Cab45b|PA|Ca(2+)",
+            "Ca(2+)|PA|Munc18a",
+            "Ca(2+)|PA|zymogen",
+            "Ca(2+)|PA|amylase",
+            "antibodies against Cab45b|PA|amylase",
+            "lumen|PA|Cab45",
+            "streptolysin-O|PA|amylase",
+            "streptolysin-O|PA|antibodies against Cab45b",
+            "Ca(2+)|PA|Cab45",
+            "Ca(2+)|PA|Munc18b",
+            "Ca(2+)|PA|Cab45b",
+            "Ca(2+)|PA|Cab45b",
+            "Ca(2+)|PA|Cab45b",
+            "Ca(2+)|PA|syntaxin 2",
+            "Ca(2+)|PA|syntaxin 3",
+            "Ca(2+)|PA|Munc18b",
+            "Ca(2+)|PA|Cab45b",
+            "Ca(2+)|PA|soluble N-ethylmaleimide-sensitive factor attachment protein receptors",
+            "Ca(2+)|PA|antibodies against Cab45b"
+        ],
+        "sentence": "A cytosolic splice variant of Cab45 interacts with Munc18b and impacts on amylase secretion by pancreatic acini. We identified in a yeast two-hybrid screen the EF-hand Ca(2+)-binding protein Cab45 as an interaction partner of Munc18b. Although the full-length Cab45 resides in Golgi lumen, we characterize a cytosolic splice variant, Cab45b, expressed in pancreatic acini. Cab45b is shown to bind (45)Ca(2+), and, of its three EF-hand motifs, EF-hand 2 is demonstrated to be crucial for the ion binding. Cab45b is shown to interact with Munc18b in an in vitro assay, and this interaction is enhanced in the presence of Ca(2+). In this assay, Cab45b also binds the Munc18a isoform in a Ca(2+)-dependent manner. The endogenous Cab45b in rat acini coimmunoprecipitates with Munc18b, syntaxin 2, and syntaxin 3, soluble N-ethylmaleimide-sensitive factor attachment protein receptors with key roles in the Ca(2+)-triggered zymogen secretion. Furthermore, we show that Munc18b bound to syntaxin 3 recruits Cab45b onto the plasma membrane. Importantly, antibodies against Cab45b are shown to inhibit in a specific and dose-dependent manner the Ca(2+)-induced amylase release from streptolysin-O-permeabilized acini. The present study identifies Cab45b as a novel protein factor involved in the exocytosis of zymogens by pancreatic acini."
+    },
+    {
+        "triples": [
+            "polymerase gamma|PA|mtDNA mutations",
+            "polymerase gamma|PA|premature aging",
+            "mtDNA mutations|PA|premature aging"
+        ],
+        "sentence": "Mitochondrial DNA mutations and aging. Mitochondria have been hypothesized to play a role in both aging and neurodegenerative diseases, such as Parkinson's disease (PD) and Alzheimer's disease. Many studies have shown the accumulation of mitochondrial DNA (mtDNA) mutations in post-mitotic tissues and more recent data have shown this also to be a feature of aging mitotic tissues. Much of this data has been correlative, until recently with the development of polymerase gamma deficient mice which accumulate high levels of mtDNA mutations and show a premature aging phenotype, that a more causative role has been proposed. This article focuses on recent developments in aging research into the role that mtDNA mutations play in the aging process."
+    },
+    {
+        "triples": [],
+        "sentence": "The effects of genetic liability for schizophrenia and maternal smoking during pregnancy on obstetric complications. The purpose of this study was to determine whether a genetic vulnerability for schizophrenia and/or health-risk behaviors among schizophrenic pregnant women were associated with an increased incidence of obstetric complications (OCs). METHOD: A high-risk birth cohort was formed by searching the Finnish Perinatal Register for all births from 1991-2000 with arterial cord pH values below 7.20, an indication of fetal asphyxia. This database was merged with national hospital discharge registries to determine psychiatric morbidity of the mothers and the mothers' first-degree relatives. Mothers were divided into 3 groups: women diagnosed with schizophrenia/schizoaffective disorder (n=53), mothers with a first-degree relative with schizophrenia/schizoaffective disorder (n=590) and healthy controls (n=36,895). RESULT: Schizophrenic women had significantly more OCs than mothers with a first-degree schizophrenic relative and controls. These women had significantly increased rates of eclampsia, premature delivery, prenatal hospitalizations, and marginally significant increases in high blood pressure. Offspring of schizophrenic mothers had significantly decreased APGAR scores and birth weight and increased medical complications after birth. In contrast, women with a schizophrenic first-degree relative had no significant increases in OCs compared to controls. Schizophrenic mothers also smoked more than the other groups and smoking was found to mediate the relationship between maternal schizophrenic status and decreased birth weight among offspring. CONCLUSIONS: Maternal schizophrenia during pregnancy leads to an increased risk of OCs, possibly due to engagement in health-risk behaviors during pregnancy, such as smoking, whereas genetic susceptibility to schizophrenia, by itself, does not appear to be related to incidence of OCs."
+    },
+    {
+        "triples": [
+            "intravenous acyclovir|PA|visceral varicella-zoster infection",
+            "ACV|PA|visceral varicella-zoster virus",
+            "ACV|PA|VZV) infection",
+            "intravenous acyclovir|PA|visceral varicella-zoster virus",
+            "intravenous acyclovir|PA|VZV) infection",
+            "intravenous ACV|PA|epigastric pain",
+            "intravenous ACV|PA|skin lesions",
+            "intravenous ACV|PA|visceral varicella-zoster disease",
+            "intravenous acyclovir|PA|varicella-zoster virus",
+            "ACV|PA|acute lymphocytic leukemia",
+            "ACV|PA|ALL",
+            "intravenous ACV|PA|VZV",
+            "oral valacyclovir|PA|VZV"
+        ],
+        "sentence": "Quantification of circulating varicella-zoster virus DNA for follow-up in a case of visceral varicella-zoster infection ameliorated with intravenous acyclovir. We describe a patient with acute lymphocytic leukemia (ALL) who developed visceral varicella-zoster virus (VZV) infection following cord blood stem cell transplantation (CBSCT) and was successfully treated with intravenous acyclovir (ACV). A 24-year-old woman with ALL developed severe epigastric pain 168 days after CBSCT, followed by blistering eruptions 2 days later. A diagnosis of visceral varicella-zoster disease was made, and early intravenous ACV therapy successfully alleviated the epigastric pain and skin lesions within 2 weeks. Polymerase chain reaction analysis of the serum showed dramatic decreases in the viral DNA copy number and revealed large viral concentrations prior to the skin manifestations. The viral DNA copy number in whole blood remained positive, however, but was reduced. Further treatment with intravenous ACV led to VZV DNA becoming undetectable in whole blood, a result not achieved with oral valacyclovir."
+    },
+    {
+        "triples": [
+            "tobacco smoke|PA|cardiovascular diseases",
+            "smoking|SA|inflammation",
+            "smoking|SA|atherosclerotic cardiovascular diseases",
+            "tobacco smoke|PA|inflammatory responses"
+        ],
+        "sentence": "Association between tobacco smoke exposure and levels of C-reactive protein in the Oslo II Study. It is well known that tobacco smoke exposure is related to the risk of developing cardiovascular diseases and events. One mechanism could be that tobacco smoke acts on the cardiovascular system by altering the autonomic function and/or inducing inflammatory responses. We used data from 3 744 men aged 67-77 years from the city of Oslo that participated in the health screening for the Oslo II Health Study in 2000, to explore associations between C-reactive protein and environmental exposures including exposure to tobacco smoke products. Levels of C-reactive protein were higher in current smokers (2.05 mg/l, IQR, 1.11-4.17 mg/l), compared to former-smokers (1.58 mg/l, IQR, 0.83-3.03 mg/l) and non-smokers (1.26 mg/l, IQR, 0.65-2.40 mg/l). The risk of elevated C-reactive protein increased with both numbers of current cigarettes smoked per day and numbers of pack-years of smoking, when other factors were adjusted for (P < 0.001). We found a positive dose-response relationship between amount of current cigarette smoking and elevated C-reactive protein levels. These findings support the idea that the induction or exacerbation of inflammation could be a mechanism by which smoking promotes atherosclerotic cardiovascular diseases."
+    },
+    {
+        "triples": [],
+        "sentence": "Pivotal advance: endogenous pathway to SIRS, sepsis, and related conditions. TLRs are usually thought to recognize substances produced by microorganisms and thus, to initiate host defenses. This concept, however, fails to explain some functions of this family of receptors. Recognition of endogenous substances may explain the broader functions of TLRs in physiology and disease. Activation of TLRs by endogenous substances necessitates vigorous control of the function of the receptors. This communication will summarize a line of research, which points to an endogenous agonist for TLR4 and a putative mechanism for controlling the function of that receptor."
+    },
+    {
+        "triples": [
+            "lead|PA|impairments of motor functions",
+            "succimer|SA|cerebellar deficits",
+            "lead|PA|cerebellar deficits",
+            "succimer|PA|crossing"
+        ],
+        "sentence": "Effect of succimer chelation therapy on postural balance and gait outcomes in children with early exposure to environmental lead. This study investigated the influence of succimer chelation therapy in eliminating and/or minimizing lead-associated impairments of motor functions such as postural balance and locomotion or gait activities. In this study, postural balance and functional locomotion or gait were quantitated in 161 children in Cincinnati enrolled in a randomized, placebo-controlled, double blind clinical trial. In comparison to the placebo group, the succimer therapy group showed significantly decreased postural sway during dynamic task performance implying improved postural balance. The results from locomotion tests demonstrated significant improvements in functional tasks of obstacle crossing and normal walking in the succimer treated group. While some beneficial neuromotor effects of succimer therapy were observed in the present study there remains several unanswered questions such as how long these effects will persist and how succimer therapy modifies lead-associated cerebellar deficits manifesting as perturbations in vestibular and/or proprioception systems for postural balance and functional locomotion."
+    },
+    {
+        "triples": [
+            "etanercept|PA|TNF",
+            "infliximab|PA|TNF",
+            "murine p75-FC fusion protein|PA|TNF",
+            "MP6-XT22 anti-murine TNF mAb|PA|TNF",
+            "infliximab|PA|etanercept",
+            "infliximab|SA|p75-FC"
+        ],
+        "sentence": "Pharmacokinetics of murine p75-Fc fusion protein and MP6-XT22 anti-murine TNF-alpha mAb in mice. Immunologic limitations make it difficult to study the pharmacokinetic effects of human tumor necrosis factor (TNF) blockers in murine models. To counter this, we have studied the pharmacokinetics in mice of two murine analogs of human TNF blockers, a murine p75-FC fusion protein (analogous to etanercept), and the rat MP6-XT22 anti-murine TNF mAb (analogous to infliximab). We analyzed the pharmacokinetics of the murine p75-Fc protein and MP6-XT22 antibody in mice that were uninfected and in mice with disseminated candidiasis in order to confirm dosing strategies and interpret future studies evaluating the efficacy and tolerability of these agents in mice. We propose that, while conducting safety or efficacy studies in murine disease models, it is reasonable to administer the murine p75-Fc protein to mice at <10 mg/kg every 4-5 days, and the MP6-XT22 antibody at 10-20 mg/kg every 4-5 days."
+    },
+    {
+        "triples": [
+            "PMA|PA|C5a",
+            "PMA|PA|PKC"
+        ],
+        "sentence": "Distinct involvement of p38-, ERK1/2 and PKC signaling pathways in C5a-mediated priming of oxidative burst in phagocytic cells. C5a exerts various known harmful functions during experimental sepsis and blocking strategies demonstrated survival benefits in experimental sepsis. We investigated its potential for priming of oxidative burst in blood neutrophils and monocytes and the involvement of various signaling pathways. We here report that C5a induced priming of neutrophils and monocytes for Escherichia coli- and PMA-induced oxidative burst. This effect was strongly dependent on intact ERK1/2 signaling. P38 inhibition resulted in abrogation of C5a-induced priming only for E. coli-induced oxidative burst and PKC blockade had this effect only for PMA-induced burst. JNK inhibition had no impact. Our results demonstrate for the first time distinct involvement of ERK1/2, p38 and PKC pathways for C5a-induced priming of oxidative burst in phagocytes."
+    },
+    {
+        "triples": [
+            "5-fluorouracil|PA|EGFR",
+            "EGFR kinase inhibitors|PA|EGFR"
+        ],
+        "sentence": "Quantitative imaging of apoptosis commitment in colorectal tumor cells. We have studied caspase-3 activation by combined DNA damage induction and EGFR kinase inhibition in order to identify potential EGFR-mediated survival signals conferring resistance to apoptosis in human colorectal tumor cells. The onset of apoptosis was microscopically imaged with a newly developed caspase-3 substrate sensor based on EGFP and tHcred1, enabling us to monitor caspase-3 activation in cells by fluorescence lifetime imaging microscopy or fluorescence correlation spectroscopy. Both optical approaches provide parameters quantitatively reporting the ratio between cleaved and uncleaved sensor, thereby facilitating the comparison of caspase-3 activation between different cells. Using these methods, we show that EGFR kinase inhibitors sensitize colorectal SW-480 tumor cells for 5-fluorouracil-induced apoptosis, indicating that EGFR-mediated survival signaling contributes to apoptosis resistance via its intrinsic kinase activity."
+    },
+    {
+        "triples": [
+            "reactive oxygen species|PA|peroxisome proliferator-activated receptor-gamma",
+            "reactive oxygen species|PA|proline oxidase",
+            "ROS|PA|PPARgamma",
+            "ROS|PA|POX",
+            "bisphenol A diglycidyl ether|PA|PPARgamma",
+            "ROS|PA|PPARgamma",
+            "ROS|PA|POX",
+            "1-(trans-methylimino-N-oxy)-6-(2-morpholinoethoxy)-3-phenyl-(1H-indene-2-carboxylic acid ethyl ester|PA|PPARgamma agonist",
+            "KR-62980|PA|PPARgamma agonist",
+            "rosiglitazone|PA|PPARgamma agonist",
+            "1-(trans-methylimino-N-oxy)-6-(2-morpholinoethoxy)-3-phenyl-(1H-indene-2-carboxylic acid ethyl ester|PA|PPARgamma",
+            "PPARgamma agonist|PA|PPARgamma",
+            "rosiglitazone|PA|PPARgamma",
+            "PPARgamma antagonist|PA|PPARgamma"
+        ],
+        "sentence": "Apoptotic action of peroxisome proliferator-activated receptor-gamma activation in human non small-cell lung cancer is mediated via proline oxidase-induced reactive oxygen species formation. Peroxisome proliferator-activated receptor (PPAR)-gamma ligands have been shown to inhibit human lung cancers by inducing apoptosis and differentiation. In the present study, we elucidated the apoptotic mechanism of PPARgamma activation in human lung cancers by using a novel PPARgamma agonist, 1-(trans-methylimino-N-oxy)-6-(2-morpholinoethoxy)-3-phenyl-(1H-indene-2-carboxylic acid ethyl ester (KR-62980), and rosiglitazone. PPARgamma activation selectively inhibited cell viability of non-small-cell lung cancer with little effect on small-cell lung cancer and normal lung cells. The cell death induced by PPARgamma activation presented apoptotic features of oligonucleosomal DNA fragmentation in A549 human non-small-cell lung cancer cell line. Reactive oxygen species (ROS) production was accompanied by increased expression of proline oxidase (POX), a redox enzyme expressed in mitochondria, upon incubation with the agonists. POX RNA interference treatment blocked PPARgamma-induced ROS formation and cytotoxicity, suggesting that POX plays a functional role in apoptosis through ROS formation. The apoptotic effects by the agonists were antagonized by bisphenol A diglycidyl ether, a PPARgamma antagonist, and by knockdown of PPARgamma expression, indicating the involvement of PPARgamma in these actions. The results of the present study suggest that PPARgamma activation induces apoptotic cell death in non-small-cell lung carcinoma mainly through ROS formation via POX induction."
+    },
+    {
+        "triples": [
+            "ziprasidone|PA|negative symptoms",
+            "ziprasidone|PA|extrapyramidal symptoms",
+            "ziprasidone|NA|extrapyramidal symptoms",
+            "ziprasidone|NA|weight gain"
+        ],
+        "sentence": "Ziprasidone outcome and tolerability: a practical clinical trial with plasma drug levels. INTRODUCTION: The aim of this study was to evaluate clinical outcomes and the tolerability of ziprasidone in relation to its plasma levels. METHODS: Thirteen inpatients affected by schizophrenia were included in the study after an acute exacerbation phase. Ziprasidone monotherapy was administered for a period of eight weeks at a mean dose of 123.07+/-30.38 mg/day. Plasma concentrations were measured by high-performance liquid chromatography. RESULTS: Nine patients completed the study. A significant clinical improvement was observed, especially in negative symptoms ( P<0.05), and there was a significant improvement in extrapyramidal symptoms ( P<0.01). Clinical laboratory tests, such as ECG and weight, did not significantly change from baseline. Plasma ziprasidone levels ranged from 20 ng/mL to 160 ng/mL (mean: 75.8 ng/mL) and were significantly related to the improvement in negative symptoms. DISCUSSION: The study showed that ziprasidone was effective and tolerable, that use of ziprasidone was characterized by an absence of extrapyramidal symptoms and weight gain, and that no alterations in clinical laboratory tests occurred. The findings suggest a relationship between plasma levels and the clinical response to negative symptoms of schizophrenia."
+    },
+    {
+        "triples": [
+            "amlodipine|NA|cancer",
+            "amlodipine|NA|coronary heart disease",
+            "amlodipine|PA|cardiovascular events",
+            "amlodipine|NA|gastrointestinal bleeding",
+            "Dihydropyridine calcium channel antagonists|PA|hypertension",
+            "long-acting dihydropyridine calcium channel antagonists|PA|cardiovascular disease",
+            "amlodipine|SA|gastrointestinal bleeding",
+            "amlodipine|SA|cancer",
+            "amlodipine|SA|coronary heart disease",
+            "Dihydropyridine calcium channel antagonists|SA|stroke",
+            "Dihydropyridine calcium channel antagonists|PA|hypertension",
+            "diuretics|PA|cardiovascular events"
+        ],
+        "sentence": "Dihydropyridine calcium channel antagonists in the management of hypertension. Dihydropyridine calcium channel antagonists have been maligned in recent years because of concerns regarding their cardiovascular and overall safety profile. Specifically, it was widely publicised in the mid-1990s that these agents might increase the risk of myocardial infarction, gastrointestinal bleeding and cancer. Data linking these agents with increased cardiovascular risk were based on nonrandomised studies and implicated short-acting, immediate-release agents. These results were inappropriately extrapolated to longer-acting compounds, extended-release products, and to the non-dihydropyridine class. Fortunately, recent studies have vindicated the class from safety allegations. These studies are reviewed herein. Compared with both diuretics and contemporary agents, amlodipine decreases cardiovascular events to a similar or greater extent without evidence for increased coronary heart disease, gastrointestinal bleeding or cancer. Despite these data, initial concerns have had lasting repercussions, as the use of dihydropyridine calcium channel antagonists appears to lag behind what emerging data would support. Dihydropyridine calcium channel antagonists have several noteworthy attributes that merit consideration in the management of hypertension. The blood pressure response to this class of drugs is less contingent on patient factors such as age and race compared with other antihypertensive agents (e.g. ACE inhibitors). Dihydropyridine calcium channel antagonists may exert effects that protect against stroke that are independent of their blood pressure-lowering mechanism. Unlike diuretics and beta-adrenoceptor anatagonists (beta-blockers), dihydropyridine calcium channel antagonists are lipid neutral and do not disturb glucose homeostasis. Dihydropyridine calcium channel antagonists demonstrate a highly desirable profile when administered as part of combination therapy. Combinations of dihydropyridine calcium channel antagonists and ACE inhibitors or angiotensin receptor antagonists display additive efficacy and an enviable adverse-effect profile. Collectively, the cardiovascular benefit, metabolic neutrality and homogeneous blood pressure response illuminated in recent studies, and reviewed here, represent a reaffirmation of the benefit of long-acting dihydropyridine calcium channel antagonists and should serve to help reinforce the critical importance of these agents in the therapeutic armamentarium against cardiovascular disease."
+    },
+    {
+        "triples": [
+            "602S|PA|leprosy",
+            "TLR1|PA|leprosy",
+            "TLR1|PA|mycobacteria",
+            "TLR1|PA|deficiencies",
+            "TLR|PA|leprosy",
+            "602S|PA|Mycobacterium leprae",
+            "TLR|PA|Mycobacterium leprae"
+        ],
+        "sentence": "Cutting edge: A common polymorphism impairs cell surface trafficking and functional responses of TLR1 but protects against leprosy. TLRs constitute an essential family of pattern recognition molecules that, through direct recognition of conserved microbial components, initiate inflammatory responses following infection. In this role, TLR1 enables host responses to a variety of bacteria, including pathogenic species of mycobacteria. In this study, we report that I602S, a common single nucleotide polymorphism within TLR1, is associated with aberrant trafficking of the receptor to the cell surface and diminished responses of blood monocytes to bacterial agonists. When expressed in heterologous systems, the TLR1 602S variant, but not the TLR1 602I variant, exhibits the expected deficiencies in trafficking and responsiveness. Among white Europeans, the 602S allele represents the most common single nucleotide polymorphism affecting TLR function identified to date. Surprisingly, the 602S allele is associated with a decreased incidence of leprosy, suggesting that Mycobacterium leprae subverts the TLR system as a mechanism of immune evasion."
+    },
+    {
+        "triples": [
+            "rituximab|PA|high-grade non-Hodgkin lymphoma",
+            "rituximab|PA|intermediate",
+            "cyclophosphamide|PA|high-grade non-Hodgkin lymphoma",
+            "cyclophosphamide|PA|intermediate",
+            "doxorubicin|PA|high-grade non-Hodgkin lymphoma",
+            "doxorubicin|PA|intermediate",
+            "vincristine|PA|high-grade non-Hodgkin lymphoma",
+            "vincristine|PA|intermediate",
+            "prednisone|PA|high-grade non-Hodgkin lymphoma",
+            "prednisone|PA|intermediate",
+            "R-CHOP|PA|high-grade non-Hodgkin lymphoma",
+            "R-CHOP|PA|intermediate",
+            "filgrastim|PA|high-grade non-Hodgkin lymphoma",
+            "filgrastim|PA|intermediate",
+            "R-CHOP|PA|high-grade non-Hodgkin lymphoma",
+            "R-CHOP|PA|intermediate",
+            "filgrastim|PA|neutropenic event",
+            "rituximab|PA|high-grade non-Hodgkin lymphoma",
+            "filgrastim|PA|high-grade non-Hodgkin lymphoma",
+            "R-CHOP|PA|high-grade non-Hodgkin lymphoma",
+            "chemotherapy|PA|high-grade non-Hodgkin lymphoma"
+        ],
+        "sentence": "Community-based trial of R-CHOP and maintenance rituximab for intermediate- or high-grade non-Hodgkin lymphoma with first-cycle filgrastim for older patients. BACKGROUND: Administration of full-dose R-CHOP (rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone) chemotherapy is important to maximize response in patients with intermediate-or high-grade non-Hodgkin lymphoma but might be difficult in older patients. PATIENTS AND METHODS: This community-based study was conducted to determine response, toxicity, and disease-free survival in patients with intermediate-or high-grade non-Hodgkin lymphoma receiving R-CHOP with filgrastim. Patients received 6-8 cycles of R-CHOP followed by 4 cycles of maintenance rituximab for responders. Patients aged > 60 years or with increased infection risk received filgrastim 5 microg/kg per day in all R-CHOP cycles; other patients received filgrastim after a neutropenic event (no planned administration for cycle 1). RESULTS: Of 101 patients enrolled, 60 (59%) were aged > 60 years and received filgrastim in all cycles. Thirty-three patients aged <or= 60 years (80%) received filgrastim, 7 (17%) as primary use in cycle 1. Chemotherapy average relative dose intensity was comparable between age groups (91% > 60 years vs. 93% <or= 60 years). Overall response was similar in both groups (87% > 60 years vs. 95% <or= 60 years; P=0.19); however, the complete response rate was significantly lower for older patients (42% > 60 years vs. 71% <or= 60 years; P=0.005). Seventy-six percent of patients (75% > 60 years vs. 78% <or= 60 years) had no evidence of progression after 2 years of follow-up. Febrile neutropenia (fever >or= 38.3 degrees C with absolute neutrophil count < 500/mm) occurred in 17% of patients overall (22% > 60 years vs. 10% <or= 60 years), and 8% had cycle-1 events (12% > 60 years vs. 2% <or= 60 years). CONCLUSION: Patients aged > 60 years receiving R-CHOP with filgrastim support in all cycles received comparable doses of chemotherapy and had similar overall response rates compared wtih those of younger patients receiving no preemptive cycle-1 filgrastim."
+    },
+    {
+        "triples": [
+            "OTOF|PA|deletions in the GJB6",
+            "OTOF|PA|mutations",
+            "GJB2|PA|deletions in the GJB6",
+            "GJB2|PA|mutations",
+            "GJB3|PA|deletions in the GJB6",
+            "GJB3|PA|mutations",
+            "deletions in the GJB6|PA|deletions in the GJB6",
+            "deletions in the GJB6|PA|mutations",
+            "mutations in the GJB2|PA|deletions in the GJB6",
+            "mutations in the GJB2|PA|mitochondrial mutations",
+            "deletions in the GJB6|PA|deletions in the GJB6",
+            "deletions in the GJB6|PA|mitochondrial mutations"
+        ],
+        "sentence": "Molecular genetics study of deafness in Brazil: 8-year experience. Hereditary hearing loss is a complex disorder that involves a large number of genes. In developed countries, 1 in 1,000 children is born with deafness severe enough to require special education services, and about 60% of the cases of isolated deafness have a genetic origin. Although more than 100 genes for hearing loss are known currently, only a few are routinely tested in the clinical practice. In this study, we present our findings from the molecular diagnostic screening of the GJB2 and GJB3 genes, del(GJB6-D13S1,830) and del(GJB6-D13S1,854) deletions in the GJB6 gene, Q829X mutation in the otoferlin gene (OTOF) and, the A1,555G and A7,445G mutations in the mitochondrial genome over an 8-year period. Mutations analysis in the previously mentioned genes and mutations was performed on 645 unrelated Brazilian patients with hearing loss who fell into two different testing groups. Different mutations in the GJB2 gene were responsible for most of cases studied, but deletions in the GJB6 gene as well as mitochondrial mutations were also found. While most cases of hearing loss in this country are due to environmental factors, the genetic etiology of deafness will increasingly be determined as more genetic tests become available.CI - (c) 2007 Wiley-Liss, Inc"
+    },
+    {
+        "triples": [
+            "Amyloid beta protein|PA|Alzheimer's disease",
+            "Abeta|PA|Alzheimer's disease",
+            "Anti-Abeta antibodies|PA|cognitive impairments",
+            "Anti-Abeta antibodies|PA|histologic",
+            "L11.3|PA|learning",
+            "L11.3|PA|memory impairments",
+            "IgG|NA|learning",
+            "IgG|NA|memory impairments",
+            "IgM|NA|learning",
+            "IgM|NA|memory impairments",
+            "IgM antibody|PA|Alzheimer's disease",
+            "IgM antibody|PA|cognitive impairment",
+            "CD-1|PA|cross",
+            "amyloid beta protein|SA|Alzheimer's disease",
+            "Abeta|PA|cognitive impairments",
+            "Abeta-dependent cognitive deficit|PA|Abeta-dependent cognitive deficit",
+            "Abeta|PA|cognitive impairments"
+        ],
+        "sentence": "Anti-amyloid beta protein antibody passage across the blood-brain barrier in the SAMP8 mouse model of Alzheimer's disease: an age-related selective uptake with reversal of learning impairment. Amyloid beta protein (Abeta) levels are elevated in the brain of Alzheimer's disease patients. Anti-Abeta antibodies can reverse the histologic and cognitive impairments in mice which overexpress Abeta. Passive immunization appears safer than vaccination and treatment of patients will likely require human rather than xenogenic antibodies. Effective treatment will likely require antibody to cross the blood-brain barrier (BBB). Unfortunately, antibodies typically cross the BBB very poorly and accumulate less well in brain than even albumin, a substance nearly totally excluded from the brain. We compared the ability of two anti-Abeta human monoclonal IgM antibodies, L11.3 and HyL5, to cross the BBB of young CD-1 mice to that of young and aged SAMP8 mice. The SAMP8 mouse has a spontaneous mutation that induces an age-related, Abeta-dependent cognitive deficit. There was preferential uptake of intravenously administered L11.3 in comparison to HyL5, albumin, and a control human monoclonal IgM (RF), especially by hippocampus and olfactory bulb in aged SAMP8 mice. Injection of L11.3 into the brains of aged SAMP8 mice reversed both learning and memory impairments in aged SAMP8 mice, whereas IgG and IgM controls were ineffective. Pharmacokinetic analysis predicted that an intravenous dose 1000 times higher than the brain injection dose would reverse cognitive impairments. This predicted intravenous dose reversed the impairment in learning, but not memory, in aged SAMP8 mice. In conclusion, an IgM antibody was produced that crosses the BBB to reverse cognitive impairment in a murine model of Alzheimer's disease."
+    },
+    {
+        "triples": [
+            "MTII|PA|melanocortin agonists",
+            "SHU9119|PA|melanocortin agonists",
+            "AGRP|PA|melanocortin agonists"
+        ],
+        "sentence": "Melanocortin-4 receptor agonists for the treatment of obesity. The melanocortin family of receptors (MC 1-5R) and their endogenous peptide ligands (alpha, beta, gamma- MSH and ACTH) have been implicated in the control of a wide variety of behavioral and physiological functions including the homeostatic control of food intake and body weight. In rodent models, melanocortin agonists including the nonselective peptide MTII have been shown to decrease food intake and body weight while antagonists such as SHU9119 and AGRP have been shown to stimulate food intake and increase body weight. Deletion of either the MC3R or MC4R in mice was found to be associated with obesity although hyperphagia was only observed in the MC4R deficient mice. Similarly in humans, inactivating mutations of the MC4R have been found in as many as six percent of obese individuals. The suggestion from these findings that activation of MC4Rs would have an anorectic effect in humans has resulted in efforts to produce selective agonists for the treatment of obesity. Over the past decade, efforts to develop MC4R selective small molecule and peptide agonists have been met with fractional success. Many small molecule agonists have been identified; however, few have been shown to have activity in vivo. While their use as therapeutics may have limitations, selective and potent peptide agonists have been shown by several investigators to decrease food intake and body weight in rodent models. The subject of the current review is to examine the progress made to date on producing both small molecule and peptide MC4R agonists as potential therapeutics for obesity."
+    },
+    {
+        "triples": [
+            "T|PA|CD",
+            "SNP +372 T/C|PA|fistulae",
+            "SNP +372 T/C|PA|CD",
+            "TIMP-1 genotype TT|PA|fistulae",
+            "TIMP-1 genotype TT|PA|CD",
+            "TIMP-1 +372 T-allele|PA|IBD",
+            "TIMP-1 +372 T-allele|PA|CD",
+            "5T5T genotype at MMP-3 SNP -1613 5T/6T|PA|CD",
+            "TIMP-1|PA|CD",
+            "MMP-3|PA|CD",
+            "tumor necrosis factor-alpha single nucleotide gene polymorphisms|PA|inflammatory bowel disease",
+            "tumor necrosis factor|PA|inflammatory bowel diseases",
+            "tumor necrosis factor|PA|disease",
+            "MMP-3|PA|disease",
+            "MMP-3|PA|complications",
+            "TIMP-1|PA|disease",
+            "TIMP-1|PA|stricture pathogenesis",
+            "MMP-3|PA|disease",
+            "MMP-3|PA|stricture pathogenesis",
+            "matrix metalloproteinase|SA|inflammatory bowel disease",
+            "tissue inhibitor of metalloproteinase|SA|inflammatory bowel disease",
+            "tumor necrosis factor|SA|IBD",
+            "matrix metalloproteinases|SA|inflammatory bowel diseases",
+            "matrix metalloproteinases|SA|IBD",
+            "MMP)-1|SA|inflammatory bowel diseases",
+            "MMP)-1|SA|IBD",
+            "tissue inhibitors of metalloproteinases|SA|inflammatory bowel diseases",
+            "tissue inhibitors of metalloproteinases|SA|IBD",
+            "TNF)-alpha|SA|inflammatory bowel diseases",
+            "TNF)-alpha|SA|IBD",
+            "SNP +372 T/C|NA|fistulae",
+            "5T5T genotype at MMP-3 SNP -1613 5T/6T|PA|complications",
+            "MMP-3|PA|CD",
+            "TIMP-1|PA|fistulizing disease",
+            "MMP-3|PA|fistulizing disease",
+            "TIMP)-1|SA|inflammatory bowel diseases",
+            "TIMP)-1|SA|IBD",
+            "TIMP-1|PA|IBD",
+            "TIMP-1|PA|CD",
+            "MMP-3|PA|colonic involvement",
+            "5T5T genotype at MMP-3 SNP -1613 5T/6T|PA|colonic involvement"
+        ],
+        "sentence": "Role of matrix metalloproteinase, tissue inhibitor of metalloproteinase and tumor necrosis factor-alpha single nucleotide gene polymorphisms in inflammatory bowel disease. AIM: To study the (functional) relevance of single nucleotide polymorphisms (SNPs) in genes encoding matrix metalloproteinases (MMP)-1, -2, -3, -9, tissue inhibitors of metalloproteinases (TIMP)-1, -2 and tumor necrosis factor (TNF)-alpha in the etiopathogenesis of inflammatory bowel diseases (IBD), that may enhance susceptibility and/or disease severity. METHODS: Genomic DNA from 134 Crohn' s disease (CD), 111 ulcerative colitis (UC) patients and 248 control subjects was isolated from resected intestinal tissue or blood. Allelic composition at SNP loci was determined by PCR-RFLP or tetra primer ARMS PCR. RESULTS: The TIMP-1 genotype TT in women and T in men at SNP +372 T/C was found to increase CD susceptibility (39% vs 23.8%, P = 0.018 and 67.9% vs 51.6%, P = 0.055, respectively), while women with this genotype were less prone to development of fistulae during follow-up (41.4% vs 68.3%, P = 0.025). Male IBD or CD patients carrying the TIMP-1 +372 T-allele expressed lower levels of TIMP-1 in surgically resected macroscopically inflamed tissue (0.065 < P < 0.01). The 5T5T genotype at MMP-3 SNP -1613 5T/6T increased the chance of stenotic complications in CD during follow-up (91.2% vs 71.8%, P = 0.022) but seemed to protect against colonic involvement of this disease at first endoscopic/radiologic examination (35.3% vs 59.5%, P = 0.017). CONCLUSION: Allelic composition at the examined SNPs in genes coding for TIMP-1 and MMP-3 affect CD susceptibility and/or phenotype, i.e., fistulizing disease, stricture pathogenesis and first disease localisation. These findings reinforce the important role of these proteins in IBD."
+    },
+    {
+        "triples": [
+            "GLP-1|PA|amyloid protein",
+            "Glucagon-like peptide-1|PA|GLP-1"
+        ],
+        "sentence": "Is Glucagon-like peptide-1, an agent treating diabetes, a new hope for Alzheimer's disease? Glucagon-like peptide-1 (GLP-1) has been endorsed as a promising and attractive agent in the treatment of type 2 diabetes mellitus (T2DM). Both Alzheimer's disease (AD) and T2DM share some common pathophysiologic hallmarks, such as amyloid beta (Abeta), phosphoralation of tau protein, and glycogen synthase kinase-3. GLP-1 possesses neurotropic properties and can reduce amyloid protein levels in the brain. Based on extensive studies during the past decades, the understanding on AD leads us to believe that the primary targets in AD are the Abeta and tau protein. Combine these findings, GLP-1 is probably a promising agent in the therapy of AD. This review was focused on the biochemistry and physiology of GLP-1, communities between T2DM and AD, new progresses of GLP-1 in treating T2MD and improving some pathologic hallmarks of AD."
+    },
+    {
+        "triples": [
+            "somatically-derived zinc finger mutations|PA|malformed hearts",
+            "dbSNPs in the 3'-UTR region of GATA4|PA|malformed hearts",
+            "c.+119A > T in the 3'-UTR|PA|ASD type II",
+            "somatic GATA4 mutations in the 3'-UTR|PA|CHD",
+            "CHD|PA|Mutations in the 3'-untranslated region of GATA4",
+            "CHD|PA|congenital heart disease",
+            "Mutations in the 3'-untranslated region of GATA4|PA|Mutations in the 3'-untranslated region of GATA4",
+            "Mutations in the 3'-untranslated region of GATA4|PA|congenital heart disease",
+            "CHD|PA|congenital heart disease",
+            "GATA4|PA|congenital heart disease",
+            "Germline mutations in the coding region of GATA4|PA|mutations",
+            "Germline mutations in the coding region of GATA4|PA|Germline mutations in the coding region of GATA4",
+            "3'-UTR of GATA4|PA|cardiac malformations",
+            "3'-UTR of GATA4|PA|atrioventricular septal defects",
+            "3'-UTR of GATA4|PA|somatic mutations",
+            "GATA4|PA|mutations",
+            "CHD|PA|mutations",
+            "GATA4|PA|mutations",
+            "Mutations in the 3'-untranslated region of GATA4|SA|CHD",
+            "GATA4|SA|CHD",
+            "Germline mutations in the coding region of GATA4|PA|septation defects of the human heart",
+            "3'-UTR region of GATA4|SA|CHD",
+            "GATA4|PA|CHD"
+        ],
+        "sentence": "Mutations in the 3'-untranslated region of GATA4 as molecular hotspots for congenital heart disease (CHD). BACKGROUND: The 3'-untranslated region (3'-UTR) of mRNA contains regulatory elements that are essential for the appropriate expression of many genes. These regulatory elements are involved in the control of nuclear transport, polyadenylation status, subcellular targetting as well as rates of translation and degradation of mRNA. Indeed, 3'-UTR mutations have been associated with disease, but frequently this region is not analyzed. To gain insights into congenital heart disease (CHD), we have been analyzing cardiac-specific transcription factor genes, including GATA4, which encodes a zinc finger transcription factor. Germline mutations in the coding region of GATA4 have been associated with septation defects of the human heart, but mutations are rather rare. Previously, we identified 19 somatically-derived zinc finger mutations in diseased tissues of malformed hearts. We now continued our search in the 609 bp 3'-UTR region of GATA4 to explore further molecular avenues leading to CHD. METHODS: By direct sequencing, we analyzed the 3'-UTR of GATA4 in DNA isolated from 68 formalin-fixed explanted hearts with complex cardiac malformations encompassing ventricular, atrial, and atrioventricular septal defects. We also analyzed blood samples of 12 patients with CHD and 100 unrelated healthy individuals. RESULTS: We identified germline and somatic mutations in the 3'-UTR of GATA4. In the malformed hearts, we found nine frequently occurring sequence alterations and six dbSNPs in the 3'-UTR region of GATA4. Seven of these mutations are predicted to affect RNA folding. We also found further five nonsynonymous mutations in exons 6 and 7 of GATA4. Except for the dbSNPs, analysis of tissue distal to the septation defect failed to detect sequence variations in the same donor, thus suggesting somatic origin and mosaicism of mutations. In a family, we observed c.+119A > T in the 3'-UTR associated with ASD type II. CONCLUSION: Our results suggest that somatic GATA4 mutations in the 3'-UTR may provide an additional molecular rationale for CHD."
+    },
+    {
+        "triples": [
+            "Polymorphism of XRCC1|PA|gastric cancer",
+            "XRCC1|SA|gastric cancer",
+            "XRCC1|PA|gastric cancer",
+            "XRCC1|PA|xeroderma pigmentosum group D",
+            "XRCC1|PA|cross",
+            "XPD|PA|gastric cancer",
+            "XPD|PA|xeroderma pigmentosum group D",
+            "XPD|PA|cross",
+            "GSTP1|PA|gastric cancer",
+            "GSTP1|PA|xeroderma pigmentosum group D",
+            "GSTP1|PA|cross",
+            "SNPs of XPD-751|PA|gastric cancer",
+            "XRCC1-399|PA|gastric cancer",
+            "GSTP1-105|PA|gastric cancer"
+        ],
+        "sentence": "Polymorphism of XRCC1 predicts overall survival of gastric cancer patients receiving oxaliplatin-based chemotherapy in Chinese population. Pharmacogenetic advances in cancer chemotherapy have the potential to predict clinical benefit to particular regimens. Platinum agents have shown to be effective in the treatment of gastric cancer. We assessed whether single nucleotide polymorphisms (SNPs) in xeroderma pigmentosum group D (XPD), X-ray repair cross complementing group 1 (XRCC1) and glutathione S-transferase P1 (GSTP1) predicted overall survival in gastric cancer patients receiving oxaliplatin-based chemotherapy in Chinese population. SNPs of XPD-751, XRCC1-399 and GSTP1-105 in 62 gastric cancer patients were evaluated using the TaqMan 5' nuclease assay. Genotypes were correlated to survival. The median overall survival time was 322 days (range: 56-2058 days). The median survival times for patients with Arg/Arg or Arg/Gln genotypes of XRCC1 gene were significantly longer than others (P=0.03). For 58 patients with ECOG PS (Eastern Cooperative Oncology Group performance status)<or=2, more obvious significance was demonstrated (P=0.002). Patients with XRCC1-399 Gln/Gln genotype demonstrated a significant worse survival. No significant association was found between SNPs of XPD-751, GSTP1-105 and survival (P=0.125, 0.475, respectively). XRCC1 genotyping might make tailor chemotherapy possible for gastric cancer patients treated with oxaliplatin-based chemotherapy."
+    },
+    {
+        "triples": [
+            "Cobaltous chloride|PA|aryl hydrocarbon receptor",
+            "2,3,7,8-tetrachlorodibenzo-p-dioxin|PA|CYP1A1",
+            "TCDD|PA|CYP1A1",
+            "TCDD|PA|AhR",
+            "TCDD|PA|CYP1A1",
+            "TCDD|PA|CYP1A1",
+            "cycloheximide|PA|CYP1A1",
+            "protein synthesis inhibitor|PA|CYP1A1",
+            "2,3,7,8-tetrachlorodibenzo-p-dioxin|PA|AhR-ERalpha",
+            "TCDD|PA|AhR-ERalpha",
+            "TCDD|NA|BRCA1"
+        ],
+        "sentence": "Cobaltous chloride and hypoxia inhibit aryl hydrocarbon receptor-mediated responses in breast cancer cells. The aryl hydrocarbon receptor (AhR) is expressed in estrogen receptor (ER)-positive ZR-75 breast cancer cells. Treatment with 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) induces CYP1A1 protein and mRNA levels and also activates inhibitory AhR-ERalpha crosstalk associated with hormone-induced reporter gene expression. In ZR-75 cells grown under hypoxia, induction of these AhR-mediated responses by TCDD was significantly inhibited. This was not accompanied by decreased nuclear AhR levels or decreased interaction of the AhR complex with the CYP1A1 gene promoter as determined in a chromatin immunoprecipitation assay. Hypoxia-induced loss of Ah-responsiveness was not associated with induction of hypoxia-inducible factor-1alpha or other factors that sequester the AhR nuclear translocation (Arnt) protein, and overexpression of Arnt under hypoxia did not restore Ah-responsiveness. The p65 subunit of NFkappaB which inhibits AhR-mediated transactivation was not induced by hypoxia and was primarily cytosolic in ZR-75 cells grown under hypoxic and normoxic conditions. In ZR-75 cells maintained under hypoxic conditions for 24 h, BRCA1 (an enhancer of AhR-mediated transactivation in breast cancer cells) was significantly decreased and this contributed to loss of Ah-responsiveness. In cells grown under hypoxia for 6 h, BRCA1 was not decreased, but induction of CYP1A1 by TCDD was significantly decreased. Cotreatment of ZR-75 cells with TCDD plus the protein synthesis inhibitor cycloheximide for 6 h enhanced CYP1A1 expression in cells grown under hypoxia and normoxia. These results suggest that hypoxia rapidly induces protein(s) that inhibit Ah-responsiveness and these may be similar to constitutively expressed inhibitors of Ah-responsiveness (under normoxia) that are also inhibited by cycloheximide."
+    },
+    {
+        "triples": [],
+        "sentence": "Dynamic regulation of MTHFR mRNA expression and C677T genotype modulate mortality in coronary artery disease patients after revascularization. INTRODUCTION: A large body of evidence links plasma homocysteine (Hcy) concentrations and cardiovascular disease. A common MTHFR polymorphism (C677T) leads to a variant with reduced activity and associated with increased Hcy levels. Coronary surgery precipitates a significant and sustained increase in the blood concentrations of Hcy and elevated levels of plasma Hcy have been associated to saphenous vein (SV) graft disease after CABG. However, the effects of MTHFR genotypes in the incidence of cardiovascular events after CABG have not been investigated prospectively. Here, we investigate whether MTHFR gene variants are associated with an increased cardiovascular risk in individuals submitted to CABG. We also propose a molecular mechanism to explain our findings. METHODS: We performed MTHFR C677T genotypes in 558 patients with two or three vessel-disease and normal left ventricular function prospectively followed in the MASS II Trial, a randomized study to compare treatments for multivessel CAD and preserved left ventricle function. Follow-up time was 5 years. Survival curves were calculated with the Kaplan-Meier method, and evaluated with the log-rank statistic. We assessed the relationship between baseline variables and the composite end-point of death, myocardial infarction and refractory angina using a Cox proportional hazards survival model. Finally, using an ex-vivo organ culture we have reproduced the arterialization of SV implants by culturing human SV either under venous hemodynamic condition (flow: 5 mL/min; no pressure) or arterial hemodynamic condition (flow: 50 mL/min; pressure: 80 mm Hg) for 1 day. MTHFR gene expression was quantified by real time RT-PCR in 15 SV from different individuals in both experimental conditions. RESULTS: There were no significant differences among individuals within each genotype group for baseline clinical characteristics. A statistically significant association between the TT genotype, associated with increased serum levels of Hcy, and cardiovascular mortality after 5 years was verified (p=0.007) in individuals submitted to CABG surgery. In addition, MTHFR TT genotype was still significantly associated with a 4.4 fold increased risk in cardiovascular outcomes (p=0.01) even after adjustment of a Cox multivariate model for age, sex, hypertension, diabetes, LDL, HDL, triglycerides, and number of diseased vessels in this population. Finally, a significant reduction in MTHFR gene expression was demonstrated in human SV when submitted to an arterial hemodynamic condition (p=0.02). CONCLUSIONS: There is a dynamic regulation of MTHFR gene expression during the arterialization process of human saphenous vein grafts resulting in lower levels of gene expression when in an arterial hemodynamic condition. In addition, the C677T MTHFR functional variant is associated with a worse outcome in individuals submitted to CABG. Taken together, these data suggest an important role of Hcy metabolism in individuals after CABG."
+    },
+    {
+        "triples": [
+            "rs11209026|PA|Crohn's disease",
+            "rs11209026|PA|CD",
+            "IL23R|PA|CD",
+            "caspase-recruitment domain 15|NA|inflammatory bowel disease",
+            "variants in the IL23R|PA|CD",
+            "interleukin-23 receptor|PA|pediatric Crohn's disease",
+            "IL23R|PA|Crohn's disease",
+            "IL23R|PA|disease",
+            "IL23R|PA|disease",
+            "IL23R variant|PA|inflammatory bowel disease",
+            "IL23R|PA|CD"
+        ],
+        "sentence": "Association of variants of the interleukin-23 receptor gene with susceptibility to pediatric Crohn's disease. BACKGROUND & AIMS: Recently an association was shown between the single nucleotide polymorphism (SNP), rs11209026, within the interleukin-23 receptor (IL23R) locus and Crohn's disease (CD) as a consequence of a genome-wide association study of this disease in adults. We examined the effects of this and other previously reported SNPs at this locus with respect to CD in children. METHODS: By using data from our ongoing genome-wide association study in our cohort of 142 pediatric CD patients and 281 matched controls, we investigated the association of the previously reported SNPs at the IL23R locus with the childhood form of this disease. RESULTS: By using the Fisher exact test, the minor allele frequency of rs11209026 in the patients was 1.75%, whereas it was 6.61% in the controls, yielding a protective odds ratio (OR) of 0.25 (95% confidence interval, 0.10-0.65; 1-sided P = 9.2 x 10(-4)). Furthermore, of all the SNPs previously reported, rs11209026 was associated the most strongly. A subsequent family based association test (which is more resistant to population stratification) with 65 sets of trios derived from our initial patient cohort yielded significant association with rs11209026 in a transmission disequilibrium test (1-sided P = .0017). In contrast, no association was detected to the caspase-recruitment domain 15 gene for the inflammatory bowel disease phenotype. CONCLUSIONS: The OR of the IL23R variant in our pediatric study is highly comparable with that reported previously in a non-Jewish adult inflammatory bowel disease case-control cohort (OR, 0.26). As such, variants in the IL23R gene confer a similar magnitude of risk of CD to children as for their adult counterparts."
+    },
+    {
+        "triples": [
+            "pazopanib|PA|VEGF",
+            "pazopanib|PA|VEGFR",
+            "pazopanib|PA|VEGF) receptors",
+            "pazopanib|PA|platelet-derived growth factor receptor",
+            "pazopanib|PA|c-Kit tyrosine kinases",
+            "GW786034|PA|VEGF",
+            "GW786034|PA|VEGFR",
+            "GW786034|PA|VEGF) receptors",
+            "GW786034|PA|platelet-derived growth factor receptor",
+            "GW786034|PA|c-Kit tyrosine kinases",
+            "pazopanib|PA|vascular endothelial growth factor",
+            "GW786034|PA|vascular endothelial growth factor"
+        ],
+        "sentence": "Pharmacokinetic-pharmacodynamic correlation from mouse to human with pazopanib, a multikinase angiogenesis inhibitor with potent antitumor and antiangiogenic activity. With the development of targeted therapeutics, especially for small-molecule inhibitors, it is important to understand whether the observed in vivo efficacy correlates with the modulation of desired/intended target in vivo. We have developed a small-molecule inhibitor of all three vascular endothelial growth factor (VEGF) receptors (VEGFR), platelet-derived growth factor receptor, and c-Kit tyrosine kinases, pazopanib (GW786034), which selectively inhibits VEGF-induced endothelial cell proliferation. It has good oral exposure and inhibits angiogenesis and tumor growth in mice. Because bolus administration of the compound results in large differences in C(max) and C(trough), we investigated the effect of continuous infusion of a VEGFR inhibitor on tumor growth and angiogenesis. GW771806, which has similar enzyme and cellular profiles to GW786034, was used for these studies due to higher solubility requirements for infusion studies. Comparing the pharmacokinetics by two different routes of administration (bolus p.o. dosing and continuous infusion), we showed that the antitumor and antiangiogenic activity of VEGFR inhibitors is dependent on steady-state concentration of the compound above a threshold. The steady-state concentration required for these effects is consistent with the concentration required for the inhibition of VEGF-induced VEGFR2 phosphorylation in mouse lungs. Furthermore, the steady-state concentration of pazopanib determined from preclinical activity showed a strong correlation with the pharmacodynamic effects and antitumor activity in the phase I clinical trial."
+    },
+    {
+        "triples": [
+            "pesticides|PA|poisoning",
+            "drugs|PA|poisoning",
+            "pesticides|PA|poisoning",
+            "drugs|PA|poisoning",
+            "pesticides|PA|poisoning",
+            "drugs|PA|poisoning",
+            "pesticides|PA|mortality"
+        ],
+        "sentence": "Etiological and demographical characteristics of acute adult poisoning in Adana, Turkey. The objective of this study is to define the etiological and demographical characteristics of the patients applying to the emergency department in Faculty of Medicine, Cukurova University because of poisoning. This retrospective study was carried out by examining the records of 491 people who applied to the main emergency department in Faculty of Medicine, Cukurova University, with the complaint of poisoning between January 1, 2004 and December 31, 2004. It was determined that the reason why 491 of 20 817 persons (2.4%) applied during this term was because of poisoning: 159 (32.4%) of such patients were male and 332 of them (67.6%) were female. It was found that the average age of men was 27.1 +/- 10.5 years and that of women was 24.4 +/- 9.5 years (P = 0.005); 427 of poisoning cases (87.0%) happened intentionally as suicide attempts and 64 of them (13.0%) were accidental. The rate of suicide-purposed poisoning was higher in women and the rate of unintentional poisoning was higher in men (P +/- 0.001). The drugs were accountable for 71.1% of all poisoning cases and the pesticides were accountable for 18.9% of such cases. Poisonings increase during summers. The mortality rate in poisonings was found as 0.8%. The drugs and pesticides in Ckurova region constitute 90.0% of all poisoning cases. The mortality rate in poisoning will be decreased by training the physicians employed in the emergency department about poisoning by drugs and pesticides."
+    },
+    {
+        "triples": [
+            "TRPV1 antagonist|PA|TRPV1",
+            "AMG0347|PA|TRPV1",
+            "AMG0347|PA|TRPV1",
+            "intraperitoneal resiniferatoxin|PA|TRPV1 channels",
+            "AMG0347|PA|TRPV1 antagonist",
+            "(E)-N-(7-hydroxy-5,6,7,8-tetrahydronaphthalen-1-yl)-3-(2-(piperidin-1-yl)-6-(trifluoromethyl)pyridin-3-yl)acrylamide|PA|TRPV1 antagonist",
+            "AMG0347|PA|TRPV1 channels"
+        ],
+        "sentence": "Nonthermal activation of transient receptor potential vanilloid-1 channels in abdominal viscera tonically inhibits autonomic cold-defense effectors. An involvement of the transient receptor potential vanilloid (TRPV) 1 channel in the regulation of body temperature (T(b)) has not been established decisively. To provide decisive evidence for such an involvement and determine its mechanisms were the aims of the present study. We synthesized a new TRPV1 antagonist, AMG0347 [(E)-N-(7-hydroxy-5,6,7,8-tetrahydronaphthalen-1-yl)-3-(2-(piperidin-1-yl)-6-(trifluoromethyl)pyridin-3-yl)acrylamide], and characterized it in vitro. We then found that this drug is the most potent TRPV1 antagonist known to increase T(b) of rats and mice and showed (by using knock-out mice) that the entire hyperthermic effect of AMG0347 is TRPV1 dependent. AMG0347-induced hyperthermia was brought about by one or both of the two major autonomic cold-defense effector mechanisms (tail-skin vasoconstriction and/or thermogenesis), but it did not involve warmth-seeking behavior. The magnitude of the hyperthermic response depended on neither T(b) nor tail-skin temperature at the time of AMG0347 administration, thus indicating that AMG0347-induced hyperthermia results from blockade of tonic TRPV1 activation by nonthermal factors. AMG0347 was no more effective in causing hyperthermia when administered into the brain (intracerebroventricularly) or spinal cord (intrathecally) than when given systemically (intravenously), which indicates a peripheral site of action. We then established that localized intra-abdominal desensitization of TRPV1 channels with intraperitoneal resiniferatoxin blocks the T(b) response to systemic AMG0347; the extent of desensitization was determined by using a comprehensive battery of functional tests. We conclude that tonic activation of TRPV1 channels in the abdominal viscera by yet unidentified nonthermal factors inhibits skin vasoconstriction and thermogenesis, thus having a suppressive effect on T(b)."
+    },
+    {
+        "triples": [
+            "GG|PA|stomach cancer",
+            "AG|PA|stomach cancer",
+            "ADH1B|PA|stomach cancer",
+            "ADH1B|PA|Poland",
+            "ADH1B|PA|drinking",
+            "ADH1C|PA|stomach cancer",
+            "ADH1C|PA|Poland",
+            "ADH1C|PA|drinking",
+            "ALDH2|PA|stomach cancer",
+            "ALDH2|PA|Poland",
+            "ALDH2|PA|drinking",
+            "ALDH2 Ex1+82A>G|PA|drinks",
+            "ALDH2 Ex1+82A>G|PA|consumption",
+            "ALDH2 Ex1+82A>G|PA|stomach cancer",
+            "ALDH2 Ex1+82 G|PA|drinking",
+            "Ex8-56A>G|SA|stomach cancer",
+            "Ex6-14G>A|SA|stomach cancer",
+            "Ex1+82A>G|SA|stomach cancer",
+            "Ex9+5C>T|SA|stomach cancer",
+            "Ex3+23A>G|SA|stomach cancer",
+            "Ex3+58A>T|SA|stomach cancer",
+            "Ex9+77A>G|SA|stomach cancer"
+        ],
+        "sentence": "Genetic polymorphisms in alcohol metabolism, alcohol intake and the risk of stomach cancer in Warsaw, Poland. Genetic variations increasing blood levels of acetaldehyde, the first metabolite of alcohol, refrain their carriers from drinking alcohol but may also put them at increased risk of cancer because of the mutagenic and carcinogenic effect of acetaldehyde. In a population-based study of 305 cases and 428 controls in Warsaw, Poland, we evaluated the effect of polymorphisms in alcohol metabolizing genes, including ADH1B (Ex9+5C>T, Ex3+23A>G, Ex3+58A>T and Ex9+77A>G), ADH1C (Ex8-56A>G and Ex6-14G>A) and ALDH2 (Ex1+82A>G), on levels of alcohol drinking and susceptibility of stomach cancer. We found that among control subjects frequency of alcohol drinking varied by alcohol metabolizing genotype. In particular, the weekly consumption of individuals carrying the AA, GA and GG genotypes of ALDH2 Ex1+82A>G polymorphism were 3.75, 2.26 and 1.53 drinks, respectively (p=0.04). However, none of the assessed polymorphisms in these 3 genes had a measurable effect on stomach cancer risk. When stratified by ALDH2 Ex1+82A>G polymorphism, alcohol-related increases in stomach cancer risk were restricted to individuals with the AG/GG genotypes, with a more than 2-fold risk among daily drinkers (OR=2.63, 95% CI=1.00-6.88) and 3-fold risk (OR=3.66, 95% CI=1.19-11.24) among those with 40 or more drink-years. In summary, our results suggested that the ALDH2 Ex1+82 G allele may be functionally deficient in eliminating acetaldehyde and discourage alcohol drinking. Furthermore, heavy drinkers of alcohol who were genetically prone to accumulate acetaldehyde may face an increased risk of stomach cancer.CI - Copyright (c) 2007 Wiley-Liss, Inc."
+    },
+    {
+        "triples": [
+            "SV119|PA|sigma-2 receptor ligands",
+            "WC26|PA|sigma-2 receptor ligands"
+        ],
+        "sentence": "Selective sigma-2 ligands preferentially bind to pancreatic adenocarcinomas: applications in diagnostic imaging and therapy. BACKGROUND: Resistance to modern adjuvant treatment is in part due to the failure of programmed cell death. Therefore the molecules that execute the apoptotic program are potential targets for the development of anti-cancer therapeutics. The sigma-2 receptor has been found to be over-expressed in some types of malignant tumors, and, recently, small molecule ligands to the sigma-2 receptor were found to induce cancer cell apoptosis. RESULTS: The sigma-2 receptor was expressed at high levels in both human and murine pancreas cancer cell lines, with minimal or limited expression in normal tissues, including: brain, kidney, liver, lung, pancreas and spleen. Micro-PET imaging was used to demonstrate that the sigma-2 receptor was preferentially expressed in tumor as opposed to normal tissues in pancreas tumor allograft-bearing mice. Two structurally distinct sigma-2 receptor ligands, SV119 and WC26, were found to induce apoptosis to mice and human pancreatic cancer cells in vitro and in vivo. Sigma-2 receptor ligands induced apoptosis in a dose dependent fashion in all pancreatic cell lines tested. At the highest dose tested (10 muM), all sigma-2 receptor ligands induced 10-20% apoptosis in all pancreatic cancer cell lines tested (p < 0.05). In pancreas tumor allograft-bearing mice, a single bolus dose of WC26 caused approximately 50% apoptosis in the tumor compared to no appreciable apoptosis in tumor-bearing, vehicle-injected control animals (p < 0.0001). WC26 significantly slowed tumor growth after a 5 day treatment compared to vehicle-injected control animals (p < 0.0001) and blood chemistry panels suggested that there is minimal peripheral toxicity. CONCLUSION: We demonstrate a novel therapeutic strategy that induces a significant increase in pancreas cancer cell death. This strategy highlights a new potential target for the treatment of pancreas cancer, which has little in the way of effective treatments."
+    },
+    {
+        "triples": [
+            "Tibolone|PA|vasomotor symptoms",
+            "selective tissue estrogenic activity regulator|PA|vasomotor symptoms",
+            "tibolone|NA|tumor",
+            "tibolone|NA|ER+ breast tumors",
+            "estrogen receptor-positive |SA|ER+) primary breast cancer",
+            "tibolone|SA|Ki-67",
+            "tibolone|PA|ER+ breast tumors",
+            "tibolone|PA|breast cancer",
+            "Tibolone|PA|breast cancer",
+            "Tibolone|PA|carcinoma",
+            "tibolone|PA|ER+) primary breast cancer",
+            "tibolone|PA|tumor"
+        ],
+        "sentence": "Effect of tibolone on breast cancer cell proliferation in postmenopausal ER+ patients: results from STEM trial. PURPOSE: Tibolone is a selective tissue estrogenic activity regulator, approved for the treatment of vasomotor symptoms in postmenopausal women. We have done an exploratory, double-blind, randomized, placebo-controlled pilot trial to investigate the tissue-specific effects of 2.5 mg tibolone on breast cancer in postmenopausal women, in particular on tissue proliferation (STEM, Study of Tibolone Effects on Mamma carcinoma tissue). EXPERIMENTAL DESIGN: Postmenopausal women with initially stage I/II, estrogen receptor-positive (ER+) primary breast cancer, were randomly assigned to 14 days of placebo or 2.5 mg/d tibolone. Core biopsies of the primary tumor were obtained before and after treatment. Ki-67 and apoptosis index were analyzed in baseline and corresponding posttreatment specimen. RESULTS: Of 102 enrolled patients, 95 had evaluable data. Baseline characteristics were comparable between both treatment groups. Breast cancer cases are mainly invasive (99%), stage I or II (42% and 50% respectively), and ER+ (99%). Median intratumoral Ki-67 expression at baseline was 13.0% in the tibolone group and 17.8% in the placebo group, and decreased to 12.0% after 14 days of tibolone while increasing to 19.0% in the placebo group. This change from baseline was not significantly different between tibolone and placebo (Wilcoxon test; P=0.17). A significant difference was observed between the treatment groups when the median change from baseline apoptosis index was compared between the treatment groups (tibolone, 0.0%; placebo, +0.3%; Wilcoxon test; P=0.031). The incidence of adverse effects was comparable. CONCLUSIONS: In ER+ breast tumors, 2.5 mg/d tibolone given for 14 days has no significant effect on tumor cell proliferation."
+    },
+    {
+        "triples": [],
+        "sentence": "The histology of acute autochthonous hepatitis E virus infection. AIM: To document the histological appearances of liver biopsies in autochthonous hepatitis E virus (HEV) infection. METHODS AND RESULTS: Four patients were serologically positive for HEV; three had no traditional risk factors, the fourth had recently returned from China. All four consumed meat products. Liver histology of the three autochthonous (locally acquired) cases showed portal tracts expanded by a severe mixed polymorph and lymphocytic inflammatory infiltrate, with a geographical distribution of polymorphs at the interface and lymphocytes centrally. Moderate to severe interface hepatitis and cholangiolitis were present. There was a striking acinar mixed inflammatory infiltrate made up of polymorphs, lymphocytes and macrophages; frequent apoptotic hepatocytes, focal necrosis, cholestatic rosettes and zone 3 canalicular and cytoplasmic bilirubinostasis were noted. Significant steatosis, megamitochondria and Mallory bodies were not present. There was no evidence of iron, copper or alpha(1)-antitrypsin accumulation. By contrast, the histology of the imported case of HEV infection showed less intense portal and acinar inflammation, no cholangiolitis and no geographical distribution of the portal inflammatory infiltrate. CONCLUSION: The histological appearances of autochthonous HEV infection are sufficiently distinctive to consider the diagnosis in an acute setting and possibly to differentiate it from the endemic form of the disease."
+    },
+    {
+        "triples": [],
+        "sentence": "Delivery of microbicides to the vagina: difficulties reported with the use of three devices, adherence to use and preferences. PURPOSE: A crossover study was carried out in 405 couples to compare women's difficulties with three different devices that could be used to administer a microbicide and to evaluate adherence to use and preference for any one of the devices. METHODS: Couples used a single size diaphragm, a vaginal ring or disposable applicators for 1 month each in a randomly assigned order. RESULTS: Few women reported difficulty using the applicators or the ring; however, almost two-thirds reported difficulty using the diaphragm. Approximately 5%, 10% and 40% of the women and a similar but slightly lower percentage of their partners reported incorrect use of the applicator, vaginal ring and diaphragm, respectively. About half the women preferred the vaginal ring, while around half the men preferred the applicator. CONCLUSION: The release of microbicides from a vaginal ring is a lead worth pursuing. The diaphragm is the only one of the three devices that also offers mechanical protection, but it requires greater investment in patient education to ensure adherence to use."
+    },
+    {
+        "triples": [
+            "TGFBIp/betaig-h3|PA|adenocarcinoma",
+            "TGF-beta|PA|adenocarcinoma",
+            "TGFBIp/betaig-h3|PA|corneal dystrophy",
+            "TGFBIp/betaig-h3|SA|corneal dystrophy",
+            "TGFBIp/betaig-h3|SA|tumorigenesis",
+            "TGFBIp/betaig-h3|SA|nephropathies",
+            "TGFBIp/betaig-h3|SA|healing and inflammation",
+            "TGFBIp/betaig-h3|SA|angiogenesis",
+            "TGFBIp/betaig-h3|SA|osteogenesis",
+            "TGFBIp/betaig-h3|SA|morphogenesis",
+            "TGFBIp/betaig-h3|SA|extracellular matrix interactions",
+            "TGFBIp/betaig-h3|SA|adhesion"
+        ],
+        "sentence": "TGFBIp/betaig-h3 protein: a versatile matrix molecule induced by TGF-beta. TGFBIp/betaig-h3 protein is an extracellular matrix molecule initially cloned from human adenocarcinoma cells treated with TGF-beta. Its precise function remains obscure but a number of studies have demonstrated it to be an intriguingly versatile molecule role in a wide range of physiological and pathological conditions. To date, the most extensively studied and reported action of TGFBIp/betaig-h3 protein is in corneal dystrophy and several excellent reviews are available on this. Work from various laboratories on this molecule has compiled a tremendous amount of information over the past decade and a half. Here we review the current understanding on TGFBIp/betaig-h3 protein and its functions in morphogenesis, extracellular matrix interactions, adhesion/migration, corneal dystrophy, tumorigenesis, angiogenesis, nephropathies, osteogenesis, wound healing and inflammation."
+    },
+    {
+        "triples": [
+            "Intravenous delivery of cysteamine|PA|cystinosis",
+            "intravenous|PA|nephropathic cystinosis",
+            "intravenous|PA|severe gastrointestinal dysmotility",
+            "i.v.) administration of cysteamine hydrochloride|PA|nephropathic cystinosis",
+            "i.v.) administration of cysteamine hydrochloride|PA|severe gastrointestinal dysmotility",
+            "HCl|PA|nephropathic cystinosis",
+            "HCl|PA|severe gastrointestinal dysmotility",
+            "i.v. cysteamine|PA|nephropathic cystinosis",
+            "girl|PA|nephropathic cystinosis",
+            "Intravenous delivery of cysteamine|PA|hepatotoxicity"
+        ],
+        "sentence": "Intravenous delivery of cysteamine for the treatment of cystinosis: association with hepatotoxicity. Nephropathic cystinosis is a lysosomal storage disorder, which, if untreated, results in renal failure by age 10 years. Oral cysteamine has been shown to preserve renal function in these patients. In this study, a 2-year-old girl with nephropathic cystinosis and severe gastrointestinal dysmotility was treated with intravenous (i.v.) administration of cysteamine hydrochloride (HCl). This is only the second report of long-term i.v. cysteamine therapy for nephropathic cystinosis. Unlike the treatment in the previous case, however, treatment in our patient was limited by liver toxicity."
+    },
+    {
+        "triples": [
+            "antiepileptic drugs|PA|neural tube defects",
+            "antiepileptic drugs|PA|congenital malformations",
+            "antiepileptic drugs|PA|teratogenicity",
+            "ocular|PA|Fetal Valproate Syndrome"
+        ],
+        "sentence": "Early intervention for the ocular and neurodevelopmental sequelae of Fetal Valproate Syndrome. The established teratogenicity of antiepileptic drugs raises important issues in women of child-bearing age. While the association between neural tube defects and antiepileptic drugs is well recognised, other congenital malformations are known to occur. We report two siblings with characteristic craniofacial features of Fetal Valproate Syndrome who also had associated ocular and neurodevelopmental problems which would benefit from early recognition and intervention."
+    },
+    {
+        "triples": [
+            "Leptin|NA|hypothyroidism",
+            "leptin|PA|hypothyroid",
+            "leptin|SA|thyroid hormone deficiency"
+        ],
+        "sentence": "Circulating leptin levels are not influenced by thyroid status in hypothyroid and euthyroid women. OBJECTIVES: Leptin regulates body weight by suppressing food intake and increasing energy expenditure. Alterations in thyroid hormone levels are also associated with changes in body weight but the effect of thyroid hormone deficiency on serum leptin in humans is unclear. DESIGN AND METHODS: The aim of this study was to measure leptin levels and to investigate their associations with thyroid hormones in 22 women with severe hypothyroidism after total thyroidectomy, and in a group of 22 healthy euthyroid control female subjects matched for age and body mass index (BMI). Their plasma leptin, free thyroxine, triiodothyronine and TSH were measured. RESULTS: Leptin levels in subjects and controls were (pg/mL) 18761.64+/-16973.96 and 18729.19+/-18014.05, respectively, p=0.9; leptin did not correlate with free thyroxine, triiodothyroinine and TSH: r=0.1039 and p=0.6453, r=0.0113 and p=0.9602, and r=-0.0525 and p=0.8165 for leptin and FT4, leptin and FT3, and leptin and TSH, respectively in subjects; r=-0.00056 and p=0.9980, r=0.248727 and p=0.2643, and r=-0.046919 and p=0.8357 for leptin and FT4, leptin and FT3, and leptin and TSH, respectively in controls. Leptin levels did not differ between subjects and controls and they did not correlate with thyroid hormones. CONCLUSIONS: Leptin levels are not influenced by hypothyroidism and do not correlate with thyroid hormones in euthyroid and hypothyroid women."
+    },
+    {
+        "triples": [
+            "interferon|PA|human immunodeficiency virus/hepatitis C virus-coinfected",
+            "ribavirin|PA|human immunodeficiency virus/hepatitis C virus-coinfected",
+            "interferon|PA|anaemia",
+            "ribavirin|PA|anaemia",
+            "zidovudine|PA|anaemia",
+            "protease inhibitor|PA|anaemia",
+            "Zidovudine|PA|anaemia",
+            "peg-IFN|PA|anaemia",
+            "anti-HCV therapy|PA|anaemia",
+            "interferon|PA|anaemia",
+            "interferon|PA|hepatitis C",
+            "ribavirin|PA|anaemia",
+            "ribavirin|PA|hepatitis C",
+            "interferon alpha-2b|PA|anaemia",
+            "ribavirin|PA|anaemia",
+            "peg-IFN) alpha 2b|PA|anaemia",
+            "antiretroviral treatments|PA|HCV",
+            "antiretroviral therapy|PA|anaemia"
+        ],
+        "sentence": "Risk factors for anaemia in human immunodeficiency virus/hepatitis C virus-coinfected patients treated with interferon plus ribavirin. The most frequent and the most troublesome adverse effect of interferon plus ribavirin-based therapy is anaemia. The aim of this analysis was to determine the incidence and risk factors of anaemia (Hb < 10 g/dL) in human immunodeficiency virus/hepatitis C virus (HCV)-coinfected patients receiving anti-HCV therapy. We reviewed all cases of anaemia occurring among 416 patients participating in a randomized, controlled 48-week trial comparing peginterferon (peg-IFN) alpha 2b plus ribavirin with interferon alpha-2b plus ribavirin. Univariate and multivariate analyses were used to identify links with antiretroviral treatments, HCV therapy and clinical and laboratory findings. Sixty-one (15.9%) of the 383 patients who received at least one dose of anti-HCV treatment developed anaemia. In multivariate analysis the risk of anaemia was significantly associated with zidovudine (OR, 3.27 95% CI, 1.64-6.54, P = 0.0008) and peg-IFN (OR, 2.35; 95% CI, 1.16-4.57, P = 0.0179). The risk of anaemia was lower in patients with higher baseline haemoglobin levels (OR, 0.35 95% CI, 0.26-0.49, P < 0.0001) and in patients receiving protease inhibitor-based antiretroviral therapy (OR, 0.51 95% CI, 0.30-0.86, P = 0.0114). Zidovudine discontinuation could help to avoid anaemia associated with anti-HCV therapy."
+    },
+    {
+        "triples": [
+            "5HT3 antagonists|PA|CYP3A4",
+            "5HT3 antagonists|PA|CYP1A2",
+            "5HT3 antagonists|PA|2C9"
+        ],
+        "sentence": "The metabolism of the 5HT3 antagonists ondansetron, alosetron and GR87442 I: a comparison of in vitro and in vivo metabolism and in vitro enzyme kinetics in rat, dog and human hepatocytes, microsomes and recombinant human enzymes. The metabolism of the structurally related 5HT3 antagonists ondansetron, alosetron and GR87442 in the rat, dog and human was determined in hepatocytes, liver microsomes and human recombinant microsomes. The profiles of phase I metabolites were similar in human hepatocytes and microsomes. The metabolites of all three compounds produced in rat, dog and human microsomes and hepatocytes were similar to those seen in vivo, with the major routes of metabolism being N-dealkylation and/or hydroxylation. There was more extensive metabolic processing in hepatocytes than in microsomes; however, sequential metabolism was less extensive in vitro compared with in vivo. The pharmacokinetics of the three 5HT3 antagonists investigated were dominated by CYP3A4 (and/or 2C9) compared with CYP1A2 in man, possibly determined by enzyme capacity rather than relative enzyme affinity. These data support the use of rat, dog and human hepatocytes for the prediction of in vivo metabolites of ondansetron, alosetron and GR87442."
+    },
+    {
+        "triples": [
+            "methanol extract|PA|tumour"
+        ],
+        "sentence": "Cytotoxic cholestane and pregnane glycosides from Tribulus macropterus. The methanol extract of the whole parts of Tribulus macropterus Boiss. (family Zygophyllaceae) showed cytotoxic activity against a human tumour cell line (hepatocyte generation 2, HepG2) (IC50 = 2.9 microg/ml). The n-butanolic fraction obtained from successive fractionation of the methanolic extract exhibited activity against HepG2 (IC50 = 2.6 microg/ml). Therefore, this fraction was subjected to separation using different chromatographic techniques. Five compounds, 1-5, were isolated and identified as: (22S,25S)-16beta,22,26-trihydroxy-cholest-4-en-3-one-16-O-beta-D-glucopyranosyl-(1-->3)-beta-D-xylopyranoside (1), (22S,25S)-16beta,22,26-trihydroxy-cholest-4-en-3-one-16-O-beta-D-glucopyranosyl-(1-->3)-beta-D-glucopyranoside (2), sucrose (3), D-pinitol (4) and 3beta-hydroxy-5a-pregn-16(17)en-20-one-3-O-beta-D-xylopyranosyl-(1-->2)-[beta-D-xylopyranosyl-(1-->3)]-beta-D-glucopyranosyl-(1-->4)-[alpha-L-rhamnopyranosyl-(1-->2)]-beta-D-ga-lactopyranoside (5) on the basis of spectroscopic and chemical data. The three steroidal compounds 1, 2 and 5 were also tested against the same cell line HepG2 and their IC50 values were 2.4, 2.2 and 1.1 microg/ml, respectively."
+    },
+    {
+        "triples": [
+            "cisplatin|PA|tumoral cell lines",
+            "trans platinum compounds|PA|tumoral cell lines",
+            "Trans-platinum(II)|PA|tumour",
+            "expectator ligand|PA|tumour",
+            "trans platinum complexes|PA|cancer",
+            "trans-[PtCl2(cyclohexylamine)(dimethylamine)]|PA|cancer",
+            "trans-[PtCl2(OH)2(cyclohexylamine)(dimethylamine)]|PA|cancer",
+            "cytotoxic agents|PA|cancer"
+        ],
+        "sentence": "Trans-platinum(II) complexes with cyclohexylamine as expectator ligand induce necrosis in tumour cells by inhibiting DNA synthesis and RNA transcription. BACKGROUND: Enhanced removal of cisplatin-DNA adducts has been reported as one of main causes of cell resistance to cisplatin. This particular resistance mechanism may be circumvented by platinum complexes that bind differently to DNA. One line of work is focussed on trans platinum complexes, some of which exhibit antitumour activity similar to or even higher than that of their cis counterparts. METHODS: We synthesised new trans platinum complexes, trans-[PtCl2(cyclohexylamine)(dimethylamine)] and trans-[PtCl2(OH)2(cyclohexylamine)(dimethylamine)], previously evaluated as cytotoxic agents towards different cancer and normal cell lines. These trans platinum compounds were highly effective against a panel of tumoral cell lines either sensitive to or with acquired resistance to cisplatin. RESULTS: In the present work we examined the mechanisms induced by these compounds to cause tumour cells toxicity. We have found that these compounds induced a complete blockade at the S phase of the cell cycle inhibiting total mRNA transcription and precluding p53 activation. CONCLUSION: In contrast to other DNA-damaging agents, these compounds do not induce senescence-associated permanent arrest. Furthermore, only a small percentage of these cells enter into apoptosis, with most of the population dying by a necrosis-like mechanism."
+    },
+    {
+        "triples": [
+            "silver nitrate|PA|stomal bleeding",
+            "silver nitrate|PA|stomal varices secondary to portal hypertension",
+            "silver nitrate|PA|secondary"
+        ],
+        "sentence": "Stomal varices: a rare cause of stomal hemorrhage. A report of three cases. Stomal varices secondary to portal hypertension are a rare but potentially fatal cause of hemorrhage. Management, determined by the site of the bleeding, centers on preventing additional bleeds and may include providing local pressure, applying silver nitrate, injection sclerotherapy, suture ligation of the bleeding point, and/or the placement of transjugular intrahepatic portosystemic shunts and refashioning the stoma. Two patients (60- and 69-year-old women) had panproctocolectomy for inflammatory bowel disease and presented at the authors' hospital with bleeding from the ileostomy 1 and 19 years, respectively, following the creation of their stomas. A third patient (a 72-year-old man) bled from an end colostomy following an abdominoperineal resection for Duke's C rectal adenocarcinoma performed 3 years previous. All three patients had recurrent admissions for stomal bleeding and stomal varices secondary to portal hypertension and were initially treated with local measures (pressure, silver nitrate, and suture ligation). Two had undergone revision of their stomas prior to current treatment. One patient responded to local treatment but later died due to liver failure, one stopped bleeding after transjugular portosystemic shunt placement, and one died from metastatic cancer. Clinicians should maintain a high index of suspicion of stomal varices in patients with underlying liver disease who present with recurrent stomal bleeds and provide appropriate treatment to stop active bleeding and reduce portal venous pressure."
+    },
+    {
+        "triples": [],
+        "sentence": "Bim and Bcl-2 mutually affect the expression of the other in T cells. The life and death of T cells is controlled to a large extent by the relative amounts of Bcl-2-related proteins they contain. The antiapoptotic protein Bcl-2 and the proapoptotic protein Bim are particularly important in this process with the amount of Bcl-2 per cell dropping by about one-half when T cells prepare to die. In this study we show that Bcl-2 and Bim each control the expression of the other. Absence of Bim leads to a drop in the amount of intracellular Bcl-2 protein, while having no effect on the amounts of mRNA for Bcl-2. Conversely, high amounts of Bcl-2 per cell allow high amounts of Bim, although in this case the effect involves increases in Bim mRNA. These mutual effects occur even if Bcl-2 is induced acutely. Thus these two proteins control the expression of the other, at either the protein or mRNA level."
+    },
+    {
+        "triples": [
+            "NSAIDs|PA|PPARgamma",
+            "NSAID|PA|PPARgamma"
+        ],
+        "sentence": "Drug insight: effects mediated by peroxisome proliferator-activated receptor-gamma in CNS disorders. The finding that activation of peroxisome proliferator-activated receptor-gamma (PPARgamma) suppresses inflammation in peripheral macrophages and in models of human autoimmune disease instigated the evaluation of this salutary action for the treatment of CNS disorders with an inflammatory component. The fact that NSAIDs delay the onset of and reduce the risk of developing Alzheimer's disease (AD), while also binding to and activating PPARgamma, led to the hypothesis that one dimension of NSAID protection in AD is mediated by PPARgamma. Several lines of evidence from experiments using AD-related transgenic cellular and animal models have supported this hypothesis. The capacity of PPARgamma agonists to elicit anti-inflammatory, anti-amyloidogenic and insulin-sensitizing effects might account for their observed protective effects. Several clinical trials employing PPARgamma agonists have yielded promising results, and further trials are in preparation. Positive outcomes following PPARgamma administration have been obtained in animal models of other neurodegenerative diseases, including Parkinson's disease and amyotrophic lateral sclerosis, both of which are associated with a considerable degree of neuroinflammation. Finally, activation of PPARgamma has been found to be protective in several models of multiple sclerosis. The verification of these findings in human cells prompted the initiation of clinical studies evaluating PPARgamma activation in patients with multiple sclerosis."
+    },
+    {
+        "triples": [],
+        "sentence": "Identification of calponin 3 as a novel Smad-binding modulator of BMP signaling expressed in cartilage. Bone morphogenetic proteins (BMP) play a prominent role in cartilage tissue homeostasis and perturbations of BMP signaling contribute to pathological processes like osteoarthritis. The response to BMP is determined by intracellular proteins interacting with the signal mediators Smads 1 and 5. Applying the yeast two-hybrid technique we could identify the actin-binding protein calponin 3 as a novel Smad-binding protein expressed in chondrocytes. It interacted with Smads 1 and 5 and overexpression led to an attenuation of BMP-dependent transcription. Calponin 3 mRNA and protein were expressed in cartilage tissue and isolated chondrocytes and a slight, but statistically significant reduction of mRNA expression levels could be detected in osteoarthritic cartilage. Our results suggest a role of calponin 3 in the regulation of BMP-dependent cellular responses. By interaction with the Smad proteins 1 and 5 and the inhibition of BMP-induced transcription, calponin 3 provides a negative regulatory mechanism for the BMP signaling pathway. This inhibitory effect likely depends on a sequestration of the Smads to the cytoskeleton due to the actin-binding properties of calponin 3. The down-regulation of calponin 3 expression in osteoarthritic joints could contribute to the increased responsiveness to BMPs described previously. Furthermore, our data provide a possible explanation for the effect of the related protein calponin 1 on bone and cartilage development."
+    },
+    {
+        "triples": [],
+        "sentence": "PET tracers for 5-HT(1A) receptors and uses thereof. The serotonin 5-HT(1A) receptor is implicated in the pathophysiology of major neuropsychiatric disorders, including depression, suicidal behavior, panic disorder, epilepsy, bulimia, schizophrenia, Parkinson's disease, and Alzheimer's disease and is, therefore, an important target for drug therapy. 5-HT(1A) receptors are expressed as somatodendritic autoreceptors in serotonin neurons of the raphÃ© nuclei (presynaptic) and as postsynaptic receptors in cortical and subcortical serotonin terminal fields in the brain. Due to the higher concentration and heterogeneous distribution of this receptor, it is an attractive target for quantification in vivo using positron emission tomography (PET) and single photon emission tomography (SPECT). Here, we review the PET radioligands employed for imaging 5-HT(1A) receptors in living brain."
+    },
+    {
+        "triples": [],
+        "sentence": "Extension of GnRH agonist through the luteal phase to improve the outcome of intracytoplasmic sperm injection. OBJECTIVE: To investigate the effect of continuous administration of gonadotropin-releasing hormone agonist (GnRHa) during the luteal phase in an intracytoplasmic sperm injection program. STUDY DESIGN: One hundred eighty-one women underwent a down-regulation protocol of GnRHa administered from the 21st day of the preceding cycle. Patients were randomized at initiation of stimulation by a computer-generated list. Group 1 patients (n = 90) were continuously administered GnRHa for 12 days after embryo transfer, while in group 2 patients GnRHa was stopped on the day of human chorionic gonadotropin administration. RESULTS: Demographic parameters, infertility etiologies, number of gonadotropin ampules used, number of mature oocytes recovered, rates of testicular sperm usage, number of embryos transferred, and cycle and transfer cancellation rates were similar in both groups. Clinical pregnancy rates, implantation rates and live birth rates did not show a significant difference. CONCLUSION: Extending GnRHa treatment through the luteal phase appeared not to have a significant impact on pregnancy or implantation rates in intracytoplasmic sperm injection cycles."
+    },
+    {
+        "triples": [
+            "tsutsugamushi|PA|scrub typhus"
+        ],
+        "sentence": "Development of a real-time PCR assay for the diagnosis of scrub typhus cases in India and evidence of the prevalence of new genotype of O. tsutsugamushi. A qualitative syber green real-time PCR with primers designed for a truncated portion of the 56kDa major outer membrane antigen gene of Orientia tsutsugamushi was used to diagnose scrub typhus from the blood or serum of suspected patients. Sixty-six blood and/or sera samples from fever cases, either with high index of suspicion for scrub typhus and/or positive by Weil-Felix test (> or = 1:160), were tested with the PCR. Specificity of the PCR was confirmed by end point melt curve analysis and sequencing of the amplicons. A nested PCR for determination of the serotypes of O. tsutsugamushi was performed on to the samples. In real-time PCR strong positive fluorescence was obtained in 73% of the suspected samples. Serotype-specific PCR amplification of some of the positive samples was indicative of the Kuroki type whereas the rest were non-responsive to this test. Sequence analyses of PCR amplicons indicated the presence of new, previously undescribed type of O. tsutsugamushi in this region. This one-step real-time PCR can be used for the detection and confirmation of scrub typhus, when used independently or in conjunction with, the Weil-Felix test, which is still the only available detection test for scrub typhus in most parts of the developing world. Elaborate studies need to be taken up to further evaluate its suitability as specific molecular tool for the diagnosis of scrub typhus and to delineate the prevalent strain types in these regions for a clear epidemiological understanding of this emerging infectious disease."
+    },
+    {
+        "triples": [
+            "doxorubicin|PA|Topoisomerase IIbeta",
+            "doxorubicin|PA|gamma-H2AX",
+            "dexrazoxane|PA|gamma-H2AX",
+            "hydrogen peroxide|NA|gamma-H2AX",
+            "camptothecin|NA|gamma-H2AX",
+            "dexrazoxane|PA|Top2beta",
+            "doxorubicin|SA|Top2beta",
+            "dexrazoxane|PA|Top2beta",
+            "doxorubicin|PA|Top2beta",
+            "doxorubicin|PA|proteasome",
+            "Doxorubicin|PA|MEF",
+            "Doxorubicin|PA|Top2beta",
+            "bortezomib|PA|MEF",
+            "bortezomib|PA|Top2beta",
+            "doxorubicin|PA|Top2beta",
+            "dexrazoxane|SA|Topoisomerase IIbeta",
+            "hydrogen peroxide|PA|gamma-H2AX",
+            "camptothecin|PA|gamma-H2AX",
+            "Doxorubicin|PA|topoisomerase IIbeta",
+            "bortezomib|PA|topoisomerase IIbeta",
+            "MG132|PA|TOP2beta",
+            "MG132|PA|topoisomerase IIbeta",
+            "Doxorubicin|PA|proteasome",
+            "MG132|PA|proteasome",
+            "proteasome inhibitors|PA|proteasome",
+            "proteasome inhibitors|PA|topoisomerase IIbeta",
+            "proteasome inhibitors|PA|TOP2beta",
+            "bortezomib|PA|proteasome",
+            "doxorubicin|PA|Top2",
+            "dexrazoxane|PA|Top2"
+        ],
+        "sentence": "Topoisomerase IIbeta mediated DNA double-strand breaks: implications in doxorubicin cardiotoxicity and prevention by dexrazoxane. Doxorubicin is among the most effective and widely used anticancer drugs in the clinic. However, cardiotoxicity is one of the life-threatening side effects of doxorubicin-based therapy. Dexrazoxane (Zinecard, also known as ICRF-187) has been used in the clinic as a cardioprotectant against doxorubicin cardiotoxicity. The molecular basis for doxorubicin cardiotoxicity and the cardioprotective effect of dexrazoxane, however, is not fully understood. In the present study, we showed that dexrazoxane specifically abolished the DNA damage signal gamma-H2AX induced by doxorubicin, but not camptothecin or hydrogen peroxide, in H9C2 cardiomyocytes. Doxorubicin-induced DNA damage was also specifically abolished by the proteasome inhibitors bortezomib and MG132 and much reduced in top2beta(-/-) mouse embryonic fibroblasts (MEF) compared with TOP2beta(+/+) MEFs, suggesting the involvement of proteasome and DNA topoisomerase IIbeta (Top2beta). Furthermore, in addition to antagonizing Top2 cleavage complex formation, dexrazoxane also induced rapid degradation of Top2beta, which paralleled the reduction of doxorubicin-induced DNA damage. Together, our results suggest that dexrazoxane antagonizes doxorubicin-induced DNA damage through its interference with Top2beta, which could implicate Top2beta in doxorubicin cardiotoxicity. The specific involvement of proteasome and Top2beta in doxorubicin-induced DNA damage is consistent with a model in which proteasomal processing of doxorubicin-induced Top2beta-DNA covalent complexes exposes the Top2beta-concealed DNA double-strand breaks."
+    },
+    {
+        "triples": [
+            "statin|NA|ADMA",
+            "statin|PA|8-iso-PGF(2alpha)",
+            "sRAGE|PA|statin",
+            "atorvastatin|NA|ADMA",
+            "atorvastatin|PA|urinary 8-iso-PGF(2alpha)",
+            "statin|PA|urinary 8-iso-PGF(2alpha)",
+            "sRAGE|PA|atorvastatin",
+            "atorvastatin|PA|statin",
+            "statins|SA|RAGE",
+            "ADMA|SA|sRAGE",
+            "asymmetric dimethylarginine|SA|sRAGE",
+            "PGF(2alpha|PA|sRAGE",
+            "ADMA|PA|sRAGE",
+            "statin|PA|sRAGE",
+            "PGF(2alpha|PA|sRAGE",
+            "ADMA|PA|sRAGE",
+            "atorvastatin|PA|sRAGE",
+            "statin|PA|ADMA",
+            "statin|NA|ADMA"
+        ],
+        "sentence": "Decreased plasma soluble RAGE in patients with hypercholesterolemia: effects of statins. The receptor for advanced glycation endproducts (RAGE) is overexpressed at sites of vascular pathology. A soluble RAGE isoform (sRAGE) neutralizes the ligand-mediated damage by acting as a decoy. We hypothesized that in hypercholesterolemia up-regulation of the ligand-RAGE axis may bridge impairment of nitric oxide biosynthesis with oxidative stress. We measured in 60 hypercholesterolemic patients and 20 controls plasma total sRAGE levels, urinary 8-iso-prostaglandin (PG) F(2alpha) excretion, and plasma levels of asymmetric dimethylarginine (ADMA). The effects of two structurally different statins (pravastatin and atorvastatin) on these parameters were analyzed in 20 hypercholesterolemic subjects free of vascular disease. Plasma sRAGE was significantly lower, ADMA and urinary 8-iso-PGF(2alpha) were higher, in hypercholesterolemic versus normocholesterolemic patients. Patients on statin treatment with previous myocardial infarction had lower 8-iso-PGF(2alpha), higher sRAGE, and unchanged ADMA levels compared to subjects free of vascular disease. On multivariate regression analysis only 8-iso-PGF(2alpha) and ADMA predicted sRAGE levels. An 8-week treatment with either statin was associated with a significant reduction in urinary 8-iso-PGF(2alpha), whereas only atorvastatin raised sRAGE levels near to normal values, with no change in ADMA levels. sRAGE might serve as an endogenous protecting factor for accelerated atherosclerosis mediated by oxidative stress and endothelial dysfunction in hypercholesterolemia."
+    },
+    {
+        "triples": [
+            "Benzodiazepines|SA|neonatal morbidity",
+            "Benzodiazepines|SA|orofacial clefts",
+            "Benzodiazepines|SA|congenital malformations",
+            "BZD|SA|neonatal morbidity",
+            "BZD|SA|orofacial clefts",
+            "BZD|SA|congenital malformations",
+            "BZD|SA|preterm birth",
+            "HBRA|SA|preterm birth",
+            "BZD|PA|low birth weight",
+            "benzodiazepines|PA|congenital malformations",
+            "benzodiazepine receptor agonists|PA|congenital malformations",
+            "BZD|NA|congenital malformations",
+            "BZD|NA|congenital malformations",
+            "HBRA|NA|congenital malformations",
+            "BZD|NA|malformation",
+            "HBRA|NA|malformation",
+            "BZD|PA|symptoms",
+            "HBRA|PA|low birth weight",
+            "HBRA|PA|symptoms"
+        ],
+        "sentence": "Use of benzodiazepines and benzodiazepine receptor agonists during pregnancy: neonatal outcome and congenital malformations. BACKGROUND: Exposure to Benzodiazepines (BZD) during foetal life has been suggested to contribute to neonatal morbidity and some congenital malformations, for example, orofacial clefts. Here we aimed to study the neonatal outcome and congenital malformations in neonates whose mothers reported use of BZD and/or hypnotic benzodiazepine receptor agonists (HBRA) during pregnancy. METHODS: In the Swedish Medical Birth Register we identified 1979 infants whose mothers (n = 1944) reported use of BZD and/or HBRA in early pregnancy. An additional 401 infants were studied, born to 390 mothers who were prescribed such drugs during late pregnancy. Neonatal outcome including congenital malformations after exposure was compared with that of all births (n = 873 879). RESULTS: An increased risk for preterm birth and low birth weight was detected in the exposed population. The rate of relatively major congenital malformations was moderately increased among infants exposed in early pregnancy (adjusted OR = 1.24, 95%CI 1.00-1.55), not explained by known teratogenic maternal co-medication. A higher than expected number of infants with pylorostenosis or alimentary tract atresia (especially small gut) was found. This was, however, based on only seven infants for each group of malformation without association to any specific BZD or HBRA. The earlier proposed increased risk for orofacial clefts was not confirmed in our study. CONCLUSIONS: Maternal use of BZD and/or HBRA may increase the risk for preterm birth and low birth weight and cause neonatal symptoms, but does not appear to have a strong teratogenic potential. The tentative association with pylorostenosis and alimentary tract atresia needs confirmation."
+    },
+    {
+        "triples": [
+            "oral contraceptives|PA|thrombotic",
+            "oral contraceptives|PA|venous thrombosis",
+            "oral contraceptives|PA|Obese",
+            "oral contraceptives|PA|obesity"
+        ],
+        "sentence": "Risk of venous thrombosis: obesity and its joint effect with oral contraceptive use and prothrombotic mutations. In the Multiple Environmental and Genetic Assessment of risk factors for venous thrombosis (MEGA study), body weight, height and body mass index (BMI) were evaluated as risk factors. Additionally, the joint effect of obesity together with oral contraceptive use and prothrombotic mutations on the risk of venous thrombosis were analysed. Three-thousand eight-hundred and thirty-four patients with a first venous thrombosis and 4683 control subjects were included, all non-pregnant and without active malignancies. Relative to those with a normal BMI (<25 kg/m(2)), overweight (BMI > or = 25 and BMI < 30 kg/m(2)) increased the risk of venous thrombosis 1.7-fold [odds ratio (OR)(adj(age and sex)) 1.70, 95% confidence interval (CI) 1.55-1.87] and obesity (BMI > or = 30 kg/m(2)) 2.4-fold (OR(adj) 2.44, 95% CI 2.15-2.78). An increase in body weight and body height also individually increased thrombotic risk. Obese women who used oral contraceptives had a 24-fold higher thrombotic risk (OR(adj) 23.78, 95% CI 13.35-42.34) than women with a normal BMI who did not use oral contraceptives. Relative to non-carriers of normal BMI, the joint effect of factor V Leiden and obesity led to a 7.9-fold increased risk (OR(adj) 7.86, 95% CI 4.70-13.15); for prothrombin 20210A this was a 6.6-fold increased risk (OR(adj) 6.58, 95% CI 2.31-18.69). Body height, weight and obesity increase the risk of venous thrombosis, especially obesity in women using oral contraceptives."
+    },
+    {
+        "triples": [
+            "Hypomorphic CEP290/NPHP6 mutations|PA|anosmia",
+            "G proteins|PA|anosmia",
+            "cilia-centrosomal protein|PA|Joubert",
+            "cilia-centrosomal protein|PA|Meckel syndromes",
+            "hypomorphic mutations|PA|LCA",
+            "hypomorphic mutations|PA|Leber congenital amaurosis",
+            "CEP290/NPHP6|PA|Joubert",
+            "CEP290/NPHP6|PA|Meckel syndromes",
+            "CEP290|PA|anosmic",
+            "CEP290|PA|CEP290-LCA patients",
+            "NPHP6|PA|Hypomorphic CEP290/NPHP6 mutations",
+            "NPHP6|PA|anosmia",
+            "CEP290/NPHP6|PA|hypomorphic mutations",
+            "CEP290/NPHP6|PA|early-onset retinal dystrophy",
+            "LCA|PA|hypomorphic mutations",
+            "LCA|PA|Meckel syndromes",
+            "LCA|PA|early-onset retinal dystrophy",
+            "Leber congenital amaurosis|PA|hypomorphic mutations",
+            "Leber congenital amaurosis|PA|Meckel syndromes",
+            "Leber congenital amaurosis|PA|early-onset retinal dystrophy",
+            "CEP290|PA|mutations",
+            "rd16|PA|mutations",
+            "CEP290|PA|anosmia",
+            "CEP290/NPHP6|PA|LCA",
+            "CEP290/NPHP6|PA|Leber congenital amaurosis",
+            "CEP290-LCA patients|PA|LCA",
+            "CEP290-LCA patients|PA|LCA",
+            "CEP290-LCA patients|PA|retinal dystrophy",
+            "rd16|PA|CEP290-LCA patients"
+        ],
+        "sentence": "Hypomorphic CEP290/NPHP6 mutations result in anosmia caused by the selective loss of G proteins in cilia of olfactory sensory neurons. Cilia regulate diverse functions such as motility, fluid balance, and sensory perception. The cilia of olfactory sensory neurons (OSNs) compartmentalize the signaling proteins necessary for odor detection; however, little is known regarding the mechanisms of protein sorting/entry into olfactory cilia. Nephrocystins are a family of ciliary proteins likely involved in cargo sorting during transport from the basal body to the ciliary axoneme. In humans, loss-of-function of the cilia-centrosomal protein CEP290/NPHP6 is associated with Joubert and Meckel syndromes, whereas hypomorphic mutations result in Leber congenital amaurosis (LCA), a form of early-onset retinal dystrophy. Here, we report that CEP290-LCA patients exhibit severely abnormal olfactory function. In a mouse model with hypomorphic mutations in CEP290 [retinal dystrophy-16 mice (rd16)], electro-olfactogram recordings revealed an anosmic phenotype analogous to that of CEP290-LCA patients. Despite the loss of olfactory function, cilia of OSNs remained intact in the rd16 mice. As in wild type, CEP290 localized to dendritic knobs of rd16 OSNs, where it was in complex with ciliary transport proteins and the olfactory G proteins G(olf) and Ggamma(13). Interestingly, we observed defective ciliary localization of G(olf) and Ggamma(13) but not of G protein-coupled odorant receptors or other components of the odorant signaling pathway in the rd16 OSNs. Our data implicate distinct mechanisms for ciliary transport of olfactory signaling proteins, with CEP290 being a key mediator involved in G protein trafficking. The assessment of olfactory function can, therefore, serve as a useful diagnostic tool for genetic screening of certain syndromic ciliary diseases."
+    },
+    {
+        "triples": [
+            "interleukin 22 receptor|PA|Chronic rhinosinusitis with nasal polyps",
+            "IL-22R1|PA|CRSsNP",
+            "IL-22R1|PA|recalcitrant CRSwNP",
+            "IL22R1|PA|recalcitrant CRSwNP",
+            "IL-22R1|SA|CRSwNP",
+            "IL-22R1|SA|CRSwNP",
+            "interleukin-22 receptor|PA|gastrointestinal tract inflammatory diseases",
+            "interleukin-22 receptor|PA|innate immune responses",
+            "CRS|PA|sinus",
+            "IL-22R1|SA|CRSwNP",
+            "IL22R1|PA|CRSsNP",
+            "IL22R1|NA|CRSsNP"
+        ],
+        "sentence": "Chronic rhinosinusitis with nasal polyps is associated with decreased expression of mucosal interleukin 22 receptor. INTRODUCTION: Chronic rhinosinusitis with nasal polyps (CRSwNP) is an inflammatory disorder of the sinonasal mucosa that is frequently associated with microbial colonization. Innate defense mechanisms at the mucosal surface are critical in protecting the host from airborne environmental pathogens. Recent studies of skin and gastrointestinal tract inflammatory diseases have shown that stimulation of the interleukin-22 receptor (IL-22R1) nonspecifically increases innate immune responses. The potential role of IL-22R1 in the pathogenesis of CRSwNP has never been explored. STUDY DESIGN: Prospective. METHODS: Nine controls and 19 subjects with CRS were prospectively enrolled prior to undergoing endoscopic sinus surgery. Nasal epithelial cells were cultured from surgically obtained ethmoid mucosa and IL-22R1 protein expression was examined via flow cytometry. RNA was extracted from whole mucosal samples and real-time polymerase chain reaction (PCR) was employed to determine expression of IL22 and IL-22R1. Subjects were followed for at least 6 months postoperative to assess for recurrence or persistence of polyps. RESULTS: Flow cytometry demonstrated the expression of IL-22R1 protein on the surface of cultured nasal epithelial cells. IL-22R1 mRNA was expressed in 100% of the controls and CRSsNP. However, IL-22R1 was only expressed in 55% of patients with recalcitrant CRSwNP. Additionally, levels of IL22R1 were significantly lower in recalcitrant CRSwNP compared to controls and CRSsNP. IL22 levels did not reach statistical significance. CONCLUSIONS: In this study, we demonstrate IL-22R1 mRNA and protein expression on nasal epithelial cells. Failure of medical and surgical therapy in CRSwNP is associated with significantly decreased expression of IL-22R1. Further research is needed to determine the potential of IL-22R1 as a therapeutic target in CRSwNP."
+    },
+    {
+        "triples": [
+            "contrast-induced acute kidney injury|PA|contrast-induced acute kidney injury",
+            "Contrast-induced nephropathy|PA|Contrast-induced nephropathy",
+            "Contrast-induced nephropathy|PA|acute kidney injury",
+            "Contrast-induced nephropathy|PA|CIN"
+        ],
+        "sentence": "HOpe for contrast-induced acute kidney injury. Contrast-induced nephropathy (CIN) is a common cause of acute kidney injury in hospitalized patients. The mechanisms involved in the pathogenesis of CIN are incompletely understood. Goodman et al. have demonstrated for the first time that heme oxygenase-1, a 32-kilodalton protein with antioxidant, antiapoptotic, anti-inflammatory effects, is induced in the kidney and, importantly, provides a beneficial effect in CIN."
+    },
+    {
+        "triples": [
+            "dopamine|PA|D(3) dopamine receptors",
+            "dopamine|PA|dopamine transporter",
+            "[(3)H]dopamine|PA|D3 receptors",
+            "dopamine|PA|D3 receptors",
+            "dopamine transporter|PA|D3 receptor",
+            "ASP(+)|PA|dopamine",
+            "ASP(+)|PA|D3 receptors",
+            "ASP(+)|PA|dopamine transporter",
+            "quinpirole|PA|D3 receptors",
+            "quinpirole|PA|dopamine transporter",
+            "quinpirole|PA|ASP(+)",
+            "D2/D3 agonist|PA|ASP(+)",
+            "pertussis|PA|ASP(+)"
+        ],
+        "sentence": "Regulation of dopamine transporter function and cell surface expression by D3 dopamine receptors. D(3) dopamine receptors are expressed by dopamine neurons and are implicated in the modulation of presynaptic dopamine neurotransmission. The mechanisms underlying this modulation remain ill defined. The dopamine transporter, which terminates dopamine transmission via reuptake of released neurotransmitter, is regulated by receptor- and second messenger-linked signaling pathways. Whether D3 receptors regulate dopamine transporter function is unknown. We addressed this issue using a fluorescent imaging technique that permits real time quantification of dopamine transporter function in living single cells. Accumulation of the fluorescent dopamine transporter substrate trans-4-[4-(dimethylamino)styryl]-1-methylpyridinium (ASP(+)) in human embryonic kidney cells expressing human dopamine transporter was saturable and temperature-dependent. In cells co-expressing dopamine transporter and D3 receptors, the D2/D3 agonist quinpirole produced a rapid, concentration-dependent, and pertussis toxin-sensitive increase of ASP(+) uptake. Similar agonist effects were observed in Neuro2A cells and replicated in human embryonic kidney cells using a radioligand uptake assay in which binding to and activation of D3 receptors by [(3)H]dopamine was prevented. D3 receptor stimulation activated phosphoinositide 3-kinase and MAPK. Inhibition of either kinase prevented the quinpirole-induced increase in uptake. D3 receptor activation differentially affected dopamine transporter function and subcellular distribution depending on the duration of agonist exposure. Biotinylation experiments revealed that the rapid increase of uptake was associated with increased cell surface and decreased intracellular expression and increased dopamine transporter exocytosis. In contrast, prolonged agonist exposure reduced uptake and transporter cell surface expression. These results demonstrate that D3 receptors regulate dopamine transporter function and identify a novel mechanism by which D3 receptors regulate extracellular dopamine concentrations."
+    },
+    {
+        "triples": [
+            "23c|PA|mGluR1",
+            "23e|PA|mGluR1"
+        ],
+        "sentence": "Discovery of orally efficacious tetracyclic metabotropic glutamate receptor 1 (mGluR1) antagonists for the treatment of chronic pain. Metabotropic glutamate receptor 1 (mGluR1) plays important roles in the neurotransmission and pathogenesis of several neurological disorders, including chronic pain. Antagonists of mGlur1 are suggested to be useful for the treatment of pain. Herein, we report the discovery of a novel series of tetracyclic mGluR1 antagonists, such as 23c and 23e, with oral efficacy of ED50 of 8 and 5.1 mg/kg, respectively, in rat spinal nerve ligation neuropathic pain model."
+    },
+    {
+        "triples": [],
+        "sentence": "Trends in hospitalizations for anaphylaxis, angioedema, and urticaria in Australia, 1993-1994 to 2004-2005. BACKGROUND: Recent investigations in developed countries have found marked increases in the prevalence of allergic conditions. OBJECTIVE: We sought to examine recent time trends in the prevalence of anaphylaxis, angioedema, and urticaria by describing trends and age and sex differentials in hospitalizations for these conditions in Australia. METHODS: Data on hospital admissions and deaths for anaphylaxis, angioedema, and urticaria were extracted for the periods 1993-1994 to 2004-2005 and 1997-2004, respectively. For hospital admissions, age-standardized rates were calculated. Time trends and sex differences were quantified by using negative binomial models. RESULTS: During the study period, there was a continuous increase in the rate of hospital admissions for angioedema (3.0% per year), urticaria (5.7% per year), and, most notably, anaphylaxis (8.8% per year). There was a particularly steep increase in the incidence of hospitalization for food-related anaphylaxis among children aged less than 5 years. Admissions for non-food-related anaphylaxis occurred predominantly in adults, particularly those more than 35 years of age. Among children, admission rates were higher in boys, but the sex difference was reversed among adults. Over an 8-year period, there were 106 deaths associated with anaphylaxis or angioedema. CONCLUSION: Hospitalization rates for allergic conditions are on the increase, but the nature and causative factors differ between adults and children. The relation of these changes to those in the prevalence of specific allergen sensitization in the community requires further investigation in population studies. CLINICAL IMPLICATIONS: Among older persons, angioedema is becoming an increasing problem. Among children, hospitalization because of food-induced anaphylaxis is a growing concern."
+    },
+    {
+        "triples": [
+            "doxorubicin|PA|ABCG2 drug transporter",
+            "gefitinib|PA|EGFR",
+            "gefitinib|PA|EGFR",
+            "doxorubicin|PA|ABCG2 drug transporter",
+            "gefitinib|PA|EGFR",
+            "doxorubicin|PA|EGFR",
+            "doxorubicin|SA|ABCG2",
+            "Gefitinib|PA|ABCG2",
+            "doxorubicin|PA|ABCG2",
+            "gefitinib|PA|ABCG2",
+            "gefitinib|PA|EGFR small molecule inhibitor",
+            "doxorubicin hydrochloride|PA|ABCG2",
+            "doxorubicin hydrochloride|PA|EGFR small molecule inhibitor",
+            "gefitinib|PA|ABCG2 drug transporter",
+            "doxorubicin|PA|ABCG2",
+            "gefitinib|PA|ABCG2 drug transporter",
+            "doxorubicin|PA|EGFR",
+            "doxorubicin|PA|ABCG2",
+            "doxorubicin|PA|ARO",
+            "gefitinib|SA|breast cancer resistance protein ABCG2/BRCP1 drug transporter",
+            "doxorubicin hydrochloride|SA|breast cancer resistance protein ABCG2/BRCP1 drug transporter"
+        ],
+        "sentence": "Gefitinib inhibition of drug resistance to doxorubicin by inactivating ABCG2 in thyroid cancer cell lines. OBJECTIVE: To investigate the regulation of the breast cancer resistance protein ABCG2/BRCP1 drug transporter by epidermal growth factor receptor (EGFR) kinase activity, and to determine whether gefitinib, an EGFR small molecule inhibitor, will modulate the effects of doxorubicin hydrochloride by inhibiting its extrusion from thyroid cancer cells. DESIGN: Extrusion assays using flow cytometry analysis were used to determine the ability of thyroid cancer cells to extrude the chemotherapy drug, doxorubicin, via the ABCG2 drug transporter in the presence or absence of gefitinib. Immunofluorescence was employed to determine the cellular expression of ABCG2. The ABCG2 expression in ARO and WRO cell lines was analyzed by Western blot analysis. Inactivation of EGFR kinase by gefitinib was analyzed by Western blot analysis and immunofluorescence. A terminal deoxynucleotidyl transferase-mediated deoxyuridine triphosphate nick-end labeling assay was performed to demonstrate ABCG2-mediated apoptosis in the presence of doxorubicin. Colony formation assays were performed to determine the effect of gefitinib on thyroid cancer cell survival in response to gefitinib, doxorubicin, or the combination of both drugs. RESULTS: Inhibition of EGFR kinase activity by gefitinib causes the translocation of the ABCG2 drug transporter away from the plasma membrane, resulting in a concomitant decrease in doxorubicin extrusion in thyroid cancer cell lines. Both ARO and WRO demonstrated differential ABCG2 expression, whereas both were sensitized to doxorubicin-induced apoptosis on ABCG2 knockdown with short interfering RNA. The addition of gefitinib increases doxorubicin-induced cell death in thyroid cancer cells as measured by colony formation assay. CONCLUSIONS: Epidermal growth factor receptor regulates the function of the drug transporter ABCG2/BCRP1 and correlates with ABCG2 protein expression levels. Inactivation of the EGFR kinase by gefitinib potentiates the cytotoxic effect of doxorubicin in thyroid cancer, most likely by decreasing the ability of the cell to extrude doxorubicin. The expression of ABCG2 may explain in part the ineffectiveness of doxorubicin as a single modality treatment for anaplastic thyroid cancer or for treatment of metastatic follicular thyroid cancer. Use of this combination treatment of gefitinib and doxorubicin may be a promising therapy for anaplastic thyroid and metastatic follicular thyroid cancer and needs to be investigated further."
+    }
+]
